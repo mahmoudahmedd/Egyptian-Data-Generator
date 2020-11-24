@@ -23,6 +23,8 @@ Generate Egyptian realistic datasets in Python for testing &amp; simulating the 
 
 Suppose you need to generate Egyptian realistic datasets with 100,000 rows to simulate the customer base so it will be complicated because the lack of Egyptian data... Therefore this tool will help you.
 
+(All data are uniform distributed & You can make it related to each other e.g governorat and national id)
+
 The specification:
 
 * address
