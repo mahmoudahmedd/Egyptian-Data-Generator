@@ -1,0 +1,1551 @@
+{
+    "dakahlia": [
+        {
+            "postal_code": 35511,
+            "address": "Republic u / Mansoura",
+            "post_office": "Mansoura",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35512,
+            "address": "Railroad building Mitt racked / Mansoura",
+            "post_office": "Mitt racked",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35513,
+            "address": "Sidi Abdel Kader / Mansoura",
+            "post_office": "Fourth Najjar",
+            "lat": 31.0436164,
+            "lng": 31.3825965
+        },
+        {
+            "postal_code": 35514,
+            "address": "El Galaa / Mansoura",
+            "post_office": "Evacuation",
+            "lat": 31.0388888,
+            "lng": 31.3720472
+        },
+        {
+            "postal_code": 35515,
+            "address": "Market / Mansoura building",
+            "post_office": "Mansoura Wholesale Market",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35518,
+            "address": "Manor mind / Mansoura",
+            "post_office": "Manor mind",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35519,
+            "address": "Suez Canal St. Kafr Alibdmas / Mansoura",
+            "post_office": "Kafr Alibdmas",
+            "lat": 31.053577,
+            "lng": 31.397509
+        },
+        {
+            "postal_code": 35521,
+            "address": "St. Posta - Sandoub",
+            "post_office": "Sandoub",
+            "lat": 31.0187762,
+            "lng": 31.3893337
+        },
+        {
+            "postal_code": 35522,
+            "address": "Paradise / Mansoura housing",
+            "post_office": "Paradise city of Mansoura",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35523,
+            "address": "13 El cue the canal / Mansoura housing",
+            "post_office": "Cue",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35524,
+            "address": "Village Colngel / Mansoura",
+            "post_office": "Colngel",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35539,
+            "address": "Kafr El Mandara Wagga",
+            "post_office": "Kafr El Mandara",
+            "lat": 30.8552942,
+            "lng": 31.2583101
+        },
+        {
+            "postal_code": 35551,
+            "address": "Kafr Cracoh - Wagga Center",
+            "post_office": "Kafr Cracoh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 35571,
+            "address": "Village Nqath / Mansoura",
+            "post_office": "Nqath",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35573,
+            "address": "Kafr old Doan",
+            "post_office": "Old Kafr Badawi",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35574,
+            "address": "Center Sandoub",
+            "post_office": "Alencimah",
+            "lat": 31.0159828,
+            "lng": 31.38837109999999
+        },
+        {
+            "postal_code": 35579,
+            "address": "Kafr Abdelmoumen",
+            "post_office": "Kafr Abdelmoumen",
+            "lat": 31.08185,
+            "lng": 31.5127158
+        },
+        {
+            "postal_code": 35582,
+            "address": "Village Mat / talkha",
+            "post_office": "Carpet",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35583,
+            "address": "Hernqash",
+            "post_office": "Hernqash",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35584,
+            "address": "Village religion / Dakahlia",
+            "post_office": "Obese",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35585,
+            "address": "M .Mansoura - Dakahlia",
+            "post_office": "Mitt strict",
+            "lat": 31.0466262,
+            "lng": 31.3784145
+        },
+        {
+            "postal_code": 35611,
+            "address": "U railway / Ghamr",
+            "post_office": "Mitt immersion",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35612,
+            "address": "City Council building Ghamr",
+            "post_office": "Mitt immersion sub",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35613,
+            "address": "Central Building / Ghamr",
+            "post_office": "Central Ghamr",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35614,
+            "address": "Sntmay / Ghamr",
+            "post_office": "Sntmay",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35615,
+            "address": "Olalh village / Ghamr",
+            "post_office": "Olalh",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35616,
+            "address": "Mitt enhancer / Ghamr",
+            "post_office": "Mitt Mohsen",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35617,
+            "address": "Com light / Ghamr",
+            "post_office": "Com light",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35618,
+            "address": "Village Atmida / Ghamr",
+            "post_office": "Atmida",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35619,
+            "address": "Cultivars village / Ghamr",
+            "post_office": "Cultivars",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35621,
+            "address": "Damas village / Ghamr",
+            "post_office": "Damas",
+            "lat": 30.8068371,
+            "lng": 31.32472629999999
+        },
+        {
+            "postal_code": 35622,
+            "address": "Village Barhamtosh / Alsnellowin",
+            "post_office": "Barhamtosh",
+            "lat": 30.825378,
+            "lng": 31.3594127
+        },
+        {
+            "postal_code": 35623,
+            "address": "Village Dvados / Ghamr",
+            "post_office": "Dkados",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35624,
+            "address": "Village Dndat / Ghamr",
+            "post_office": "Dndat",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35625,
+            "address": "Mitt Faramawy / Ghamr",
+            "post_office": "Mitt Faramawy",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35626,
+            "address": "Village Grand Srjt / Ghamr",
+            "post_office": "Great Srjt",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35627,
+            "address": "Mit Abu Khalid / Ghamr",
+            "post_office": "Mit Abu Khalid",
+            "lat": 30.6425055,
+            "lng": 31.3301078
+        },
+        {
+            "postal_code": 35628,
+            "address": "Mitt live / dead immersion",
+            "post_office": "Mitt live",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35629,
+            "address": "Mitt Qurashi / Ghamr",
+            "post_office": "Mitt Qurashi",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35631,
+            "address": "El Teraa new Belqas",
+            "post_office": "Belqas",
+            "lat": 31.214418,
+            "lng": 31.3526706
+        },
+        {
+            "postal_code": 35632,
+            "address": "Belqas Center",
+            "post_office": "Belqas fifth",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35633,
+            "address": "Permittivity / Belqas village",
+            "post_office": "Great permittivity",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35634,
+            "address": "Acetobacter / Belqas village",
+            "post_office": "Acetobacter",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35635,
+            "address": "Village Algeria / Belqas",
+            "post_office": "Algeria",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35636,
+            "address": "Village Stamony / Belqas",
+            "post_office": "Asattamony",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35637,
+            "address": "Village Thoay / Alsnellowin",
+            "post_office": "Thoay",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35638,
+            "address": "Village Ahawamy / Belqas",
+            "post_office": "Ahawamy",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35639,
+            "address": "Presses Belqas / Belqas",
+            "post_office": "Presses Belqas",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35641,
+            "address": "Abu Dshichh village / Belqas",
+            "post_office": "Abu Dshichh",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35644,
+            "address": "Dear / downloaded village",
+            "post_office": "Dear",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35645,
+            "address": "Abu village green / status",
+            "post_office": "Abu green",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35648,
+            "address": "Village Alboha / Ghamr",
+            "post_office": "Alboha",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35649,
+            "address": "Village Tookh pens / Alsnellowin",
+            "post_office": "Tookh pens",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35651,
+            "address": "Alsnellowin / El Shaheed housing",
+            "post_office": "Alsnellowin",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35652,
+            "address": "Nob Zarif / Alsnellowin",
+            "post_office": "Nob Zarif",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35653,
+            "address": "Village Alhsaana / Alsnellowin",
+            "post_office": "Alhsaana",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35654,
+            "address": "Dead crow / Alsnellowin",
+            "post_office": "Dead crow",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35655,
+            "address": "Village Alblamon / Alsnellowin",
+            "post_office": "Alblamon",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35656,
+            "address": "Village of David bogs / Tami Amdid",
+            "post_office": "Abu Daoud bogs",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35657,
+            "address": "Village Shubra Shendi / Tami Amdid",
+            "post_office": "Hbrahandy",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35661,
+            "address": "U railway / Sherbeen Center",
+            "post_office": "Sherbeen",
+            "lat": 31.196768,
+            "lng": 31.5208814
+        },
+        {
+            "postal_code": 35662,
+            "address": "Village Lots / Sherbeen",
+            "post_office": "Quotas",
+            "lat": 31.196768,
+            "lng": 31.5208814
+        },
+        {
+            "postal_code": 35663,
+            "address": "Kafr Abu Zahir / Sherbeen",
+            "post_office": "Kafr Abu Zaher",
+            "lat": 31.2846269,
+            "lng": 31.497751
+        },
+        {
+            "postal_code": 35664,
+            "address": "Kafr El -Haj Sherbeen / Sherbeen",
+            "post_office": "Kafr El Haj Sherbeen",
+            "lat": 31.348325,
+            "lng": 31.5165085
+        },
+        {
+            "postal_code": 35665,
+            "address": "Village Dnjuay / Sherbeen",
+            "post_office": "Dnjuay",
+            "lat": 31.196768,
+            "lng": 31.5208814
+        },
+        {
+            "postal_code": 35668,
+            "address": "Psondelh village / Belqas Center",
+            "post_office": "Psondelh",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35669,
+            "address": "Ahmadi village Fotouh / Belqas",
+            "post_office": "Ahmadi Fotouh",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35671,
+            "address": "Mitt Kholi village believer / Monia victory",
+            "post_office": "Mitt Kholi believer",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35672,
+            "address": "Pensions / Monia victory",
+            "post_office": "Pensions Monia victory",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35673,
+            "address": "Aldraxh Village / Port victory",
+            "post_office": "Aldraxh",
+            "lat": 31.1183627,
+            "lng": 31.6414565
+        },
+        {
+            "postal_code": 35674,
+            "address": "Abajlat / Monia Nassr",
+            "post_office": "Abajlat",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35675,
+            "address": "St. Posta Monia victory",
+            "post_office": "Monia victory",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35676,
+            "address": "Kafr el-Sheikh Attiya / Sherbeen",
+            "post_office": "Kafr el Sheikh Attia",
+            "lat": 31.2003826,
+            "lng": 31.60232469999999
+        },
+        {
+            "postal_code": 35677,
+            "address": "Village Clinical / Sherbeen",
+            "post_office": "Clinical",
+            "lat": 31.196768,
+            "lng": 31.5208814
+        },
+        {
+            "postal_code": 35678,
+            "address": "Kafr Ghannam / Alsnellowin",
+            "post_office": "Kafr Ghannam",
+            "lat": 30.8310137,
+            "lng": 31.56928
+        },
+        {
+            "postal_code": 35679,
+            "address": "Village Hbrahor / Alsnellowin",
+            "post_office": "Hbrahor",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35681,
+            "address": "Altwaby u / talkha",
+            "post_office": "Talkha",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35682,
+            "address": "Village fading / talkha",
+            "post_office": "Fading",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35683,
+            "address": "Village Darien / talkha",
+            "post_office": "Darien",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35684,
+            "address": "Village Demerah / talkha",
+            "post_office": "Demerah",
+            "lat": 31.1311024,
+            "lng": 31.3713164
+        },
+        {
+            "postal_code": 35685,
+            "address": "Nabarouh / talkha",
+            "post_office": "Nabarouh",
+            "lat": 31.0962181,
+            "lng": 31.2998279
+        },
+        {
+            "postal_code": 35686,
+            "address": "Good village starch / talkha",
+            "post_office": "Good starch",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35687,
+            "address": "Starch / talkha Center",
+            "post_office": "Starch",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35688,
+            "address": "Nasser / Talkha City",
+            "post_office": "Nasser _ Talkha City",
+            "lat": 31.0562053,
+            "lng": 31.3740505
+        },
+        {
+            "postal_code": 35689,
+            "address": "Leguminous / Mansoura village",
+            "post_office": "Leguminous",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35691,
+            "address": "Compost / talkha housing",
+            "post_office": "Compost City _ talkha",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35692,
+            "address": "Alsnellowin / manor Saqr",
+            "post_office": "Alsnellowin sub",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35693,
+            "address": "Kafr rock / Alsnellowin",
+            "post_office": "Rock Kafr",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 35694,
+            "address": "Monia victory",
+            "post_office": "Monia victory subsidiary",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35695,
+            "address": "Kafr Demerah new / talkha",
+            "post_office": "Kafr Demerah new",
+            "lat": 31.1311024,
+            "lng": 31.3713164
+        },
+        {
+            "postal_code": 35696,
+            "address": "Mitt Nagy / Ghamr",
+            "post_office": "Mitt Nagy",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35697,
+            "address": "El Mehey village / Tami Amdid",
+            "post_office": "El Mehey",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35698,
+            "address": "Ghazala village / Alsnellowin",
+            "post_office": "Deer",
+            "lat": 30.8828614,
+            "lng": 31.4599012
+        },
+        {
+            "postal_code": 35699,
+            "address": "Kafr Sranja / Ghamr",
+            "post_office": "Kafr Sranja",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35711,
+            "address": "Village Awih stone / Mansoura",
+            "post_office": "Awih stone",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35712,
+            "address": "Resort Gamasa",
+            "post_office": "Resort Gamasa",
+            "lat": 31.4463188,
+            "lng": 31.5342315
+        },
+        {
+            "postal_code": 35713,
+            "address": "Sambo shrine / Ghamr",
+            "post_office": "Sambo shrine",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35714,
+            "address": "Mitt karma / talkha",
+            "post_office": "Mitt karma",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35715,
+            "address": "Mitt Antar / talkha",
+            "post_office": "Mitt Antar",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35716,
+            "address": "Long village / talkha",
+            "post_office": "Long",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35717,
+            "address": "Village Dest / talkha",
+            "post_office": "Dest",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35718,
+            "address": "Gulf Header / Sherbeen Center",
+            "post_office": "Gulf station head",
+            "lat": 31.196768,
+            "lng": 31.5208814
+        },
+        {
+            "postal_code": 35719,
+            "address": "Gulf Header / Sherbeen Center",
+            "post_office": "Gulf country head",
+            "lat": 31.196768,
+            "lng": 31.5208814
+        },
+        {
+            "postal_code": 35721,
+            "address": "New Kvraltrah / Sherbeen",
+            "post_office": "New Kvraltrah",
+            "lat": 31.196768,
+            "lng": 31.5208814
+        },
+        {
+            "postal_code": 35722,
+            "address": "Old / Sherbeen Kvraltrah",
+            "post_office": "Old Kvraltrah",
+            "lat": 31.196768,
+            "lng": 31.5208814
+        },
+        {
+            "postal_code": 35723,
+            "address": "Village Albramn / Mansoura",
+            "post_office": "Albramn",
+            "lat": 31.1185114,
+            "lng": 31.4450045
+        },
+        {
+            "postal_code": 35724,
+            "address": "Village Tunaih / talkha",
+            "post_office": "Tunaih",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35725,
+            "address": "Village Badawi / Mansoura",
+            "post_office": "Badawi",
+            "lat": 31.0173214,
+            "lng": 31.3888823
+        },
+        {
+            "postal_code": 35726,
+            "address": "Kafr El Shenawy / Sherbeen",
+            "post_office": "Kafr El Shenawy",
+            "lat": 31.348325,
+            "lng": 31.5165085
+        },
+        {
+            "postal_code": 35727,
+            "address": "Ahadjaazh village / Tami Amdid",
+            "post_office": "Ahadjaazh",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35728,
+            "address": "Village Mat cream religion / Sherbeen",
+            "post_office": "Mat cream religion",
+            "lat": 31.196768,
+            "lng": 31.5208814
+        },
+        {
+            "postal_code": 35729,
+            "address": "Tammy Amdid / Bosta St.",
+            "post_office": "Tammy Amdid",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35731,
+            "address": "Village Quarter / Tami Amdid",
+            "post_office": "Quarter",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35732,
+            "address": "Village exhale / Tami Amdid",
+            "post_office": "Exhale",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35733,
+            "address": "The village of al-Bayda / Tami Amdid",
+            "post_office": "Beida",
+            "lat": 30.9445715,
+            "lng": 31.5655424
+        },
+        {
+            "postal_code": 35734,
+            "address": "Village honest / Tami Amdid",
+            "post_office": "Honest",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35735,
+            "address": "Village Talbanah / Mansoura",
+            "post_office": "Talbanah",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35736,
+            "address": "Village Grand Tnpol / Alsnellowin",
+            "post_office": "Great Tnpol",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35737,
+            "address": "Village Slamon cloth / Mansoura",
+            "post_office": "Slamon cloth",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35738,
+            "address": "Chha village / Mansoura Center",
+            "post_office": "Chha",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35739,
+            "address": "The village of Samara / Tami Amdid",
+            "post_office": "Smara",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35741,
+            "address": "City locality Dimna",
+            "post_office": "Dimna locality",
+            "lat": 31.0716433,
+            "lng": 31.493359
+        },
+        {
+            "postal_code": 35742,
+            "address": "Village Ridanih / Mansoura",
+            "post_office": "Ridanih",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35743,
+            "address": "Village Dmoh / Dekerness",
+            "post_office": "Dmoh",
+            "lat": 31.0857231,
+            "lng": 31.5888447
+        },
+        {
+            "postal_code": 35744,
+            "address": "St. Arabism Dekerness",
+            "post_office": "Dekerness",
+            "lat": 31.0857231,
+            "lng": 31.5888447
+        },
+        {
+            "postal_code": 35745,
+            "address": "Village Demclt / Dekerness",
+            "post_office": "Demclt",
+            "lat": 31.1077259,
+            "lng": 31.5084243
+        },
+        {
+            "postal_code": 35746,
+            "address": "Village Ashmoun pomegranate / Dekerness",
+            "post_office": "Ashmoun pomegranate",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 35747,
+            "address": "Mitt Asim / Monia victory",
+            "post_office": "Mitt Asim",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35748,
+            "address": "The village of Al-Rabiah / Dekerness",
+            "post_office": "Al Rabiah",
+            "lat": 31.0857231,
+            "lng": 31.5888447
+        },
+        {
+            "postal_code": 35749,
+            "address": "Abdul Rahman facility / Dekerness",
+            "post_office": "Abdul Rahman facility",
+            "lat": 31.1083533,
+            "lng": 31.7554078
+        },
+        {
+            "postal_code": 35751,
+            "address": "Mahmudiya / Dekerness",
+            "post_office": "Mahmudiya Dekerness",
+            "lat": 31.0857231,
+            "lng": 31.5888447
+        },
+        {
+            "postal_code": 35752,
+            "address": "New Village Bermbal / Monia victory",
+            "post_office": "New Bermbal",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35753,
+            "address": "Dekerness City",
+            "post_office": "Dekerness sub",
+            "lat": 31.0857231,
+            "lng": 31.5888447
+        },
+        {
+            "postal_code": 35754,
+            "address": "Bermbal old village / Monia victory",
+            "post_office": "Old Bermbal",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35755,
+            "address": "The village of El Geneina / Monia victory",
+            "post_office": "El Geneina",
+            "lat": 31.1051932,
+            "lng": 31.6899145
+        },
+        {
+            "postal_code": 35756,
+            "address": "Kurdish village / Monia victory",
+            "post_office": "Kurdish",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35757,
+            "address": "Kafr Kurdish / Monia victory",
+            "post_office": "Kafr Kurdish",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35758,
+            "address": "City Mitt Slsell",
+            "post_office": "Mitt Slsell",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35759,
+            "address": "New / downloaded disbelief",
+            "post_office": "New disbelief",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35761,
+            "address": "St. Great Mosque - aesthetic",
+            "post_office": "Aesthetic",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35762,
+            "address": "Nusa Gheit / Wagga",
+            "post_office": "Nusa Gheit",
+            "lat": 30.97386539999999,
+            "lng": 31.3255233
+        },
+        {
+            "postal_code": 35767,
+            "address": "Monia Samanoud / Wagga",
+            "post_office": "Monia Samanoud",
+            "lat": 30.9613826,
+            "lng": 31.24125949999999
+        },
+        {
+            "postal_code": 35773,
+            "address": "Village Akhtab / Wagga",
+            "post_office": "Akhtab",
+            "lat": 30.8413676,
+            "lng": 31.3142438
+        },
+        {
+            "postal_code": 35774,
+            "address": "Village Srjt Minor / Wagga",
+            "post_office": "Srjt Minor",
+            "lat": 30.8044182,
+            "lng": 31.2762013
+        },
+        {
+            "postal_code": 35775,
+            "address": "Village Beshla / Ghamr",
+            "post_office": "Beshla",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35776,
+            "address": "Kafr Bhidh / Ghamr",
+            "post_office": "Kafr Bhidh",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35777,
+            "address": "Mitt on / Mansoura",
+            "post_office": "Mitt on",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35778,
+            "address": "Peace / Dkrh Center facility",
+            "post_office": "Peace Facility",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35779,
+            "address": "Mitt Damsis / Wagga",
+            "post_office": "Mitt Damsis",
+            "lat": 30.8273141,
+            "lng": 31.2224336
+        },
+        {
+            "postal_code": 35781,
+            "address": "Hla village / Ghamr",
+            "post_office": "Hla",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35782,
+            "address": "Village Tunah / Mansoura",
+            "post_office": "Tunah",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35783,
+            "address": "Village Albhofrick / Wagga",
+            "post_office": "Albhofrick",
+            "lat": 30.9493333,
+            "lng": 31.3570968
+        },
+        {
+            "postal_code": 35784,
+            "address": "Mitt Knight / Brown Obaid",
+            "post_office": "Mitt Knight built Obaid",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35785,
+            "address": "St. Posta - Beni Obeid",
+            "post_office": "Built Obaid",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35786,
+            "address": "Mitt Sweden / Dekerness",
+            "post_office": "Mitt Sweden",
+            "lat": 31.043365,
+            "lng": 31.618684
+        },
+        {
+            "postal_code": 35787,
+            "address": "Mitt Zarif / Dekerness",
+            "post_office": "Mitt Zarif",
+            "lat": 31.0857231,
+            "lng": 31.5888447
+        },
+        {
+            "postal_code": 35788,
+            "address": "Nger and Mitt Shaddad / Dekerness",
+            "post_office": "Nger and Mitt Shaddad",
+            "lat": 31.0857231,
+            "lng": 31.5888447
+        },
+        {
+            "postal_code": 35789,
+            "address": "Abdel Moneim Sanad St. - rain city",
+            "post_office": "Rain",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35792,
+            "address": "Alihuth / downloaded village",
+            "post_office": "Alihuth",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35793,
+            "address": "Village Aasafira / rain",
+            "post_office": "Aasafira",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35794,
+            "address": "Village Boutrh / talkha Center",
+            "post_office": "Boutrh",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35795,
+            "address": "Village Salahat / Brown Obaid",
+            "post_office": "Salahat",
+            "lat": 31.0033946,
+            "lng": 31.6264255
+        },
+        {
+            "postal_code": 35796,
+            "address": "Monia Sandoub / Mansoura",
+            "post_office": "Monia Sandoub",
+            "lat": 31.0052348,
+            "lng": 31.3820128
+        },
+        {
+            "postal_code": 35797,
+            "address": "Village Haoh / Mansoura",
+            "post_office": "Haoh",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35811,
+            "address": "Kafr Pin / Sherbeen",
+            "post_office": "Kafr Pin",
+            "lat": 31.348325,
+            "lng": 31.5165085
+        },
+        {
+            "postal_code": 35812,
+            "address": "Optional / Mansoura village",
+            "post_office": "Optional",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35813,
+            "address": "Village Dnabaiq / Mansoura",
+            "post_office": "Aldnabaiq",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35814,
+            "address": "Mitt banter / Mansoura",
+            "post_office": "Mitt banter",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35815,
+            "address": "Mitt tonsil / Mansoura",
+            "post_office": "Mitt tonsil",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35816,
+            "address": "Mitt Mahmoud / Mansoura",
+            "post_office": "Mitt Mahmoud",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35817,
+            "address": "Village Ajawabr / Mitt Slsell",
+            "post_office": "Ajawabr",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35818,
+            "address": "Locality Anjaq / Sherbeen",
+            "post_office": "Locality Anjaq",
+            "lat": 31.196768,
+            "lng": 31.5208814
+        },
+        {
+            "postal_code": 35819,
+            "address": "Com Derby / Mansoura",
+            "post_office": "Com Derby",
+            "lat": 30.9580416,
+            "lng": 31.4441895
+        },
+        {
+            "postal_code": 35821,
+            "address": "Village pace / talkha",
+            "post_office": "Pace",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35822,
+            "address": "Village Tfhna supervision / Ghamr",
+            "post_office": "Tfhna supervision",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35823,
+            "address": "Mitt Grath / Alsnellowin",
+            "post_office": "Mitt Grath",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35824,
+            "address": "Village Ezz Tower / Mansoura",
+            "post_office": "Lightning splendor",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35826,
+            "address": "Kafr brave / Ghamr",
+            "post_office": "Kafr Miqdaam",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35827,
+            "address": "Facility Badawi / talkha",
+            "post_office": "Badawi facility",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35828,
+            "address": "Inevitable old Demerah / talkha",
+            "post_office": "Old Kafr Demerah",
+            "lat": 31.1311024,
+            "lng": 31.3713164
+        },
+        {
+            "postal_code": 35829,
+            "address": "Village kindergarten / talkha",
+            "post_office": "Kindergarten talkha",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35831,
+            "address": "Orman village / Alsnellowin",
+            "post_office": "Allarroman",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35832,
+            "address": "Village Alhver / Belqas",
+            "post_office": "Alhver and hope",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35833,
+            "address": "Village Bhidh / Ghamr",
+            "post_office": "Bhidh",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35834,
+            "address": "Mitt Kurds / Mansoura",
+            "post_office": "Mitt Kurds",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35835,
+            "address": "Union / Mitt Slsell village",
+            "post_office": "Union Village",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35836,
+            "address": "Village Banoub / Talkhh",
+            "post_office": "Banoub",
+            "lat": 31.0615173,
+            "lng": 31.2368819
+        },
+        {
+            "postal_code": 35837,
+            "address": "Village crown Ezz / Tami Amdid",
+            "post_office": "Crown of splendor",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35838,
+            "address": "Village Sllent / Mansoura",
+            "post_office": "Sllent",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35839,
+            "address": "Salka village / Mansoura",
+            "post_office": "Salka",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35841,
+            "address": "Kafr Agency / Sherbeen",
+            "post_office": "Kafr Agency",
+            "lat": 31.348325,
+            "lng": 31.5165085
+        },
+        {
+            "postal_code": 35842,
+            "address": "Mitt Khamis / Mansoura",
+            "post_office": "Mitt Khamis",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35843,
+            "address": "Abu Aqraamit / Alsnellowin village",
+            "post_office": "Abu Aqraamit",
+            "lat": 31.1018903,
+            "lng": 31.8066537
+        },
+        {
+            "postal_code": 35844,
+            "address": "Kafr Alahtbh / Sherbeen",
+            "post_office": "Kafr Alahtbh",
+            "lat": 31.348325,
+            "lng": 31.5165085
+        },
+        {
+            "postal_code": 35845,
+            "address": "Aldbonih village / Ghamr",
+            "post_office": "Aldbonih",
+            "lat": 30.7155199,
+            "lng": 31.2611585
+        },
+        {
+            "postal_code": 35848,
+            "address": "KFOR Albhattih - Mitt immersion",
+            "post_office": "KFOR Albhattih",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35849,
+            "address": "Fading Center",
+            "post_office": "Kafr fading",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35851,
+            "address": "Ginm Shata Monia Victory Center",
+            "post_office": "Ginm Shata",
+            "lat": 31.4121847,
+            "lng": 31.8659966
+        },
+        {
+            "postal_code": 35852,
+            "address": "Bnroh Center",
+            "post_office": "Kafr share",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35853,
+            "address": "Alsnellowin Center",
+            "post_office": "Ruzaiqi",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35854,
+            "address": "Saadia - Sherbeen Center",
+            "post_office": "Saadia Sherbeen",
+            "lat": 31.196768,
+            "lng": 31.5208814
+        },
+        {
+            "postal_code": 35855,
+            "address": "Village Manial",
+            "post_office": "Manial",
+            "lat": 30.0213609,
+            "lng": 31.2268647
+        },
+        {
+            "postal_code": 35858,
+            "address": "Kafr long - talkha Center",
+            "post_office": "Kafr long",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35881,
+            "address": "Canned Belqas Center - Dakahlia",
+            "post_office": "Pitch",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35931,
+            "address": "Fir Center - Dakahlia",
+            "post_office": "Aldahrah Dakahlia",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 36811,
+            "address": "Alsafa village,tama alamdid",
+            "post_office": "alsafa",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 3661,
+            "address": "Qarqira - Senblawi",
+            "post_office": "Qarqira",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 36761,
+            "address": "Beqtares - Aga",
+            "post_office": "Beqtares",
+            "lat": 30.9420995,
+            "lng": 31.2924303
+        },
+        {
+            "postal_code": 35528,
+            "address": "Faculty of Islamic Studies - Mansoura - has not yet opened",
+            "post_office": "Faculty of Islamic Studies / Girls",
+            "lat": 31.0437878,
+            "lng": 31.3993637
+        },
+        {
+            "postal_code": 35871,
+            "address": "Manzala Center",
+            "post_office": "The Commissariat",
+            "lat": 31.1195391,
+            "lng": 31.9416226
+        },
+        {
+            "postal_code": 35915,
+            "address": "Meniet El Nasr Center",
+            "post_office": "Khudairy",
+            "lat": 31.11867729999999,
+            "lng": 31.6461289
+        },
+        {
+            "postal_code": 35882,
+            "address": "Oriental Press - Center Belqas",
+            "post_office": "Oriental Press",
+            "lat": 31.2164237,
+            "lng": 31.3605378
+        },
+        {
+            "postal_code": 35555,
+            "address": "Mansoura Center / Dakahlia",
+            "post_office": "Dead surgeon",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35859,
+            "address": "Center Talkha / Dakahlia",
+            "post_office": "An orphan",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35862,
+            "address": "Gouger - Talkha Center",
+            "post_office": "Gouger",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35992,
+            "address": "Drutin - Center Nabroh",
+            "post_office": "The Drutin",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 35993,
+            "address": "Kafr El Abhar - Nabroh Center",
+            "post_office": "Kafr El Abhar",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 35565,
+            "address": "New Halo - Mansoura Center",
+            "post_office": "New aura",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 35863,
+            "address": "Meet Zenqar - Talkha Center",
+            "post_office": "Meet Zainqar",
+            "lat": 31.0549151,
+            "lng": 31.380243
+        },
+        {
+            "postal_code": 35825,
+            "address": "Tijn building closed on 30/8/2008",
+            "post_office": "Mansoura Recruitment",
+            "lat": 31.1656044,
+            "lng": 31.4913182
+        },
+        {
+            "postal_code": 36751,
+            "address": "Brothers Center - Aga Center",
+            "post_office": "Brothers",
+            "lat": 30.9420995,
+            "lng": 31.2924303
+        }
+    ]
+}

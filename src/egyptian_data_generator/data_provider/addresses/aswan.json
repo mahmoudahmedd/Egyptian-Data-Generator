@@ -1,0 +1,1047 @@
+{
+    "aswan": [
+        {
+            "postal_code": 81511,
+            "address": "Cornbash Nile u / Aswan",
+            "post_office": "Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81641,
+            "address": "Railroad / Edfu Center station",
+            "post_office": "Edfu East",
+            "lat": 24.9779286,
+            "lng": 32.8733705
+        },
+        {
+            "postal_code": 81645,
+            "address": "Edfu tribal / Badfo",
+            "post_office": "Edfu tribal",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81614,
+            "address": "Okulait village next to the local unit / Kom Ombo Center",
+            "post_office": "Akulait",
+            "lat": 24.4521332,
+            "lng": 32.9284319
+        },
+        {
+            "postal_code": 81646,
+            "address": "Egypt Aswan u / Canal gray",
+            "post_office": "Albesalah",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81683,
+            "address": "Next to the local unit in the village of Aldjaafarh / Draw Center",
+            "post_office": "Aldjaafarh",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81712,
+            "address": "Khattara village / Aswan Center",
+            "post_office": "Khattara Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81718,
+            "address": "Local / Edfu Unity Center Building",
+            "post_office": "Alrdesah",
+            "lat": 24.9779286,
+            "lng": 32.8733705
+        },
+        {
+            "postal_code": 81647,
+            "address": "District Alhsaaa gray / Edfu Center",
+            "post_office": "Gray sea",
+            "lat": 24.1003304,
+            "lng": 32.9059035
+        },
+        {
+            "postal_code": 81722,
+            "address": "Next to the railway level crossing , Iron Edfu",
+            "post_office": "Seven East",
+            "lat": 24.9779286,
+            "lng": 32.8733705
+        },
+        {
+            "postal_code": 81648,
+            "address": "Nasr u / Aswan / Edfu Center",
+            "post_office": "Seven West",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81515,
+            "address": "Railway station waterfall / Aswan Center",
+            "post_office": "Waterfall",
+            "lat": 24.0997673,
+            "lng": 32.9022878
+        },
+        {
+            "postal_code": 81715,
+            "address": "District Alcajoj / next to the mosque / Kom Ombo",
+            "post_office": "Alcajoj",
+            "lat": 24.4521332,
+            "lng": 32.9284319
+        },
+        {
+            "postal_code": 81649,
+            "address": "District Alklh / Edfu",
+            "post_office": "Alklh",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81719,
+            "address": "District Mahamid Badfo",
+            "post_office": "Mahamid",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81615,
+            "address": "Naga district Mansuriya / Draw Center",
+            "post_office": "Mansuriya tribal",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81651,
+            "address": "Nag Alamuesat / Badfo",
+            "post_office": "Nag Alamuesat",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81632,
+            "address": "Banyan tribal village / Nile Corniche / Draw Center",
+            "post_office": "Npan tribal",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81516,
+            "address": "District Aswan Reservoir",
+            "post_office": "Aswan Reservoir",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81631,
+            "address": "Draw city",
+            "post_office": "Draw",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81716,
+            "address": "Salwa district / Kom Ombo Center",
+            "post_office": "Salwa",
+            "lat": 24.4698032,
+            "lng": 32.9381321
+        },
+        {
+            "postal_code": 81518,
+            "address": "West Nile district of Aswan / village west of Aswan",
+            "post_office": "West Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81611,
+            "address": "In Kom Ombo / next to the station",
+            "post_office": "Kom Ombo",
+            "lat": 24.4824667,
+            "lng": 32.9474616
+        },
+        {
+            "postal_code": 81653,
+            "address": "Alfozh village / Edfu Center",
+            "post_office": "Alfozh",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81519,
+            "address": "High Dam district east / Aswan Center",
+            "post_office": "High Dam east",
+            "lat": 23.970883,
+            "lng": 32.8772699
+        },
+        {
+            "postal_code": 81521,
+            "address": "High Dam West / Mrkzoswan",
+            "post_office": "High Dam West",
+            "lat": 23.970883,
+            "lng": 32.8772699
+        },
+        {
+            "postal_code": 81512,
+            "address": "National Party building in Aswan",
+            "post_office": "Aswan complex",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81654,
+            "address": "Tounnap village / Edfu Center",
+            "post_office": "Tounnap",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81714,
+            "address": "Within the local unit complex cancellation / Draw Center",
+            "post_office": "Write off",
+            "lat": 24.0932334,
+            "lng": 32.8915518
+        },
+        {
+            "postal_code": 81652,
+            "address": "Tribal district gray / Edfu Center",
+            "post_office": "Ramadi tribal",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81713,
+            "address": "Inside the campus of the local unit / Aswan",
+            "post_office": "Abu Rish sea",
+            "lat": 24.0994435,
+            "lng": 32.8989513
+        },
+        {
+            "postal_code": 81513,
+            "address": "The new district Torrent Aswan",
+            "post_office": "Torrent Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81717,
+            "address": "District Jafar Sadeq / Kom Ombo",
+            "post_office": "Jafar Sadeq",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81523,
+            "address": "Market trade in Aswan",
+            "post_office": "Caesarea Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81627,
+            "address": "In Kalabsha / m Nasr Nuba",
+            "post_office": "Kalabsha",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81612,
+            "address": "Next to the sugar factory in Kom Ombo",
+            "post_office": "Kom Ombo sub",
+            "lat": 24.4820469,
+            "lng": 32.9451757
+        },
+        {
+            "postal_code": 81721,
+            "address": "Reservation / Edfu",
+            "post_office": "Booking sea",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81522,
+            "address": "Shader Aswan",
+            "post_office": "East station",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81514,
+            "address": "Colony so / Aswan",
+            "post_office": "So Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81621,
+            "address": "Toshka village / Nasr Nuba Center",
+            "post_office": "Toshka",
+            "lat": 23.4325123,
+            "lng": 30.5969758
+        },
+        {
+            "postal_code": 81626,
+            "address": "Korth third district / Nasr Center",
+            "post_office": "Third Korth",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81624,
+            "address": "Nasr Nuba Center",
+            "post_office": "Nasr Nuba",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81525,
+            "address": "Badr St. / Aswan Center",
+            "post_office": "Abu Simbel tourist",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81517,
+            "address": "Central building in Aswan",
+            "post_office": "Central Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81623,
+            "address": "District Aprem / Nasralnobh Center",
+            "post_office": "Aprem",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81628,
+            "address": "District Deka / Nasr Nuba",
+            "post_office": "Deka",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81622,
+            "address": "Aniba district / Nasr Center",
+            "post_office": "Aniba",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81618,
+            "address": "Village Adndan / m Nasr Nuba",
+            "post_office": "Adndan",
+            "lat": 24.3879989,
+            "lng": 32.9719348
+        },
+        {
+            "postal_code": 81617,
+            "address": "Village Blana - M. Nasr Nuba",
+            "post_office": "Blana first",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81625,
+            "address": "Malky district / Nasr Nuba",
+            "post_office": "Malky",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81613,
+            "address": "KFOR district Kom Ombo / Kom Ombo Center",
+            "post_office": "KFOR Kom Ombo",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81642,
+            "address": "District and led Abadi / Edfu",
+            "post_office": "Valley Ebadi",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81643,
+            "address": "Alklh district east / Edfu",
+            "post_office": "Alklh East",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81616,
+            "address": "The new district Manshiya / Kom Ombo",
+            "post_office": "New Manshiya",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81619,
+            "address": "Qustul district and Thomas and wellness / Nasr",
+            "post_office": "Qustul and Thomas and wellness",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81629,
+            "address": "Knight / Kom Ombo Island",
+            "post_office": "Knight",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81524,
+            "address": "Village High Dam in Aswan",
+            "post_office": "High Dam station",
+            "lat": 23.970883,
+            "lng": 32.8772699
+        },
+        {
+            "postal_code": 81655,
+            "address": "Village heels / Aswan",
+            "post_office": "Stubs",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81636,
+            "address": "District of Abu Simbel displacement / Nasr Nuba",
+            "post_office": "Abu Simbel displacement",
+            "lat": 22.3460086,
+            "lng": 31.6156242
+        },
+        {
+            "postal_code": 81635,
+            "address": "District Abbasid / Kom Ombo",
+            "post_office": "Abbasid Kom Ombo",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81526,
+            "address": "District west Sohail Aswan",
+            "post_office": "West Suhail",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81638,
+            "address": "District Strait / Nasr Nuba",
+            "post_office": "Strait",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81634,
+            "address": "Hand Ermana / m Nasr Nuba",
+            "post_office": "Ermana",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81656,
+            "address": "District Alklh Nag Blitz Badfo",
+            "post_office": "Alklh West",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81659,
+            "address": "District architectural Badfo",
+            "post_office": "Architecture",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81658,
+            "address": "District Aghannimih / Aswan / Edfu",
+            "post_office": "Aghannimih Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81662,
+            "address": "Mail building in Edfu",
+            "post_office": "Hajir Edfu",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81729,
+            "address": "Nag Hilal / Badfo",
+            "post_office": "Nag Hilal",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81661,
+            "address": "District Upper Egyptians Admiral / Edfu",
+            "post_office": "Upper Egyptians sea",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81657,
+            "address": "Lake Aswan Village",
+            "post_office": "Lake Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81664,
+            "address": "District Alatamor / Kom Ombo",
+            "post_office": "Alatamor tribal",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81639,
+            "address": "District Allaqi / m Nasr",
+            "post_office": "Allaqi Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81527,
+            "address": "Behind Banzaioun / Aswan",
+            "post_office": "Aswan _ subsidiary",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81665,
+            "address": "Prefecture of his / Kom Ombo",
+            "post_office": "Time",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81724,
+            "address": "Salwa district / Kom Ombo",
+            "post_office": "Salwa tribal",
+            "lat": 24.4698032,
+            "lng": 32.9381321
+        },
+        {
+            "postal_code": 81666,
+            "address": "District Dhmat / Nasr Nuba",
+            "post_office": "Dhmat",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81667,
+            "address": "Houbara district / Edfu Center",
+            "post_office": "Houbara",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81668,
+            "address": "District Dabod / m Nasr Nuba",
+            "post_office": "Dabod",
+            "lat": 24.5703605,
+            "lng": 32.9481445
+        },
+        {
+            "postal_code": 81731,
+            "address": "District Alawyneh / Edfu",
+            "post_office": "Aweyna Aswan",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81669,
+            "address": "District Atwani / Edfu",
+            "post_office": "Atwani",
+            "lat": 25.0146053,
+            "lng": 32.8895726
+        },
+        {
+            "postal_code": 81671,
+            "address": "Seventy / Kom Ombo",
+            "post_office": "Seventy Kom Ombo",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81673,
+            "address": "District and led the Arabs Bnasralnobh",
+            "post_office": "Valley Arabs",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81672,
+            "address": "Npan Admiral / Draw",
+            "post_office": "Npan sea",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81725,
+            "address": "District Sharawna Badfo",
+            "post_office": "Sharawna Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81674,
+            "address": "District tourism / m Nasr Nuba",
+            "post_office": "Aswan tourism",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81675,
+            "address": "Edfu Center",
+            "post_office": "Edfu sub",
+            "lat": 24.9779286,
+            "lng": 32.8733705
+        },
+        {
+            "postal_code": 81726,
+            "address": "Sohail station / Aswan",
+            "post_office": "Sohail station",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81676,
+            "address": "District of Dar es Salaam / m Nasralnobh",
+            "post_office": "Dar es Salaam Nubian",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81677,
+            "address": "District Musmus / Nasr Nuba Center",
+            "post_office": "Musmus",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81534,
+            "address": "Aswan International Airport Terminal",
+            "post_office": "Aswan Airport",
+            "lat": 24.0932334,
+            "lng": 32.8915518
+        },
+        {
+            "postal_code": 81678,
+            "address": "District Dakkadik Badfo",
+            "post_office": "Dakkadik",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81684,
+            "address": "District public housing Buildings / Edfu",
+            "post_office": "Housing Cobeih_ Edfu",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81682,
+            "address": "Abu -Saad district / Edfu",
+            "post_office": "Abu Saad",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81528,
+            "address": "Inside the campus of the University of Aswan",
+            "post_office": "Aswan University",
+            "lat": 23.9965078,
+            "lng": 32.8599197
+        },
+        {
+            "postal_code": 81685,
+            "address": "The district of Abu my son / Edfu",
+            "post_office": "Abu my son",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81691,
+            "address": "Nag Lyons / Edfu",
+            "post_office": "Nag Lyons",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81689,
+            "address": "Toshka libel / Nasr Nuba Center",
+            "post_office": "Toshka East",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81688,
+            "address": "District Alfoalah / Edfu",
+            "post_office": "Alfoalah",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81692,
+            "address": "District neck / Draw",
+            "post_office": "Neck",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81694,
+            "address": "Nag structure / Draw",
+            "post_office": "Nag structure",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81693,
+            "address": "District Karnak / Edfu",
+            "post_office": "Karnak",
+            "lat": 25.7104402,
+            "lng": 32.6489675
+        },
+        {
+            "postal_code": 81728,
+            "address": "Nasiriyah district / Aswan",
+            "post_office": "Nasiriyah Aswan",
+            "lat": 24.0992473,
+            "lng": 32.9076653
+        },
+        {
+            "postal_code": 81727,
+            "address": "Alkopanjh West Nile in Aswan",
+            "post_office": "Alkopanjh",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81695,
+            "address": "District Sharawna Badfo sea",
+            "post_office": "Sharawna sea",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81733,
+            "address": "District and led Khrepett- Nasr Nuba",
+            "post_office": "Valley vandalized",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81732,
+            "address": "Behrev Aswan",
+            "post_office": "Behrev",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81529,
+            "address": "District Mount Taqouk / Aswan Center",
+            "post_office": "Mount Taqouk",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81734,
+            "address": "Bayyara / Kom Ombo",
+            "post_office": "Bayyara Kom Ombo",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81735,
+            "address": "District Almvalsh / Edfu",
+            "post_office": "Almvalsh Edfu",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81698,
+            "address": "Abu Hor / Nasr Nuba",
+            "post_office": "Abu Hor _ Kom Ombo",
+            "lat": 24.6362539,
+            "lng": 32.9395408
+        },
+        {
+            "postal_code": 81531,
+            "address": "District crore in Aswan",
+            "post_office": "Crore",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81736,
+            "address": "Nasr district in Aswan",
+            "post_office": "Chrisko",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81699,
+            "address": "Naga district Sayeh / Edfu",
+            "post_office": "Nag Sayeh",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81737,
+            "address": "Prince Cap / m Nasr Nuba",
+            "post_office": "Prince Cap",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81532,
+            "address": "Paradise / Aswan St.",
+            "post_office": "Paradise District",
+            "lat": 24.0901532,
+            "lng": 32.8909601
+        },
+        {
+            "postal_code": 81738,
+            "address": "District Alldid / Edfu",
+            "post_office": "Alldid",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81739,
+            "address": "District pie / Kom Ombo",
+            "post_office": "Pie",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81599,
+            "address": "District and led Alrdesah / Edfu",
+            "post_office": "Valley Alrdesah",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81741,
+            "address": "District magnanimity Badfo",
+            "post_office": "Magnanimity",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81535,
+            "address": "Abualhaggag district near Aswan Radio",
+            "post_office": "Sidi Abualhaggag",
+            "lat": 24.0822324,
+            "lng": 32.9047694
+        },
+        {
+            "postal_code": 81742,
+            "address": "District Almcarmeh / Edfu",
+            "post_office": "Alacarmeh",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81743,
+            "address": "District Ataiwash / Draw Center",
+            "post_office": "Ataiwash",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81536,
+            "address": "Cataract in Aswan / industrial city",
+            "post_office": "Industrial Complex",
+            "lat": 24.082221,
+            "lng": 32.8872717
+        },
+        {
+            "postal_code": 81538,
+            "address": "Mahmudiya Aswan / hand Mahmudiya",
+            "post_office": "Mahmudiya",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81745,
+            "address": "Village lattice / Edfu",
+            "post_office": "Lattice",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81751,
+            "address": "Seven district west / Edfu",
+            "post_office": "Seven turnpike",
+            "lat": 24.9779286,
+            "lng": 32.8733705
+        },
+        {
+            "postal_code": 81748,
+            "address": "Albesalah / Edfu Center",
+            "post_office": "Central Albesalah",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81749,
+            "address": "Mansuriya tribal / Kom Ombo village",
+            "post_office": "Or acid",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81746,
+            "address": "The village of Al-Zahra - Edfu",
+            "post_office": "Zahra Edfu",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81747,
+            "address": "Village Uqayba / Edfu",
+            "post_office": "Uqayba",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81753,
+            "address": "Central Neck Village / Draw",
+            "post_office": "Central neck",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81754,
+            "address": "Village Torrent / Aswan",
+            "post_office": "Albesaly",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81752,
+            "address": "Nagagerh village - Kom Ombo Center",
+            "post_office": "Nagagerh",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81542,
+            "address": "Albesaly / Kom Ombo",
+            "post_office": "College of Engineering _ Aswan",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81756,
+            "address": "Within the Faculty of Engineering / Aswan University building",
+            "post_office": "Creek tribal",
+            "lat": 24.1285829,
+            "lng": 32.89943
+        },
+        {
+            "postal_code": 81761,
+            "address": "Alrgamh Kom Ombo",
+            "post_office": "Alrgamh",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81755,
+            "address": "Hijazh / Kom Ombo",
+            "post_office": "Hijazh",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81757,
+            "address": "Creek tribal / Abbasid / Com Center Ombo",
+            "post_office": "Alatamor emerging",
+            "lat": 24.4698032,
+            "lng": 32.9381321
+        },
+        {
+            "postal_code": 81762,
+            "address": "Umm Salamah / Edfu",
+            "post_office": "Umm Salamah",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81541,
+            "address": "Sohail West Marine",
+            "post_office": "Sohail West Marine",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81763,
+            "address": "Asbaihgrb / Paswan",
+            "post_office": "Seven sub west",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81537,
+            "address": "Edfu / Aswan Center",
+            "post_office": "Rural Torrent",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81758,
+            "address": "Pensions / Edfu",
+            "post_office": "Pensions",
+            "lat": 24.9791623,
+            "lng": 32.875801
+        },
+        {
+            "postal_code": 81764,
+            "address": "Mail building Kom Ombo / Com Center Embu",
+            "post_office": "Continent",
+            "lat": 24.4789609,
+            "lng": 32.9461465
+        },
+        {
+            "postal_code": 81765,
+            "address": "Corniche El Nile St. in front of rowing / Aswan Club",
+            "post_office": "Alguenan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81533,
+            "address": "Channel Toshka / South Valley (has been frozen)",
+            "post_office": "Channel Toshka",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81771,
+            "address": "Kom Ombo Center",
+            "post_office": "Al Amal village (under construction)",
+            "lat": 24.4698032,
+            "lng": 32.9381321
+        },
+        {
+            "postal_code": 81545,
+            "address": "Aswan - Wadi Karkar",
+            "post_office": "Karkar Valley",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        },
+        {
+            "postal_code": 81911,
+            "address": "Mobile post office",
+            "post_office": "New Aswan",
+            "lat": 24.088938,
+            "lng": 32.8998293
+        }
+    ]
+}

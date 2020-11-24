@@ -1,0 +1,830 @@
+{
+    "kafr_el_sheikh": [
+        {
+            "postal_code": 33513,
+            "address": "Kafr Heik- split ring",
+            "post_office": "Zawawi Kafr El Sheikh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33514,
+            "address": "Kantara El Beida / Kafr El-Sheikh",
+            "post_office": "White Kantara",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33515,
+            "address": "Kafr Hamraoui / Kafr El-Sheikh",
+            "post_office": "Kafr Hamraoui",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33516,
+            "address": "Inside the campus of the College of Agriculture Kafr El-Sheikh",
+            "post_office": "Tanta University Kafr El Sheikh _ Branch",
+            "lat": 31.0977671,
+            "lng": 30.9506389
+        },
+        {
+            "postal_code": 33517,
+            "address": "Split u judges Kafr El-Sheikh",
+            "post_office": "Social Service Institute _ Kafr El Sheikh",
+            "lat": 31.0971729,
+            "lng": 30.947375
+        },
+        {
+            "postal_code": 33518,
+            "address": "Port Said / Kafr El-Sheikh Street",
+            "post_office": "Kafr el Sheikh Massai",
+            "lat": 31.2652893,
+            "lng": 32.3018661
+        },
+        {
+            "postal_code": 33611,
+            "address": "Desouk next to Central / Mecca District",
+            "post_office": "Desouk",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33612,
+            "address": "Desouk next to the Ibrahimi Mosque / Desouk",
+            "post_office": "Desouk second",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33613,
+            "address": "Young / Desouk",
+            "post_office": "Young",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33614,
+            "address": "The old people / Desouk",
+            "post_office": "The old people",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33615,
+            "address": "Chaabas salt / Desouk",
+            "post_office": "Chaabas salt",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33616,
+            "address": "Abu Mandoor / Desouk",
+            "post_office": "Abu Mandoor",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33617,
+            "address": "Abu locality on / Desouk",
+            "post_office": "Locality Abu Ali",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33618,
+            "address": "Locality Dieye / Desouk",
+            "post_office": "Locality Dieye",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33619,
+            "address": "Net / Desouk",
+            "post_office": "Net",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33621,
+            "address": "Salmiya / Vuh",
+            "post_office": "Salmiya",
+            "lat": 31.18780009999999,
+            "lng": 30.6142365
+        },
+        {
+            "postal_code": 33622,
+            "address": "Cyprat / Vuh",
+            "post_office": "Cyprat",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33623,
+            "address": "Vuh conquest Street / Vuh Center",
+            "post_office": "Second Vuh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33624,
+            "address": "Vuh Center / Center Street Vuh",
+            "post_office": "Vuh sub",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33625,
+            "address": "Port Said / u Motobas Center",
+            "post_office": "Motobas",
+            "lat": 31.2652893,
+            "lng": 32.3018661
+        },
+        {
+            "postal_code": 33626,
+            "address": "Bermbal / Motobas",
+            "post_office": "Bermbal",
+            "lat": 31.2946085,
+            "lng": 30.5245932
+        },
+        {
+            "postal_code": 33627,
+            "address": "Green Island / Motobas",
+            "post_office": "Green Island",
+            "lat": 31.2502062,
+            "lng": 30.5101162
+        },
+        {
+            "postal_code": 33628,
+            "address": "Monia Leader Motobas",
+            "post_office": "Monia Leader",
+            "lat": 31.2502062,
+            "lng": 30.5101162
+        },
+        {
+            "postal_code": 33629,
+            "address": "Azab Alqomcion / Motobas",
+            "post_office": "Azab Alqomcion",
+            "lat": 31.2502062,
+            "lng": 30.5101162
+        },
+        {
+            "postal_code": 33631,
+            "address": "Abu booty / Sidi Salem",
+            "post_office": "Abu booty",
+            "lat": 31.269268,
+            "lng": 30.7873001
+        },
+        {
+            "postal_code": 33632,
+            "address": "Village Dam Khamis / Sidi Salem",
+            "post_office": "Khamis Dam",
+            "lat": 31.269268,
+            "lng": 30.7873001
+        },
+        {
+            "postal_code": 33633,
+            "address": "Wild Asfir / Sidi Salem",
+            "post_office": "Wild Asfir",
+            "lat": 31.269268,
+            "lng": 30.7873001
+        },
+        {
+            "postal_code": 33634,
+            "address": "???? / ? 23 ?????",
+            "post_office": "Bella",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33635,
+            "address": "Bella / Bella / u Center alder tree",
+            "post_office": "Bella sub",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33636,
+            "address": "Kafr Jeraadh / Bella",
+            "post_office": "Kafr Jeraadh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33637,
+            "address": "Bella / Bella Center",
+            "post_office": "Second Bella",
+            "lat": 31.1723581,
+            "lng": 31.2215165
+        },
+        {
+            "postal_code": 33638,
+            "address": "Aghannamy / Qellin",
+            "post_office": "Aghannamy",
+            "lat": 31.048096,
+            "lng": 30.8533697
+        },
+        {
+            "postal_code": 33639,
+            "address": "Monia Pavilion / Desouk",
+            "post_office": "Monia Pavilion",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33641,
+            "address": "Sndion / Vuh",
+            "post_office": "Sndion _ Kafr El Sheikh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33642,
+            "address": "Abu Draz / Vuh Center",
+            "post_office": "Abu Draz",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33643,
+            "address": "Kafr Hungary / Desouk",
+            "post_office": "Kafr Hungary",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33644,
+            "address": "Abados / Desouk Church",
+            "post_office": "Abados Church",
+            "lat": 31.1712244,
+            "lng": 30.6872677
+        },
+        {
+            "postal_code": 33645,
+            "address": "Abioqa / Desouk",
+            "post_office": "Abioqa",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33646,
+            "address": "Kafr Acharaana / Desouk",
+            "post_office": "Kafr Acharaana",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33647,
+            "address": "Itzhakh / next to the fire / police Kafr El-Sheikh",
+            "post_office": "Itzhakh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33648,
+            "address": "Kafr Algeria / Qellin",
+            "post_office": "Kafr Algeria",
+            "lat": 31.0698326,
+            "lng": 30.7736986
+        },
+        {
+            "postal_code": 33652,
+            "address": "Glynn Country / Port Said Glynn St.",
+            "post_office": "Glynn Country",
+            "lat": 31.2652893,
+            "lng": 32.3018661
+        },
+        {
+            "postal_code": 33653,
+            "address": "Bakatosh / Qellin",
+            "post_office": "Bakatosh",
+            "lat": 31.0560678,
+            "lng": 30.7988122
+        },
+        {
+            "postal_code": 33654,
+            "address": "Qona / Qellin",
+            "post_office": "Qona",
+            "lat": 31.048096,
+            "lng": 30.8533697
+        },
+        {
+            "postal_code": 33655,
+            "address": "Share Aghannamy / Qellin",
+            "post_office": "Share Aghannamy",
+            "lat": 31.048096,
+            "lng": 30.8533697
+        },
+        {
+            "postal_code": 33656,
+            "address": "Next to the junior high school / center Qellin",
+            "post_office": "Cosmas",
+            "lat": 31.0971729,
+            "lng": 30.947375
+        },
+        {
+            "postal_code": 33657,
+            "address": "Next to Central Desouk / Desouk Center",
+            "post_office": "Desouk sub",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33658,
+            "address": "Kafr el -Arab / Desouk",
+            "post_office": "Kafr Arabs Desouk",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33661,
+            "address": "Mandoora / Kafr El-Sheikh",
+            "post_office": "Mandoora",
+            "lat": 31.0971729,
+            "lng": 30.947375
+        },
+        {
+            "postal_code": 33662,
+            "address": "Village Ctoot / Kafr El Sheikh Center",
+            "post_office": "Ctoot",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33663,
+            "address": "Village Dmenkh - Desouk Center",
+            "post_office": "Dmenkh",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33664,
+            "address": "Village Hamsharh - Mtaiwis",
+            "post_office": "Hamsharh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33711,
+            "address": "Sharecroppers / Kafr El-Sheikh",
+            "post_office": "Sharecroppers",
+            "lat": 31.0971729,
+            "lng": 30.947375
+        },
+        {
+            "postal_code": 33712,
+            "address": "Dqmirh / Kafr El-Sheikh",
+            "post_office": "Dqmirh",
+            "lat": 31.0971729,
+            "lng": 30.947375
+        },
+        {
+            "postal_code": 33713,
+            "address": "Sidi Ghazi / Kafr El-Sheikh",
+            "post_office": "Sidi Ghazi",
+            "lat": 31.2095093,
+            "lng": 31.0510733
+        },
+        {
+            "postal_code": 33714,
+            "address": "Lhalavy next Aljmaahalzeraih / Kafr El-Sheikh",
+            "post_office": "Lhalavy Kafr El Sheikh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33715,
+            "address": "Kom long / Bella",
+            "post_office": "Kom term",
+            "lat": 31.1993442,
+            "lng": 31.0837716
+        },
+        {
+            "postal_code": 33716,
+            "address": "Abashan in front of the railway / Bella Center station",
+            "post_office": "Abashan",
+            "lat": 31.1723581,
+            "lng": 31.2215165
+        },
+        {
+            "postal_code": 33717,
+            "address": "Sakha / street GP / Kafr El-Sheikh",
+            "post_office": "Sakha",
+            "lat": 31.0894482,
+            "lng": 30.9443505
+        },
+        {
+            "postal_code": 33718,
+            "address": "Moses locality next to the railway / Kafr El-Sheikh station",
+            "post_office": "Locality Moses",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33719,
+            "address": "Nashart- next to the railway station Qellin",
+            "post_office": "Nashart",
+            "lat": 31.0971729,
+            "lng": 30.947375
+        },
+        {
+            "postal_code": 33721,
+            "address": "Chaabas martyrs / Desouk",
+            "post_office": "Chaabas martyrs",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33722,
+            "address": "Chaabas Amir / Qellin",
+            "post_office": "Chaabas Amir",
+            "lat": 31.048096,
+            "lng": 30.8533697
+        },
+        {
+            "postal_code": 33723,
+            "address": "Sanhour city / Desouk",
+            "post_office": "Sanhour city",
+            "lat": 31.1188418,
+            "lng": 30.7297512
+        },
+        {
+            "postal_code": 33724,
+            "address": "Mitt Aldeph next Alsntral- Qellin",
+            "post_office": "Mitt Aldeph",
+            "lat": 31.048096,
+            "lng": 30.8533697
+        },
+        {
+            "postal_code": 33725,
+            "address": "Messier / next to the local unit / Kafr El-Sheikh",
+            "post_office": "Messier",
+            "lat": 31.0971729,
+            "lng": 30.947375
+        },
+        {
+            "postal_code": 33726,
+            "address": "Abu Badawi / Bella Center",
+            "post_office": "Abu Badawi",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33727,
+            "address": "Saffron / Hamoul wilds",
+            "post_office": "Saffron",
+            "lat": 31.3113344,
+            "lng": 31.1462582
+        },
+        {
+            "postal_code": 33728,
+            "address": "Disbelief east / Hamoul wilds",
+            "post_office": "Disbelief East",
+            "lat": 31.3113344,
+            "lng": 31.1462582
+        },
+        {
+            "postal_code": 33729,
+            "address": "Abu Bakr u / Hamoul Center wilds",
+            "post_office": "Hamoul wilds",
+            "lat": 31.3113344,
+            "lng": 31.1462582
+        },
+        {
+            "postal_code": 33731,
+            "address": "Com stone / Hamoul wilds",
+            "post_office": "Com stone",
+            "lat": 31.3113344,
+            "lng": 31.1462582
+        },
+        {
+            "postal_code": 33732,
+            "address": "Marine Alaavadah / Hamoul wilds Center",
+            "post_office": "Marine Alaavadah",
+            "lat": 31.3113344,
+            "lng": 31.1462582
+        },
+        {
+            "postal_code": 33733,
+            "address": "Hamoul / Hamoul wilds project",
+            "post_office": "Project Hamoul",
+            "lat": 31.3113344,
+            "lng": 31.1462582
+        },
+        {
+            "postal_code": 33734,
+            "address": "West pace / Balteem",
+            "post_office": "West pace and farm nationalization",
+            "lat": 31.5555377,
+            "lng": 31.0943749
+        },
+        {
+            "postal_code": 33735,
+            "address": "Balteem / near Central Balteem Center",
+            "post_office": "Balteem",
+            "lat": 31.5555377,
+            "lng": 31.0943749
+        },
+        {
+            "postal_code": 33736,
+            "address": "Borollos Tower / Balteem",
+            "post_office": "Borollos Tower",
+            "lat": 31.5831125,
+            "lng": 30.975812
+        },
+        {
+            "postal_code": 33737,
+            "address": "Balteem / management of coastal / Balteem Center - Closed on 09/15/2014 on the occasion of the end of the season",
+            "post_office": "Baltim resort",
+            "lat": 31.5555377,
+            "lng": 31.0943749
+        },
+        {
+            "postal_code": 33738,
+            "address": "Arimon / Kafr El-Sheikh",
+            "post_office": "Arimon",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33739,
+            "address": "Riyadh / Riyadh Center",
+            "post_office": "Riyadh Kafr El Sheikh",
+            "lat": 31.2368475,
+            "lng": 30.9453568
+        },
+        {
+            "postal_code": 33741,
+            "address": "Abbasid next to Central / Riyadh",
+            "post_office": "Abbasid Riyadh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33742,
+            "address": "Abbas / Sidi Salem facility",
+            "post_office": "Abbas facility",
+            "lat": 31.269268,
+            "lng": 30.7873001
+        },
+        {
+            "postal_code": 33743,
+            "address": "Sidi Salem / center Sidi Salem",
+            "post_office": "Sidi Salem",
+            "lat": 31.269268,
+            "lng": 30.7873001
+        },
+        {
+            "postal_code": 33744,
+            "address": "Haddadi / Sidi Salem",
+            "post_office": "Haddadi",
+            "lat": 31.269268,
+            "lng": 30.7873001
+        },
+        {
+            "postal_code": 33745,
+            "address": "Albulasy Admiral / Sidi Salem",
+            "post_office": "Albulasy sea",
+            "lat": 31.269268,
+            "lng": 30.7873001
+        },
+        {
+            "postal_code": 33746,
+            "address": "Great facility / Qellin",
+            "post_office": "Great facility",
+            "lat": 31.048096,
+            "lng": 30.8533697
+        },
+        {
+            "postal_code": 33747,
+            "address": "Kafr Alemrazkh- Center Qellin",
+            "post_office": "Kafr Alemrazkh",
+            "lat": 31.048096,
+            "lng": 30.8533697
+        },
+        {
+            "postal_code": 33748,
+            "address": "Locality reeds / Kafr El-Sheikh",
+            "post_office": "Locality reeds",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33749,
+            "address": "Dmarw and Haddadi in front of the police station / Sidi Salem",
+            "post_office": "Dmarw and Haddadi",
+            "lat": 31.269268,
+            "lng": 30.7873001
+        },
+        {
+            "postal_code": 33753,
+            "address": "St. Tenth of Ramadan / Hamoul wilds Center",
+            "post_office": "Hamoul wilds sub",
+            "lat": 31.3113344,
+            "lng": 31.1462582
+        },
+        {
+            "postal_code": 33754,
+            "address": "Alkarza / near Central Kafr El-Sheikh",
+            "post_office": "Alkarza",
+            "lat": 31.0665011,
+            "lng": 30.9530781
+        },
+        {
+            "postal_code": 33755,
+            "address": "Cbasih / Desouk",
+            "post_office": "Cbasih",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33756,
+            "address": "Wahhabism / Balteem through the main tower",
+            "post_office": "Wahhabism",
+            "lat": 31.5555377,
+            "lng": 31.0943749
+        },
+        {
+            "postal_code": 33757,
+            "address": "Metaphor Hamoul / Hamoul wilds",
+            "post_office": "Metaphor Hamoul",
+            "lat": 31.3113344,
+            "lng": 31.1462582
+        },
+        {
+            "postal_code": 33763,
+            "address": "Chelma repair / Sidi Salem",
+            "post_office": "Repair Chelma",
+            "lat": 31.269268,
+            "lng": 30.7873001
+        },
+        {
+            "postal_code": 33766,
+            "address": "Rwinh / Kafr el-Sheikh by",
+            "post_office": "Rwinh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33767,
+            "address": "Pissed front Agricultural Society / Kafr El-Sheikh",
+            "post_office": "Pissed off",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33771,
+            "address": "Red / Kafr El-Sheikh",
+            "post_office": "Red",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33772,
+            "address": "Bgulwlh / Riyadh Center",
+            "post_office": "Bgulwlh",
+            "lat": 31.2368475,
+            "lng": 30.9453568
+        },
+        {
+            "postal_code": 33773,
+            "address": "Trade School next village Chaabas Amir / center Qellin",
+            "post_office": "Morning",
+            "lat": 31.0494393,
+            "lng": 30.8409677
+        },
+        {
+            "postal_code": 33774,
+            "address": "Khadimiyah / center of the village of Kafr el-Sheikh",
+            "post_office": "Khadimiyah",
+            "lat": 31.1712442,
+            "lng": 31.038394
+        },
+        {
+            "postal_code": 33775,
+            "address": "Ministerial village / Riyadh Center",
+            "post_office": "Ministerial",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33776,
+            "address": "Resourceful village of Bella Center",
+            "post_office": "Dexterous",
+            "lat": 31.3085444,
+            "lng": 30.8039474
+        },
+        {
+            "postal_code": 33777,
+            "address": "Dredgers Village / Bella",
+            "post_office": "Dredgers",
+            "lat": 31.1723581,
+            "lng": 31.2215165
+        },
+        {
+            "postal_code": 33778,
+            "address": "Economic housing / Balteem",
+            "post_office": "Balteem sub",
+            "lat": 31.5555377,
+            "lng": 31.0943749
+        },
+        {
+            "postal_code": 33782,
+            "address": "Village kindergarten / Kafr El-Sheikh Center",
+            "post_office": "Kindergarten Kafr El Sheikh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33783,
+            "address": "Kafr el-Sheikh Center",
+            "post_office": "Alyak western",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33784,
+            "address": "Balteem / Tower Borollos Center",
+            "post_office": "Sheikh Mubarak",
+            "lat": 31.5555377,
+            "lng": 31.0943749
+        },
+        {
+            "postal_code": 33785,
+            "address": "Balteem quarter village center",
+            "post_office": "Balteem quarter",
+            "lat": 31.5555377,
+            "lng": 31.0943749
+        },
+        {
+            "postal_code": 33786,
+            "address": "Almqsbh village - Balteem Center",
+            "post_office": "Almqsbh",
+            "lat": 31.4959152,
+            "lng": 30.7644102
+        },
+        {
+            "postal_code": 33788,
+            "address": "Sidi Salem - Dyer St. terms",
+            "post_office": "Sidi Salem sub",
+            "lat": 31.269268,
+            "lng": 30.7873001
+        },
+        {
+            "postal_code": 33789,
+            "address": "Heartfelt village 65 - Balteem Center",
+            "post_office": "Heartfelt",
+            "lat": 31.5555377,
+            "lng": 31.0943749
+        },
+        {
+            "postal_code": 33791,
+            "address": "Village Abdul motive Fiki",
+            "post_office": "Abdul motive Fiki",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 33811,
+            "address": "Sugar factory Balhamul",
+            "post_office": "Sugar factory",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 36551,
+            "address": "Dead center immersion",
+            "post_office": "Rahmaniyah Ghamr",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 36552,
+            "address": "Kafr el-Sheikh Helal",
+            "post_office": "Kafr el Sheikh Helal",
+            "lat": 31.0971729,
+            "lng": 30.947375
+        },
+        {
+            "postal_code": 33699,
+            "address": "20 Mansour Village / Hamoul Center / Kafr El Sheikh",
+            "post_office": "Mansour",
+            "lat": 31.3113344,
+            "lng": 31.1462582
+        },
+        {
+            "postal_code": 33665,
+            "address": "Mahalat Malik - Desouq Center",
+            "post_office": "Mahal Malik",
+            "lat": 31.1340963,
+            "lng": 30.6460377
+        },
+        {
+            "postal_code": 33792,
+            "address": "Nasiriyah Village - Riyadh Center",
+            "post_office": "Nasiriyah",
+            "lat": 31.156326,
+            "lng": 31.0851019
+        }
+    ]
+}

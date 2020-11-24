@@ -1,0 +1,158 @@
+{
+    "south_sinai": [
+        {
+            "postal_code": 46511,
+            "address": "Tur city / in front of the bus stop",
+            "post_office": "Mount Sinai main",
+            "lat": 29.3101828,
+            "lng": 34.1531947
+        },
+        {
+            "postal_code": 46611,
+            "address": "Abu Rudeis / public road / near Central",
+            "post_office": "Abu Rudeis",
+            "lat": 28.8906925,
+            "lng": 33.1886821
+        },
+        {
+            "postal_code": 46612,
+            "address": "Ras Sidr City / near Central",
+            "post_office": "Ras Sidr",
+            "lat": 29.5933437,
+            "lng": 32.7178018
+        },
+        {
+            "postal_code": 46613,
+            "address": "Abu Zenima / public road / Second Quarter",
+            "post_office": "Abu Zenima",
+            "lat": 29.04741199999999,
+            "lng": 33.1063277
+        },
+        {
+            "postal_code": 46616,
+            "address": "City of St. Catherine",
+            "post_office": "St. Catherine",
+            "lat": 28.5608921,
+            "lng": 33.947995
+        },
+        {
+            "postal_code": 46619,
+            "address": "Sharm el-Sheikh city / u plateau or Mr.",
+            "post_office": "Sharm el Sheikh typical",
+            "lat": 27.9654198,
+            "lng": 34.3617769
+        },
+        {
+            "postal_code": 46618,
+            "address": "Nuweiba City / near Central",
+            "post_office": "Nuweiba South Sinai",
+            "lat": 28.9734441,
+            "lng": 34.65343319999999
+        },
+        {
+            "postal_code": 46617,
+            "address": "Dahab / field station",
+            "post_office": "Dahab",
+            "lat": 28.5091355,
+            "lng": 34.5136344
+        },
+        {
+            "postal_code": 46621,
+            "address": "Taba City / Central / Nuweiba building",
+            "post_office": "Taba",
+            "lat": 29.4924783,
+            "lng": 34.8968986
+        },
+        {
+            "postal_code": 46622,
+            "address": "Nuweiba City / inside the port of Nuweiba",
+            "post_office": "Nuweiba port",
+            "lat": 28.975781,
+            "lng": 34.663624
+        },
+        {
+            "postal_code": 46512,
+            "address": "State / City of El Tur",
+            "post_office": "Mount Sinai sub",
+            "lat": 28.2410098,
+            "lng": 33.6229813
+        },
+        {
+            "postal_code": 46624,
+            "address": "The village of Wadi Ferran /m.abu Redis",
+            "post_office": "Valley Ferrand",
+            "lat": 28.7185675,
+            "lng": 33.6184308
+        },
+        {
+            "postal_code": 46623,
+            "address": "Ras Sidr / city village of Abu Essaouira",
+            "post_office": "Abu Essaouira",
+            "lat": 29.5600563,
+            "lng": 32.7542392
+        },
+        {
+            "postal_code": 46513,
+            "address": "City Tur / St. Alshahyd ahmd Hamdy / Almasaleh compound",
+            "post_office": "Almasaleh Compound",
+            "lat": 29.3101828,
+            "lng": 34.1531947
+        },
+        {
+            "postal_code": 46625,
+            "address": "Nuweiba City / Nuweiba port services area",
+            "post_office": "The center of Nuweiba",
+            "lat": 28.9734441,
+            "lng": 34.65343319999999
+        },
+        {
+            "postal_code": 46627,
+            "address": "Sharm el-Sheikh city / airport in Sharm el-Sheikh",
+            "post_office": "Sharm El Sheikh International Airport",
+            "lat": 27.9654198,
+            "lng": 34.3617769
+        },
+        {
+            "postal_code": 46628,
+            "address": "Sharm el-Sheikh city / u plateau or Mr.",
+            "post_office": "Sharm el Sheikh sub",
+            "lat": 27.9654198,
+            "lng": 34.3617769
+        },
+        {
+            "postal_code": 46629,
+            "address": "Alaslh / in front of the ownership / Dahab center housing village",
+            "post_office": "Alaslh",
+            "lat": 28.5091355,
+            "lng": 34.5136344
+        },
+        {
+            "postal_code": 46516,
+            "address": "Marwa",
+            "post_office": "Marwa",
+            "lat": 29.3101828,
+            "lng": 34.1531947
+        },
+        {
+            "postal_code": 46911,
+            "address": "Mobile - next to the tourist police in Sharm El Sheikh",
+            "post_office": "Naama Bay",
+            "lat": 27.9654198,
+            "lng": 34.3617769
+        },
+        {
+            "postal_code": 46514,
+            "address": "El Tur El Wadi Village Beside The Local Unit",
+            "post_office": "El Wadi Village",
+            "lat": 28.2410098,
+            "lng": 33.6229813
+        },
+        {
+            "postal_code": 46921,
+            "address": "Mobile office",
+            "post_office": "Gharqana",
+            "lat": 29.3101828,
+            "lng": 34.1531947
+        }
+    ]
+}

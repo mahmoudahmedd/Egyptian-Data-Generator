@@ -1,0 +1,648 @@
+{
+    "beni_suef": [
+        {
+            "postal_code": 62511,
+            "address": "Beni Suef / Abdel Salam Aref St. /m.bny Suef",
+            "post_office": "Beni Suef",
+            "lat": 29.0709481,
+            "lng": 31.1003087
+        },
+        {
+            "postal_code": 62833,
+            "address": "The village of Abusir vaccinated / u local unit / Wasta",
+            "post_office": "Abusir vaccinated",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62624,
+            "address": "Dyer St. side village Aagafhs - Alvcn Center",
+            "post_office": "Aagafhs",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62823,
+            "address": "Village Ashment / El-Hammamat / Nasser Center",
+            "post_office": "Ashment",
+            "lat": 29.1493429,
+            "lng": 31.1294085
+        },
+        {
+            "postal_code": 62633,
+            "address": "Alawaona / complex government departments / Ahnasia",
+            "post_office": "Alawaona",
+            "lat": 29.0918876,
+            "lng": 30.9187827
+        },
+        {
+            "postal_code": 62621,
+            "address": "City Alvcn / u Abrahamic / Alvcn Center",
+            "post_office": "Alvcn",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62726,
+            "address": "Village Alphent / Alvcn Center",
+            "post_office": "Alphent",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62822,
+            "address": "Village Anevst / u schools / Wasta Center",
+            "post_office": "Anevst",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62818,
+            "address": "Memon / Mahalla El / village center Wasta",
+            "post_office": "Auspicious",
+            "lat": 30.9696706,
+            "lng": 31.168083
+        },
+        {
+            "postal_code": 62951,
+            "address": "Saad Zaghloul St. / field station / Wasta",
+            "post_office": "Wasta interests",
+            "lat": 29.0771,
+            "lng": 31.1022379
+        },
+        {
+            "postal_code": 62631,
+            "address": "Ahnasia city / u Agricultural Management / Ahnasia Center",
+            "post_office": "Ahnasia city",
+            "lat": 29.0918876,
+            "lng": 30.9187827
+        },
+        {
+            "postal_code": 62617,
+            "address": "Village Aelchentor / Mahmoud Fahmy / M.semsta",
+            "post_office": "Aelchentor",
+            "lat": 28.9534291,
+            "lng": 30.8547052
+        },
+        {
+            "postal_code": 62611,
+            "address": "City BPA / u City / BPA Center Council",
+            "post_office": "BPA",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62612,
+            "address": "Bdehl / u Ali bin Abi Talib / Samasta Center",
+            "post_office": "Bdehl",
+            "lat": 28.9186968,
+            "lng": 30.8154358
+        },
+        {
+            "postal_code": 62828,
+            "address": "Gamal Abdel Nasser / Nasser Center",
+            "post_office": "Nasser",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62817,
+            "address": "Village built Hder / Main St. / Wasta Center",
+            "post_office": "Built Hder",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62620,
+            "address": "St. assembled unit village followed - Alvcn Center",
+            "post_office": "Followed",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62613,
+            "address": "Village Dshtoot / u Agricultural Road / Samasta Center",
+            "post_office": "Dshtoot",
+            "lat": 28.9186968,
+            "lng": 30.8154358
+        },
+        {
+            "postal_code": 62831,
+            "address": "Das village / complex / Nasser Center Building",
+            "post_office": "Das",
+            "lat": 29.1493429,
+            "lng": 31.1294085
+        },
+        {
+            "postal_code": 62729,
+            "address": "Village sixth / u Village Council / BPA Center",
+            "post_office": "Sixth",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62819,
+            "address": "Bandar Samasta / Port Said St. / Semstaqmn bride Center / next to Central / M.aloasity",
+            "post_office": "Samasta",
+            "lat": 31.2652893,
+            "lng": 32.3018661
+        },
+        {
+            "postal_code": 62731,
+            "address": "Qmn bride / next to Central / M.aloasity",
+            "post_office": "Qmn bride",
+            "lat": 29.082829,
+            "lng": 31.102181
+        },
+        {
+            "postal_code": 62821,
+            "address": "Village Tnsa / Fire Station U / BPA Center",
+            "post_office": "Tnsa",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62718,
+            "address": "Luna village pastor / Mariam Mohamed Othman St. / Wasta Center",
+            "post_office": "Luna Pastor",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62713,
+            "address": "U unit complex computational village Parot Moon - Beni Suef Center",
+            "post_office": "Parot Moon",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62727,
+            "address": "Village Blvia / next to the local unit / Beni Suef Center",
+            "post_office": "Blivia",
+            "lat": 29.082829,
+            "lng": 31.102181
+        },
+        {
+            "postal_code": 62824,
+            "address": "U local unit Alnuerh village / Ahnasia Center",
+            "post_office": "Alnuerh",
+            "lat": 29.082829,
+            "lng": 31.102181
+        },
+        {
+            "postal_code": 62811,
+            "address": "Built except / u or Egyptians / m .Nasser",
+            "post_office": "Built except",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62711,
+            "address": "Atwab village / street GP / Wasta Center",
+            "post_office": "Atwab",
+            "lat": 29.3868556,
+            "lng": 31.2014647
+        },
+        {
+            "postal_code": 62616,
+            "address": "U complex villager village Ahnasia - Beni Suef Center",
+            "post_office": "Ahnasia green",
+            "lat": 29.082829,
+            "lng": 31.102181
+        },
+        {
+            "postal_code": 62732,
+            "address": "Qmbash red / Central u / BPA Center",
+            "post_office": "Qmbash red",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62618,
+            "address": "Forged village / Posta u / Samasta Center",
+            "post_office": "Mazorh",
+            "lat": 28.9186968,
+            "lng": 30.8154358
+        },
+        {
+            "postal_code": 62715,
+            "address": "Village Abashna / u assembled unit / Beni Suef Center",
+            "post_office": "Abashna",
+            "lat": 29.1225652,
+            "lng": 31.0616218
+        },
+        {
+            "postal_code": 62626,
+            "address": "U village council, village Dlhans - Alvcn Center",
+            "post_office": "Dlhans",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62832,
+            "address": "Village Bhpshin - Nasser Center",
+            "post_office": "Bhpshin",
+            "lat": 29.1493429,
+            "lng": 31.1294085
+        },
+        {
+            "postal_code": 62514,
+            "address": "Beni Suef / Salah Salem St. / Almmermah City",
+            "post_office": "Almmermah",
+            "lat": 29.0794154,
+            "lng": 31.0932463
+        },
+        {
+            "postal_code": 62627,
+            "address": "U between the two village Chnery - Alvcn Center",
+            "post_office": "Chnery",
+            "lat": 28.78404399999999,
+            "lng": 30.7711383
+        },
+        {
+            "postal_code": 62615,
+            "address": "Eligibility / inside the village council / BPA Center",
+            "post_office": "Eligibility",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62899,
+            "address": "Nasser / Gamal Abdel Nasser St. Center",
+            "post_office": "Nasser East",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62614,
+            "address": "Rashin village of Saft / u market / BPA Center",
+            "post_office": "Saft Rashin",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62515,
+            "address": "Future / Saad Zaghloul St. /m.bny Suef",
+            "post_office": "Future",
+            "lat": 29.0771,
+            "lng": 31.1022379
+        },
+        {
+            "postal_code": 62513,
+            "address": "????? ??? ???? / ? 17",
+            "post_office": "Built a new Suef",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62714,
+            "address": "Taha village Bush / club u / Nasser Center",
+            "post_office": "Tahabusc",
+            "lat": 29.1493429,
+            "lng": 31.1294085
+        },
+        {
+            "postal_code": 62622,
+            "address": "Alvcn / Saad Zaghloul St. / Alvcn Center City",
+            "post_office": "Alvcn sub",
+            "lat": 29.0771,
+            "lng": 31.1022379
+        },
+        {
+            "postal_code": 62634,
+            "address": "Nana village / complex interests /m.ahnasaa",
+            "post_office": "Nana",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62813,
+            "address": "Crucified public housing / u / M.aloasity village",
+            "post_office": "Crucified angle",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62619,
+            "address": "City BPA / u Abrahamic / BPA city center",
+            "post_office": "Faberikh BPA",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62738,
+            "address": "Village Ahoh / Beni Suef Center",
+            "post_office": "Ahoh",
+            "lat": 29.044058,
+            "lng": 31.0029907
+        },
+        {
+            "postal_code": 62740,
+            "address": "Lhalabih / club u / village of Beni Suef Center",
+            "post_office": "Lhalabih",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62635,
+            "address": "St. Market Village facility Abu Melih / Mrkzsemsta",
+            "post_office": "Abu facility Mlij",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62629,
+            "address": "U Assembly village built a favor - Alvcn Center",
+            "post_office": "Built Saleh",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62739,
+            "address": "Village Sharif Pasha / El Tahrir / M.bny Suef",
+            "post_office": "Sharif Pasha",
+            "lat": 29.0802065,
+            "lng": 31.0947609
+        },
+        {
+            "postal_code": 62741,
+            "address": "Village Albrnfe / u Dyer hand / BPA Center",
+            "post_office": "Albranqh",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62636,
+            "address": "Ahnasia City / El Sheikh Dakroury / Mrkzahnasaa",
+            "post_office": "Ahnasia city sub",
+            "lat": 29.0918876,
+            "lng": 30.9187827
+        },
+        {
+            "postal_code": 62744,
+            "address": "Naim / u village of Ali bin Abi Talib /m.bny Suef",
+            "post_office": "Paradise",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62814,
+            "address": "Beni Suef / Ghamrawy / M.bny Suef",
+            "post_office": "Beni Suef second",
+            "lat": 29.0762483,
+            "lng": 31.0851172
+        },
+        {
+            "postal_code": 62747,
+            "address": "General / Ashraf El Saft East / house of Mr. Sharif Mjy",
+            "post_office": "East Saft",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62637,
+            "address": "The village of Kom Red / M.bny Suef",
+            "post_office": "Kom Red",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62734,
+            "address": "Bani Hani / u young / m center .Ahnasia city",
+            "post_office": "Bani Hani",
+            "lat": 29.0918876,
+            "lng": 30.9187827
+        },
+        {
+            "postal_code": 62815,
+            "address": "Asim village / Gamal Abdel Nasser St. / M.bny Suef facility",
+            "post_office": "Asim facility",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62638,
+            "address": "The village of Kom Aburady / u bank /m.aloasity",
+            "post_office": "Com Abu Radi",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62825,
+            "address": "Samasta / u Dr. Hassan Abdel Wahab / Falluja District",
+            "post_office": "Samasta sub",
+            "lat": 28.9186968,
+            "lng": 30.8154358
+        },
+        {
+            "postal_code": 62826,
+            "address": "Olive village tribal / u flowers / Nasser Center",
+            "post_office": "Olive tribal",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62753,
+            "address": "Village Battles / Trahcrahna u / M.bny Suef",
+            "post_office": "Battles",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62755,
+            "address": "The village of Beni Haroun / Beni Suef Center",
+            "post_office": "The sons of Aaron",
+            "lat": 29.0729087,
+            "lng": 31.0879159
+        },
+        {
+            "postal_code": 62756,
+            "address": "Village carpets / Main St. / M.bny Suef",
+            "post_office": "Carpets Beni Suef",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62754,
+            "address": "Village Aldoualth / Abdel Nasser /m.bny Suef",
+            "post_office": "Aldoualth",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62827,
+            "address": "Village Bank Tzmnt / center Beni Suef",
+            "post_office": "Tzmnt Bank",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62952,
+            "address": "Village Tnsa vaccinated / u Hospital / Nasser Center",
+            "post_office": "Tnsa vaccinated",
+            "lat": 29.1493429,
+            "lng": 31.1294085
+        },
+        {
+            "postal_code": 62761,
+            "address": "Saad Zaghloul St. / field station / Wasta",
+            "post_office": "Wasta sub",
+            "lat": 29.0771,
+            "lng": 31.1022379
+        },
+        {
+            "postal_code": 62733,
+            "address": "Alihump village / street public / Wasta Center",
+            "post_office": "Alihump",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62763,
+            "address": "Village built Mady / u agricultural / m . Assembly BPA",
+            "post_office": "Brown s past",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62639,
+            "address": "Village built Affan - Beni Suef Center",
+            "post_office": "Built Affan",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62518,
+            "address": "Dyer St. side Saft Alarafa village / Alvcn Center",
+            "post_office": "Saft Alarafa",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62664,
+            "address": "Western Kaftan / center Beni Suef",
+            "post_office": "Western Kaftan",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62517,
+            "address": "Built a new Suef / u Abu Huraira city",
+            "post_office": "East Beni Suef",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62737,
+            "address": "Village Almsid White / Central / m u .Ahnasia city",
+            "post_office": "Almsid White",
+            "lat": 29.0918876,
+            "lng": 30.9187827
+        },
+        {
+            "postal_code": 62519,
+            "address": "Beni Suef / u Safia Zaghloul City",
+            "post_office": "Beni Suef plant",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62766,
+            "address": "Village bullosa / Posta u / BPA Center",
+            "post_office": "Bullosa",
+            "lat": 28.89556,
+            "lng": 30.9431713
+        },
+        {
+            "postal_code": 62765,
+            "address": "The village of Upper Egyptians com / u schools / BPA Center",
+            "post_office": "Com Alsaaidh",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62767,
+            "address": "Solomon built the village / east of the Nile / M.bny Suef",
+            "post_office": "Solomon built the East",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62643,
+            "address": "Hand Sdment Mountain / u position / Ahnasia city center",
+            "post_office": "Sdment mountain",
+            "lat": 29.0918876,
+            "lng": 30.9187827
+        },
+        {
+            "postal_code": 62717,
+            "address": "The village of Abu Khallad / Nasser Center",
+            "post_office": "Com Abu Khallad",
+            "lat": 29.1493429,
+            "lng": 31.1294085
+        },
+        {
+            "postal_code": 62834,
+            "address": "The village of Kom Adrigh / u market / M.aloasity",
+            "post_office": "Com Adrigh",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62748,
+            "address": "Mubarak 1 / m u .Beni Suef",
+            "post_office": "Medicines",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62644,
+            "address": "Village puss - m .bny Suef",
+            "post_office": "Puss",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62521,
+            "address": "Inside the campus",
+            "post_office": "Beni Suef University",
+            "lat": 29.082829,
+            "lng": 31.102181
+        },
+        {
+            "postal_code": 62646,
+            "address": "Red Code / Simsta Center",
+            "post_office": "Red Code / Simsta",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62718,
+            "address": "Damoushya village / M. Beni Suef",
+            "post_office": "Democia",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62763,
+            "address": "Miyana Village / Al-Wehda Health St.",
+            "post_office": "Maintenance",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        },
+        {
+            "postal_code": 62734,
+            "address": "Kharajar Bani Suleiman / next to the school / M. Suleiman",
+            "post_office": "Hager built Solomon",
+            "lat": 29.082829,
+            "lng": 31.102181
+        },
+        {
+            "postal_code": 62512,
+            "address": "Beni Suef / El Dahshoury St. / Beni Suef",
+            "post_office": "Beni Suef Farai",
+            "lat": 29.0661274,
+            "lng": 31.0993845
+        }
+    ]
+}

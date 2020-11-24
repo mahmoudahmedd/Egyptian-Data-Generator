@@ -1,0 +1,1194 @@
+{
+    "menofia": [
+        {
+            "postal_code": 32511,
+            "address": "Saad Zaghloul St. Shebin",
+            "post_office": "Shebin",
+            "lat": 30.5548981,
+            "lng": 31.0161783
+        },
+        {
+            "postal_code": 32512,
+            "address": "U schools / Shebin",
+            "post_office": "Shebin sub",
+            "lat": 30.5655764,
+            "lng": 31.0130822
+        },
+        {
+            "postal_code": 32513,
+            "address": "U Manufacturer / Shebin",
+            "post_office": "Spinning Shebin",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32514,
+            "address": "Marwa El mainland east / Shebin",
+            "post_office": "Land east",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32515,
+            "address": "El Galaa tribal / Shebin",
+            "post_office": "Tribal district",
+            "lat": 30.5521389,
+            "lng": 31.0085247
+        },
+        {
+            "postal_code": 32518,
+            "address": "U Ahmed Maher / Shebin",
+            "post_office": "Provide Shebin area",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32521,
+            "address": "Shebin mainland eastern Mahmoud Shahin St.",
+            "post_office": "Shebin new",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32611,
+            "address": "El Sheikh Fuad / followed",
+            "post_office": "Followed by",
+            "lat": 27.9654198,
+            "lng": 34.3617769
+        },
+        {
+            "postal_code": 32612,
+            "address": "Tnob / Tela",
+            "post_office": "Tnob",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32613,
+            "address": "Dyer St. side Tookh Dlleke / followed",
+            "post_office": "Tookh Dlka",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32614,
+            "address": "Dyer St. side / angle Bmm / followed",
+            "post_office": "Angle Bmm",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32615,
+            "address": "Dyer St., hand / Zarkan / followed",
+            "post_office": "Zarkan",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32616,
+            "address": "Dyer St., hand / fornicators / followed",
+            "post_office": "Znarh",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32617,
+            "address": "Saft leprosy village / followed",
+            "post_office": "Saft Jaddam",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32618,
+            "address": "Dai St. side Tabloha / followed",
+            "post_office": "Tabloha",
+            "lat": 30.6618608,
+            "lng": 30.9589496
+        },
+        {
+            "postal_code": 32619,
+            "address": "Dyer St. side of Kafr Spring / followed",
+            "post_office": "Kafr spring",
+            "lat": 30.6941909,
+            "lng": 30.8263315
+        },
+        {
+            "postal_code": 32621,
+            "address": "Alkmaichh / read a village",
+            "post_office": "Alkmaichh",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32622,
+            "address": "Dyer St. side Kamshish / followed",
+            "post_office": "Kamshish",
+            "lat": 30.6124037,
+            "lng": 30.9444398
+        },
+        {
+            "postal_code": 32623,
+            "address": "Peace / Mit Abu al-Kum / followed",
+            "post_office": "Peace _ Mit Abu al Kum",
+            "lat": 30.6361844,
+            "lng": 30.91379779999999
+        },
+        {
+            "postal_code": 32624,
+            "address": "Dyer St., hand / Kafr sugary / followed",
+            "post_office": "Kafr sugary",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32625,
+            "address": "Followed by",
+            "post_office": "Followed by sub",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32626,
+            "address": "Village Bmm / followed",
+            "post_office": "Bmm _ Menofia",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32627,
+            "address": "Dyer St. side of Babylon / followed",
+            "post_office": "Babylon",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32628,
+            "address": "Dyer side Kafr El Askar / followed",
+            "post_office": "Kafr Askar",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 32629,
+            "address": "Kafr Tabloha / followed",
+            "post_office": "Kafr Tabloha",
+            "lat": 30.6407794,
+            "lng": 30.9503435
+        },
+        {
+            "postal_code": 32631,
+            "address": "Posta u / Quesna",
+            "post_office": "Quesna",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32632,
+            "address": "U local unit / Quesna",
+            "post_office": "Quesna country",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32633,
+            "address": "Village Shubra Bakhoum / Qosjna",
+            "post_office": "Shubra Bakhoum",
+            "lat": 30.5768611,
+            "lng": 31.2176738
+        },
+        {
+            "postal_code": 32634,
+            "address": "Taha village of Shubra / Quesna",
+            "post_office": "Taha Shubra",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32635,
+            "address": "U Central Mstay / Quesna",
+            "post_office": "Mustay",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32636,
+            "address": "Dyer St., dead hand libra / Quesna",
+            "post_office": "Mitt libra",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32637,
+            "address": "Arab village of sand / Quesna",
+            "post_office": "Arabs sand",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32638,
+            "address": "Beside The Local Unit Abehns / Quesna",
+            "post_office": "Apinhs",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32642,
+            "address": "Village Bjeerm / Quesna",
+            "post_office": "Bjeerm",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32643,
+            "address": "Mitt forced village / Quesna",
+            "post_office": "Mitt forced",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32644,
+            "address": "Kafr El Sheikh Ibrahim / Quesna",
+            "post_office": "Kafr El Sheikh Ibrahim Quesna",
+            "lat": 28.469367,
+            "lng": 30.8355378
+        },
+        {
+            "postal_code": 32645,
+            "address": "Kafr congealed / Quesna",
+            "post_office": "Kafr congealed",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32646,
+            "address": "Kafr Abu Hassan / Quesna",
+            "post_office": "Kafr Abu Hassan",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32647,
+            "address": "Extended to Ajhor sand / Quesna",
+            "post_office": "Ajhor sand",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32648,
+            "address": "Kafr El- Wahab / Quesna",
+            "post_office": "Kafr El Wahab",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 32649,
+            "address": "Dmilo / Quesna facility",
+            "post_office": "Dmilo facility",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32651,
+            "address": "Land east / behind the youth center / pool seven",
+            "post_office": "Seven pools",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32652,
+            "address": "Dyer St. terms Abu famous / pond seven",
+            "post_office": "Abu famous",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32653,
+            "address": "Dyer St. side Janzur / pond seven",
+            "post_office": "Janzur",
+            "lat": 30.6793245,
+            "lng": 31.035294
+        },
+        {
+            "postal_code": 32654,
+            "address": "Dyer St. side Aldbabih / pond seven",
+            "post_office": "Aldbaabh",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32655,
+            "address": "Dyer u point K / pond seven",
+            "post_office": "K _ Mnovih",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32656,
+            "address": "Hdayr respects Mitt Knight / pond seven",
+            "post_office": "Mitt Fares",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32657,
+            "address": "Dyer St. side Centna stone / pond seven",
+            "post_office": "Centna stone",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32658,
+            "address": "U local council Tookh Tunbasha / pond seven",
+            "post_office": "Tookh Tunbasha",
+            "lat": 30.6128487,
+            "lng": 31.1101763
+        },
+        {
+            "postal_code": 32659,
+            "address": "Kafr El Hilal / pond seven",
+            "post_office": "Kafr El Hilal",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 32661,
+            "address": "Dyer St. side village Horin / Menouf",
+            "post_office": "Horin",
+            "lat": 30.65134029999999,
+            "lng": 31.1340416
+        },
+        {
+            "postal_code": 32662,
+            "address": "Seven pools / Dyer Street side / Tunbasha",
+            "post_office": "Tunbasha",
+            "lat": 30.6027738,
+            "lng": 31.0828211
+        },
+        {
+            "postal_code": 32663,
+            "address": "Dyer St. side is dead or valid / seven pools",
+            "post_office": "Dead or favor",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32664,
+            "address": "U railway / pond seven",
+            "post_office": "Seven pools _ subsidiary",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32665,
+            "address": "Kafr aversion / pond seven",
+            "post_office": "Kafr aversion",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32666,
+            "address": "Dyer St. side of the martyr intellectual / pond seven",
+            "post_office": "Martyr Fikri",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32667,
+            "address": "Shubra village off / Qosna",
+            "post_office": "Shubra off",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32668,
+            "address": "Kafr Horin / pond seven",
+            "post_office": "Kafr Horin",
+            "lat": 30.6501194,
+            "lng": 31.1065919
+        },
+        {
+            "postal_code": 32669,
+            "address": "Dyer side Kafr El Alim / pond seven",
+            "post_office": "Kafr El Alim",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 32671,
+            "address": "St. station Lhalamch / seven pools of water",
+            "post_office": "Lhalamch",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32672,
+            "address": "Mitt Abu Shiha / Quesna",
+            "post_office": "Mitt Abu Shiha",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32673,
+            "address": "U Central Dmhoj / Qosjna",
+            "post_office": "Dmhoj",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32676,
+            "address": "Kafr Abashich / Quesna",
+            "post_office": "Kafr Abashich",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32679,
+            "address": "Village Hranis / Quesna",
+            "post_office": "Hranis",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32681,
+            "address": "Dyer St. side of Kafr Snaded / followed",
+            "post_office": "Kafr Snaded",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32682,
+            "address": "Kafr Mit Siraj / Quesna",
+            "post_office": "Kafr Mit Siraj",
+            "lat": 30.6359829,
+            "lng": 30.9288149
+        },
+        {
+            "postal_code": 32683,
+            "address": "KFOR sand / Quesna",
+            "post_office": "KFOR sand",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32684,
+            "address": "Mubarak Industrial Zone / Quesna",
+            "post_office": "Mubarak Industrial Zone",
+            "lat": 30.5624891,
+            "lng": 31.15987629999999
+        },
+        {
+            "postal_code": 32685,
+            "address": "Kafr el-Sheikh Shehata / followed",
+            "post_office": "Kafr el Sheikh Shehata",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 32686,
+            "address": "Dyer St. side of Kafr Qrashwm / followed",
+            "post_office": "Kafr Qrashwm",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32687,
+            "address": "Followed center",
+            "post_office": "Kafr Ptbs",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32711,
+            "address": "Village Astabary / Shebin",
+            "post_office": "Astabary",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32712,
+            "address": "Village Shubra Khalfoun / Shebin",
+            "post_office": "Shubra Khalfoun",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32713,
+            "address": "Kafr El Society of Agricultural Tunbdy / Shebin",
+            "post_office": "Kafr Tunbdy",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32714,
+            "address": "Kafr El -Sadat interest / Shebin",
+            "post_office": "Kafr Msalihh",
+            "lat": 31.0971729,
+            "lng": 30.947375
+        },
+        {
+            "postal_code": 32715,
+            "address": "Zaid bin Haritha Mayi u / Shebin",
+            "post_office": "Mayi",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32718,
+            "address": "Village Shenwan / Shebin",
+            "post_office": "Shenwan",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32719,
+            "address": "U railway Alaptanon / Shebin",
+            "post_office": "Alaptanon station",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32721,
+            "address": "U Republic Alaptanon / Hibn Kom",
+            "post_office": "Alaptanon country",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32722,
+            "address": "U Dyer dead hand of Moses / Shebin",
+            "post_office": "Mitt Moses",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32725,
+            "address": "Village monk / Shebin",
+            "post_office": "Monk",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32726,
+            "address": "Kafr Shenwan / Shebin",
+            "post_office": "Kafr Shenwan",
+            "lat": 30.4981242,
+            "lng": 31.0191751
+        },
+        {
+            "postal_code": 32729,
+            "address": "El Bahr Ptbs / Shebin",
+            "post_office": "Ptbs",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32731,
+            "address": "Village Zoer / Shebin",
+            "post_office": "Zoer",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32732,
+            "address": "Mitt Massoud / Shebin village",
+            "post_office": "Mitt Massoud",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32733,
+            "address": "Essam facility / Shebin",
+            "post_office": "Essam facility",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32734,
+            "address": "Posta Kom Green / u Shebin",
+            "post_office": "Com green",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32735,
+            "address": "Dyer St. side Boukhaty / Shebin",
+            "post_office": "Boukhaty",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32736,
+            "address": "Dyer St., hand / Kafr Alaptanon / Shebin",
+            "post_office": "Kafr Alaptanon",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32737,
+            "address": "Kafr El-Sheikh Khalil / Shebin",
+            "post_office": "Kafr El Sheikh Khalil",
+            "lat": 30.5988607,
+            "lng": 30.9676095
+        },
+        {
+            "postal_code": 32738,
+            "address": "Village Tunbdy / Shebin",
+            "post_office": "Tunbdy Shebin",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32739,
+            "address": "Mitt wellness village - Pool Center seven",
+            "post_office": "Mitt wellness",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32741,
+            "address": "Mlij share - Pool Center seven",
+            "post_office": "Share Mlij",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32742,
+            "address": "Mitt bananas",
+            "post_office": "Mitt bananas",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32743,
+            "address": "Shebin Center",
+            "post_office": "Salka Shebin",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32744,
+            "address": "Shebin Center",
+            "post_office": "Facility Boukhaty",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 32745,
+            "address": "Town",
+            "post_office": "Henwfah",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32799,
+            "address": "MBE local unit Dragel / martyrs",
+            "post_office": "Built safety",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32811,
+            "address": "Casting Sunday / Ashmoun village next to the city council",
+            "post_office": "The main Ashmoun",
+            "lat": 30.2961359,
+            "lng": 30.9814292
+        },
+        {
+            "postal_code": 32812,
+            "address": "St. bridge Sntric / Ashmoun Mohsen Mohamed St.",
+            "post_office": "Ashmoun sub",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32816,
+            "address": "St. station Hamoul / Menouf",
+            "post_office": "Casting Sunday",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32817,
+            "address": "Sntric / Ashmon",
+            "post_office": "Sntric",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32818,
+            "address": "Dyer St. side dams / Menouf",
+            "post_office": "Paternoster Abu hair",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32822,
+            "address": "Hospital St. Ramlah Alangb / Ashmoun",
+            "post_office": "Jerwan",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32823,
+            "address": "St. Downtown Kafr comb / Menouf",
+            "post_office": "Pei Arabs",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32826,
+            "address": "Village Aboukhas / Bajaur",
+            "post_office": "Kafr greenery",
+            "lat": 30.4289031,
+            "lng": 31.062658
+        },
+        {
+            "postal_code": 32827,
+            "address": "Kafr Shubra Negro / Bajaur - Theloana",
+            "post_office": "Theloana",
+            "lat": 30.0725361,
+            "lng": 31.24976
+        },
+        {
+            "postal_code": 32828,
+            "address": "Railroad Khatatba building / m 0 Sadat",
+            "post_office": "Fisha Minor",
+            "lat": 30.3604018,
+            "lng": 30.8192093
+        },
+        {
+            "postal_code": 32832,
+            "address": "U junior high school Alangb / Ashmoun",
+            "post_office": "Aqueduct centuries",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32834,
+            "address": "Village Altarana / m 0 Sadat",
+            "post_office": "Mitt Afif",
+            "lat": 30.3593519,
+            "lng": 30.5327214
+        },
+        {
+            "postal_code": 32835,
+            "address": "Coast Village Ajawabr / martyrs - Bihnay",
+            "post_office": "Bihnay",
+            "lat": 30.3908575,
+            "lng": 31.06924039999999
+        },
+        {
+            "postal_code": 32836,
+            "address": "Dyer St. metropolitan area / Menouf",
+            "post_office": "Mitt Beida",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32837,
+            "address": "St. bridge Talia / Ashmoun",
+            "post_office": "Abu Sneth",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32838,
+            "address": "Assembled unit Bakly / martyrs angle",
+            "post_office": "Shubra Negro",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32839,
+            "address": "Imam Malik / Sadat City",
+            "post_office": "Casting locality",
+            "lat": 30.3593519,
+            "lng": 30.5327214
+        },
+        {
+            "postal_code": 32841,
+            "address": "Dyer St. side Mitt Afif / Bajaur - martyrs",
+            "post_office": "Martyrs",
+            "lat": 30.3865806,
+            "lng": 31.0941222
+        },
+        {
+            "postal_code": 32842,
+            "address": "Dyer St. hand corner waterwheel / martyrs",
+            "post_office": "Dragel",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32843,
+            "address": "U schools demure angle / Menouf",
+            "post_office": "Ajawabr Coast",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32844,
+            "address": "U point manor Shubra Umbulula / Menouf",
+            "post_office": "Kafr Bajaur",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32845,
+            "address": "St. martyrs / Ashmoun",
+            "post_office": "Abashich",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32846,
+            "address": "University Co -Sadat 0",
+            "post_office": "Kafr Plumht",
+            "lat": 30.5655764,
+            "lng": 31.0130822
+        },
+        {
+            "postal_code": 32849,
+            "address": "Sadat / martyrs facility",
+            "post_office": "Kafr Hbrazenjy",
+            "lat": 30.3593519,
+            "lng": 30.5327214
+        },
+        {
+            "postal_code": 32853,
+            "address": "El Sawy research Almenkdy / Ashmoun Bridge",
+            "post_office": "Shamma",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32854,
+            "address": "Village built safety",
+            "post_office": "Rare",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32855,
+            "address": "Dyer St. side village Rare / martyrs",
+            "post_office": "Stone Island",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32856,
+            "address": "Village Gmaren / Menouf",
+            "post_office": "Waterwheel angle",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32857,
+            "address": "U Unity Health Singerj / Menouf",
+            "post_office": "Smadun",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32858,
+            "address": "Assembled unit building Thoay / Ashmoun",
+            "post_office": "Grace",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32859,
+            "address": "U Society of Agricultural Aldberky / Menouf",
+            "post_office": "Hnchor",
+            "lat": 30.5907335,
+            "lng": 31.001495
+        },
+        {
+            "postal_code": 32861,
+            "address": "Village Pan / Ashmoun",
+            "post_office": "Sers Layyan",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32864,
+            "address": "St. station / Menouf",
+            "post_office": "Mushairef",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32865,
+            "address": "Court / El Sadat City",
+            "post_office": "Gmaren",
+            "lat": 30.3633207,
+            "lng": 30.5315856
+        },
+        {
+            "postal_code": 32866,
+            "address": "El Azhar Institute Khatatba country / m 0 Sadat",
+            "post_office": "Great Fisha",
+            "lat": 30.3604018,
+            "lng": 30.8192093
+        },
+        {
+            "postal_code": 32867,
+            "address": "U local unit major Fisha / Menouf",
+            "post_office": "Demure angle",
+            "lat": 30.4666452,
+            "lng": 30.9273013
+        },
+        {
+            "postal_code": 32868,
+            "address": "Village Htanov / Ashmoun",
+            "post_office": "Dams",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32869,
+            "address": "Dyer St. tattooed hand / Ashmoun",
+            "post_office": "Rewarded",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32871,
+            "address": "Hamoul village next to the train station",
+            "post_office": "Hamoul",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32872,
+            "address": "Almansh village / Ashmoun",
+            "post_office": "Tmlay",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32873,
+            "address": "El Club Chuchai / Ashmoun next to the local unit",
+            "post_office": "Talia",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32874,
+            "address": "St. station Smadun / Ashmoun",
+            "post_office": "Pan",
+            "lat": 30.3344067,
+            "lng": 30.9574037
+        },
+        {
+            "postal_code": 32875,
+            "address": "Village quintiles / m 0 Sadat",
+            "post_office": "Central Mitt",
+            "lat": 30.3593519,
+            "lng": 30.5327214
+        },
+        {
+            "postal_code": 32876,
+            "address": "U Agricultural Society Donshway / martyrs",
+            "post_office": "Singerj",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32877,
+            "address": "Dyer St., hand / Menouf",
+            "post_office": "Sultan facility",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32878,
+            "address": "Dyer St. side Sroheet / Menouf",
+            "post_office": "Donshway",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32879,
+            "address": "Sers village Layyan / Menouf",
+            "post_office": "Dnassour",
+            "lat": 30.459427,
+            "lng": 30.9404058
+        },
+        {
+            "postal_code": 32885,
+            "address": "St. rewarded / Menouf schools",
+            "post_office": "Paternoster Almenkdy",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32887,
+            "address": "Menof / village of Kafr Alsnabsh",
+            "post_office": "Kafr Alsnabsh",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32888,
+            "address": "Station St. martyrs / Kamal El trade",
+            "post_office": "Bashtamy",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32893,
+            "address": "U Complex courts Hnchor / Ashmoun",
+            "post_office": "Dmlij",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32894,
+            "address": "Crossing the field and led Nitrite / lake",
+            "post_office": "Hit Mnovih",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32895,
+            "address": "Seventh Quarter / m 0 Sadat",
+            "post_office": "Kafr David",
+            "lat": 30.3593519,
+            "lng": 30.5327214
+        },
+        {
+            "postal_code": 32896,
+            "address": "Dyer St. side Islander stone / martyrs",
+            "post_office": "Dberky",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32897,
+            "address": "Court / Sadat Center St.",
+            "post_office": "Sadat Sadat Center",
+            "lat": 30.3593519,
+            "lng": 30.5327214
+        },
+        {
+            "postal_code": 32913,
+            "address": "Dyer St., hand / martyrs",
+            "post_office": "Asraoh",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32916,
+            "address": "St. youth center Abu Mahmoud / Ashmoun",
+            "post_office": "Kafr spears",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32917,
+            "address": "Dyer St. side Dnassour / martyrs",
+            "post_office": "Shubra Umbulula",
+            "lat": 30.5972455,
+            "lng": 30.9876321
+        },
+        {
+            "postal_code": 32918,
+            "address": "Abdel Moneim Riad El Ashmoun",
+            "post_office": "Aboukhas",
+            "lat": 30.2973067,
+            "lng": 30.9804085
+        },
+        {
+            "postal_code": 32919,
+            "address": "St. youth center Delhmo / Ashmoun",
+            "post_office": "Hahaa",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32922,
+            "address": "Village Fisha Minor / Bajaur",
+            "post_office": "District VI",
+            "lat": 30.4055301,
+            "lng": 30.9940506
+        },
+        {
+            "postal_code": 32925,
+            "address": "Graves St. Bhoash / Menouf",
+            "post_office": "Sadat facility",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32926,
+            "address": "Kafr Ashma - martyrs Center",
+            "post_office": "Kafr Ashma",
+            "lat": 30.57836039999999,
+            "lng": 30.8952055
+        },
+        {
+            "postal_code": 32941,
+            "address": "Dyer St. side Kors / Ashmoun",
+            "post_office": "Imam Malik",
+            "lat": 30.2945424,
+            "lng": 30.9782196
+        },
+        {
+            "postal_code": 32951,
+            "address": "Dyer St. side Snsaft / Menouf next to Bank of Egypt",
+            "post_office": "Menouf",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32952,
+            "address": "El Shaheed Abdul Aziz Tata / u Menouf army",
+            "post_office": "Menouf sea",
+            "lat": 30.552617,
+            "lng": 31.0050418
+        },
+        {
+            "postal_code": 32956,
+            "address": "Sea Bridge St. Cbshir Tmlay / Menouf",
+            "post_office": "Snsaft",
+            "lat": 30.4641487,
+            "lng": 30.9358018
+        },
+        {
+            "postal_code": 32957,
+            "address": "Kafr Mahmoud / Bajaur",
+            "post_office": "Tata",
+            "lat": 30.3815125,
+            "lng": 31.0636311
+        },
+        {
+            "postal_code": 32958,
+            "address": "Village Tnob / followed next insurance",
+            "post_office": "Second Quarter Sadat City",
+            "lat": 30.6894204,
+            "lng": 30.7998526
+        },
+        {
+            "postal_code": 38621,
+            "address": "Al - Barakeet - Mahalla Al - Kubra Center",
+            "post_office": "The brush",
+            "lat": 30.9696706,
+            "lng": 31.168083
+        },
+        {
+            "postal_code": 32688,
+            "address": "The village of Qashtoukh - Tala center",
+            "post_office": "Scratched",
+            "lat": 30.737161,
+            "lng": 30.9388678
+        },
+        {
+            "postal_code": 37631,
+            "address": "Kafr El Pharaony - Ashmoun Center",
+            "post_office": "Kafr Pharaonic",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        }
+    ]
+}

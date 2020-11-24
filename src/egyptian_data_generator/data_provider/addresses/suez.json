@@ -1,0 +1,305 @@
+{
+    "suez": [
+        {
+            "postal_code": 43511,
+            "address": "Hoda Shaarawy Street / Suez",
+            "post_office": "Suez",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43512,
+            "address": "Strangely housing Building 145 / Apartment 2",
+            "post_office": "Suez subsidiary",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43519,
+            "address": "Republic District / City morning / Department Faisal",
+            "post_office": "Morning city",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43514,
+            "address": "Park Saad / Suez / Department of forty housing",
+            "post_office": "Forty",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43517,
+            "address": "Military station Faisal / Camp Suez",
+            "post_office": "Camp Suez",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43714,
+            "address": "Jblaah Abu Usman / Department Ganayen",
+            "post_office": "Aljblayat",
+            "lat": 30.0274054,
+            "lng": 32.5546709
+        },
+        {
+            "postal_code": 43513,
+            "address": "Talaat Harb Street / Suez",
+            "post_office": "Suez second",
+            "lat": 30.048963,
+            "lng": 31.239492
+        },
+        {
+            "postal_code": 43515,
+            "address": "U Army Triangle / Suez / housing department forty",
+            "post_office": "Forty third",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43713,
+            "address": "Compost / Ataka housing",
+            "post_office": "Ataka",
+            "lat": 29.9274548,
+            "lng": 32.4014193
+        },
+        {
+            "postal_code": 43522,
+            "address": "Channel Street / Port Tawfik",
+            "post_office": "Portofik_ksm Suez",
+            "lat": 29.93953969999999,
+            "lng": 32.5614595
+        },
+        {
+            "postal_code": 43516,
+            "address": "Inside the wholesale market / Suez",
+            "post_office": "Suez Wholesale Market",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43518,
+            "address": "Faisal / Department Faisal City",
+            "post_office": "King Faisal",
+            "lat": 29.9844941,
+            "lng": 32.5108855
+        },
+        {
+            "postal_code": 43712,
+            "address": "Village Jennifh / Department Ganayen",
+            "post_office": "Jennifh",
+            "lat": 30.2046472,
+            "lng": 32.4259312
+        },
+        {
+            "postal_code": 43711,
+            "address": "Village Mayor / Department Ganayen",
+            "post_office": "Ganayen",
+            "lat": 30.0274054,
+            "lng": 32.5546709
+        },
+        {
+            "postal_code": 43521,
+            "address": "Village Amer / Ganayen",
+            "post_office": "Amer village",
+            "lat": 30.0274054,
+            "lng": 32.5546709
+        },
+        {
+            "postal_code": 43716,
+            "address": "Eyes Musa / Moses Qriaaaon / Department Ganayen",
+            "post_office": "Eyes of Moses",
+            "lat": 30.0274054,
+            "lng": 32.5546709
+        },
+        {
+            "postal_code": 43524,
+            "address": "Forty District / next Wabour light",
+            "post_office": "Second forty",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43523,
+            "address": "Sadat / City Building (42)",
+            "post_office": "Sadat",
+            "lat": 30.3593519,
+            "lng": 30.5327214
+        },
+        {
+            "postal_code": 43718,
+            "address": "Building (a ) Flat 3 (b) / Suez / marine passenger terminal",
+            "post_office": "Marine passenger terminal",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43722,
+            "address": "Sulfur sailors / Ganayen District",
+            "post_office": "Sulfur sailors",
+            "lat": 30.0274054,
+            "lng": 32.5546709
+        },
+        {
+            "postal_code": 43529,
+            "address": "Mubarak City / Building 11 Flat 3",
+            "post_office": "Mubarak",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43526,
+            "address": "Morning / Atlas District Building 235",
+            "post_office": "Suez station",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43527,
+            "address": "Obour City (3) Apartment ( 2) Forty / Forty section",
+            "post_office": "October 24",
+            "lat": 30.2283408,
+            "lng": 31.4798948
+        },
+        {
+            "postal_code": 43525,
+            "address": "City of Faith / Suez",
+            "post_office": "Faith",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43719,
+            "address": "Al Nasr Housing for oil / fertilizer / Suez",
+            "post_office": "Manure Suez",
+            "lat": 29.3682255,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 43715,
+            "address": "Clovh / Suez / village Ganayen",
+            "post_office": "Clovh",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43721,
+            "address": "Suez Oil Processing Co.",
+            "post_office": "Refining Alpetrol_asuez",
+            "lat": 29.9581929,
+            "lng": 32.5062245
+        },
+        {
+            "postal_code": 43723,
+            "address": "Within the Customs Building / Suez",
+            "post_office": "Parcels Customs",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43724,
+            "address": "Village sulfur Akhawatrh / Ganayen District",
+            "post_office": "Sulfur Akhawatrh",
+            "lat": 30.0274054,
+            "lng": 32.5546709
+        },
+        {
+            "postal_code": 43725,
+            "address": "Clovh / village next to the train station / Ganayen",
+            "post_office": "Clovh Sunrise",
+            "lat": 30.0274054,
+            "lng": 32.5546709
+        },
+        {
+            "postal_code": 43726,
+            "address": "Industrial Area / Gulf of Suez",
+            "post_office": "Gulf of Suez",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43532,
+            "address": "Safa City",
+            "post_office": "Safa",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43533,
+            "address": "City of Peace",
+            "post_office": "City of Peace",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43732,
+            "address": "Pioneer",
+            "post_office": "Pioneer",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43538,
+            "address": "Ataka city convenience District",
+            "post_office": "Yosr",
+            "lat": 29.9274548,
+            "lng": 32.4014193
+        },
+        {
+            "postal_code": 43547,
+            "address": "Ataka Rehab City District",
+            "post_office": "Rehab",
+            "lat": 29.9274548,
+            "lng": 32.4014193
+        },
+        {
+            "postal_code": 43742,
+            "address": "Ataka Kawthar City District",
+            "post_office": "Kawthar",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43543,
+            "address": "Ataka City of Light District",
+            "post_office": "Light",
+            "lat": 29.9274548,
+            "lng": 32.4014193
+        },
+        {
+            "postal_code": 43729,
+            "address": "Not yet opened",
+            "post_office": "Yousef Al - Sebaie",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43731,
+            "address": "Not yet opened",
+            "post_office": "Mohamed Abdu",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43552,
+            "address": "Booking ... Porto Sokhna Hotel",
+            "post_office": "Porto Sokhna",
+            "lat": 29.44297,
+            "lng": 32.479674
+        },
+        {
+            "postal_code": 43535,
+            "address": "Al Marwa City",
+            "post_office": "Suez Traffic Administration",
+            "lat": 29.9668343,
+            "lng": 32.5498069
+        },
+        {
+            "postal_code": 43533,
+            "address": "El - Tawfiq Center of Traffic Suez Post",
+            "post_office": "Reconciliation",
+            "lat": 29.985283,
+            "lng": 32.495695
+        }
+    ]
+}

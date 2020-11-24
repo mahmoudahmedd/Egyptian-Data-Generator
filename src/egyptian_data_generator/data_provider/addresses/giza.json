@@ -1,0 +1,1481 @@
+{
+    "giza": [
+        {
+            "postal_code": 12512,
+            "address": "Another Pyramid Street",
+            "post_office": "Tourism Pyramid",
+            "lat": 29.9860189,
+            "lng": 31.158734
+        },
+        {
+            "postal_code": 12513,
+            "address": "10 Sanadily / Giza St.",
+            "post_office": "Giza second",
+            "lat": 30.0350752,
+            "lng": 31.2179629
+        },
+        {
+            "postal_code": 12514,
+            "address": "Station / m . Street Giza",
+            "post_office": "Sunday market",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12515,
+            "address": "Interests / Giza complex building",
+            "post_office": "Spring Gizy",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12516,
+            "address": "Public housing / barmaid Macki / brief",
+            "post_office": "Giza fourth",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12517,
+            "address": "Saad Zaghloul Street barmaid Macki Giza",
+            "post_office": "Paternoster Macki",
+            "lat": 29.9949115,
+            "lng": 31.2137715
+        },
+        {
+            "postal_code": 12518,
+            "address": "The main street / village Teresa / brief",
+            "post_office": "Teresa brief",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12519,
+            "address": "Slaughterhouse automated Street Mounab / brief",
+            "post_office": "Munib",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12521,
+            "address": "Egypt Building Insurance Giza / field",
+            "post_office": "Provision of Giza",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12525,
+            "address": "Giza railway station",
+            "post_office": "Giza station",
+            "lat": 30.0093085,
+            "lng": 31.2079196
+        },
+        {
+            "postal_code": 12549,
+            "address": "Palm Street",
+            "post_office": "Queen",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12551,
+            "address": "34 El cooperation / Urban eastern m .Shortly",
+            "post_office": "Urban East",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12552,
+            "address": "El -Sadr Hospital / Western Urban m .Giza",
+            "post_office": "Western Urban",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12553,
+            "address": "10 Suwaylim u / student / brief",
+            "post_office": "Student",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12554,
+            "address": "Academy of Arts / Urban / brief",
+            "post_office": "City Arts",
+            "lat": 30.0019588,
+            "lng": 31.1959037
+        },
+        {
+            "postal_code": 12555,
+            "address": "Central Street pyramid / brief",
+            "post_office": "Central Ahram",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12559,
+            "address": "Infidels Nassar next to the health unit",
+            "post_office": "Kvrnsar",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12561,
+            "address": "Pyramid Sports / Kafr Mountain Club",
+            "post_office": "Kafr mountain",
+            "lat": 29.965528,
+            "lng": 31.1422617
+        },
+        {
+            "postal_code": 12562,
+            "address": "Local Unit / m Briqash building Embaba",
+            "post_office": "Briqash",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12563,
+            "address": "District VI / 6 neighboring 6th of October City near the Commercial Market",
+            "post_office": "District VI October",
+            "lat": 29.9474722,
+            "lng": 30.917191
+        },
+        {
+            "postal_code": 12564,
+            "address": "Seventh Quarter adjacent first p 022 6th of October City",
+            "post_office": "Seventh Quarter October",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12565,
+            "address": "St. freedom in front of the mosque alwastany / brief",
+            "post_office": "Church",
+            "lat": 29.2046609,
+            "lng": 31.1850357
+        },
+        {
+            "postal_code": 12566,
+            "address": "District VI next passports M 11",
+            "post_office": "Services _ October 6 complex",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12567,
+            "address": "Residential architecture in Khalid bin Walid Al-Haram / m . Giza St. fulfillment and hope",
+            "post_office": "Khalid ibn al Walid Giza",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12568,
+            "address": "Distinguished District adjacent 3 Commercial Market / October 6",
+            "post_office": "Distinguished District",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12569,
+            "address": "Village public housing built safety of Imbaba",
+            "post_office": "Built safety Imbaba",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12571,
+            "address": "Abeida Kafr Ghataty Street",
+            "post_office": "Kafr Ghataty",
+            "lat": 30.0054388,
+            "lng": 31.12287989999999
+        },
+        {
+            "postal_code": 12572,
+            "address": "108 Shooting housing / next to the club",
+            "post_office": "Shooting",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12573,
+            "address": "District 12 18:00 Central Building October 6",
+            "post_office": "October 6 main",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12576,
+            "address": "Harraneya / m Abu Nomros / Giza village",
+            "post_office": "Osman Ahmed Osman",
+            "lat": 29.9974202,
+            "lng": 31.2099364
+        },
+        {
+            "postal_code": 12577,
+            "address": "The first Cairo-Alexandria Desert Road",
+            "post_office": "Smart Village",
+            "lat": 30.4495247,
+            "lng": 30.3174958
+        },
+        {
+            "postal_code": 12578,
+            "address": "Inside Paradise City / October 6",
+            "post_office": "Paradise City",
+            "lat": 29.9285429,
+            "lng": 30.9187827
+        },
+        {
+            "postal_code": 12579,
+            "address": "Services Complex Kom Bakkar / Faisal St.",
+            "post_office": "Com Bakkar",
+            "lat": 30.0023075,
+            "lng": 31.1756886
+        },
+        {
+            "postal_code": 12582,
+            "address": "Distinguished District / front Mena Garden City Village",
+            "post_office": "Mena Garden City October 6",
+            "lat": 29.993529,
+            "lng": 30.9747258
+        },
+        {
+            "postal_code": 12584,
+            "address": "Madinat al-Zahra / Urban u Cila Roman",
+            "post_office": "Happy Balzhra",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12585,
+            "address": "III / October 6th District",
+            "post_office": "University October 6",
+            "lat": 29.9413916,
+            "lng": 30.9144783
+        },
+        {
+            "postal_code": 12586,
+            "address": "Building the region 14 68 11 Administrative District youth housing",
+            "post_office": "Courts and prosecutors October 6 complex",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12588,
+            "address": "Sheikh Zayed City / First Quarter Services Center",
+            "post_office": "District Alawl_heik Zayed",
+            "lat": 30.0491629,
+            "lng": 30.9761599
+        },
+        {
+            "postal_code": 12591,
+            "address": "October 6 club",
+            "post_office": "October 6 Club",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12592,
+            "address": "City of Culture and Science / October 6",
+            "post_office": "City of Culture and Science",
+            "lat": 29.9263114,
+            "lng": 30.9023464
+        },
+        {
+            "postal_code": 12593,
+            "address": "Building No. 50 neighboring third / Third Quarter ten Sheikh Zayed City",
+            "post_office": "Young District",
+            "lat": 30.0491629,
+            "lng": 30.9761599
+        },
+        {
+            "postal_code": 12596,
+            "address": "Third / October 6 neighboring",
+            "post_office": "Third Quarter",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12615,
+            "address": "10 editorial / Dokki / brief Street",
+            "post_office": "City Endowments",
+            "lat": 30.0394511,
+            "lng": 31.2025336
+        },
+        {
+            "postal_code": 12616,
+            "address": "Railway station Bulaq Dakror",
+            "post_office": "Bulaq Dakror",
+            "lat": 30.0400562,
+            "lng": 31.1930279
+        },
+        {
+            "postal_code": 12617,
+            "address": "Community Development Bulaq Dakror / u Hmfirs Association",
+            "post_office": "Bulaq Dakror sub",
+            "lat": 30.0400562,
+            "lng": 31.1930279
+        },
+        {
+            "postal_code": 12618,
+            "address": "Ministry of Agriculture / Dokki / brief building",
+            "post_office": "Ministry of Agriculture",
+            "lat": 30.04341,
+            "lng": 31.211712
+        },
+        {
+            "postal_code": 12619,
+            "address": "ARC / brief",
+            "post_office": "Agricultural Research",
+            "lat": 30.0207753,
+            "lng": 31.2112929
+        },
+        {
+            "postal_code": 12621,
+            "address": "Skimped / Giza Street",
+            "post_office": "Skimped",
+            "lat": 30.0314794,
+            "lng": 31.18511449999999
+        },
+        {
+            "postal_code": 12622,
+            "address": "Editorial / Dokki / brief Street",
+            "post_office": "National Center for Research",
+            "lat": 30.0394511,
+            "lng": 31.2025336
+        },
+        {
+            "postal_code": 12623,
+            "address": "Kafr Tohormos / short / m . Embaba",
+            "post_office": "Kafr Tohormos",
+            "lat": 30.0151729,
+            "lng": 31.18106079999999
+        },
+        {
+            "postal_code": 12624,
+            "address": "Diabetes / Street between chateaux",
+            "post_office": "Between chateaux",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12625,
+            "address": "Mendihh village / Bahariya Oasis",
+            "post_office": "Mendihh",
+            "lat": 28.3850182,
+            "lng": 28.9084501
+        },
+        {
+            "postal_code": 12627,
+            "address": "Inside Shooting Club / Shooting Club St. Dokki",
+            "post_office": "Shooting Club within the club",
+            "lat": 30.0454545,
+            "lng": 31.201818
+        },
+        {
+            "postal_code": 12649,
+            "address": "Zamalek Club",
+            "post_office": "Zamalek Club",
+            "lat": 30.05478299999999,
+            "lng": 31.2165188
+        },
+        {
+            "postal_code": 12651,
+            "address": "Kit Kat / Sudan Street / Embaba field",
+            "post_office": "Imbaba",
+            "lat": 30.0442577,
+            "lng": 31.1938158
+        },
+        {
+            "postal_code": 12652,
+            "address": "U Group I / city workers / Embaba",
+            "post_office": "City workers",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12653,
+            "address": "165 Liberty / Imbaba Street",
+            "post_office": "Kafr Shawwam",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12654,
+            "address": "/ Alajuzhh / Abu Maaly Shazly",
+            "post_office": "Agouza",
+            "lat": 29.9994677,
+            "lng": 31.2011368
+        },
+        {
+            "postal_code": 12655,
+            "address": "1 Jalaluddin field / Hijaz / Agouza Street",
+            "post_office": "City engineers",
+            "lat": 30.0545308,
+            "lng": 31.1972307
+        },
+        {
+            "postal_code": 12656,
+            "address": "25 Abdul Aziz Jawish u / Agouza",
+            "post_office": "City teachers",
+            "lat": 30.0511223,
+            "lng": 31.2125529
+        },
+        {
+            "postal_code": 12657,
+            "address": "Posta / Agouza Street",
+            "post_office": "Mitt obstacle",
+            "lat": 30.044101,
+            "lng": 31.209555
+        },
+        {
+            "postal_code": 12658,
+            "address": "Students / Agouza / brief city",
+            "post_office": "Students City",
+            "lat": 30.0511223,
+            "lng": 31.2125529
+        },
+        {
+            "postal_code": 12659,
+            "address": "Abdul Hamid Hamouda Street / Embaba",
+            "post_office": "Enlightening second",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12661,
+            "address": "Nile / Warraq / Imbaba Street",
+            "post_office": "Urban and refined",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12662,
+            "address": "Canal St. coast / Warraq",
+            "post_office": "Warraq Arabs",
+            "lat": 30.1186111,
+            "lng": 31.2258333
+        },
+        {
+            "postal_code": 12664,
+            "address": "Omar bin al-Khattab Street / ground Assembly / Embaba",
+            "post_office": "Land Assembly",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12665,
+            "address": "Local Unit / Island and refined urban",
+            "post_office": "Island and upscale urban",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12667,
+            "address": "Schools / Imbaba Street",
+            "post_office": "Land Aziz Ezzat",
+            "lat": 30.1415075,
+            "lng": 31.1590965
+        },
+        {
+            "postal_code": 12668,
+            "address": "24 Airport Road / Imbaba",
+            "post_office": "Western enlightening",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12671,
+            "address": "Gamal Abdel Nasser / m u .Embaba",
+            "post_office": "Manor Mufti",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12673,
+            "address": "Ibn Khaldun field / in front of the hospital staff",
+            "post_office": "Sales Tax Authority",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12674,
+            "address": "Kafr Salmaniya / Warraq / m .Giza",
+            "post_office": "Kafur Salmaniya",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12675,
+            "address": "Block 14 El Airport / enlightening Western / Giza popular housing",
+            "post_office": "New enlightening",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12676,
+            "address": "Abu Rawash / short / m .Embaba",
+            "post_office": "Abu Rawash",
+            "lat": 30.0450472,
+            "lng": 31.0950125
+        },
+        {
+            "postal_code": 12677,
+            "address": "Giza / in front of the village pure / Km 28 Cairo-Alexandria Desert Road",
+            "post_office": "Industrial zone _ Abu Rawash",
+            "lat": 30.4495247,
+            "lng": 30.3174958
+        },
+        {
+            "postal_code": 12685,
+            "address": "Warraq / Giza",
+            "post_office": "Warraq Services Complex",
+            "lat": 30.1186111,
+            "lng": 31.2258333
+        },
+        {
+            "postal_code": 12811,
+            "address": "Village Ghammaza Minor / M.Grade",
+            "post_office": "Ghammaza Minor",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12812,
+            "address": "Aldezmy / local / row unit",
+            "post_office": "Aldezmy",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12813,
+            "address": "Village Bhpet / m Ayat",
+            "post_office": "Bhpet",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12814,
+            "address": "Village Kaabich Pyramid / brief",
+            "post_office": "Kaabich",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12815,
+            "address": "Services manor house Airport / m Osim",
+            "post_office": "Manor Airport _ Imbaba",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12816,
+            "address": "Arabs siege tribal / m .elsaf",
+            "post_office": "Arab tribal siege",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12817,
+            "address": "The main street in the village of Bamha / m Ayat",
+            "post_office": "Bamha",
+            "lat": 29.5887864,
+            "lng": 31.2391998
+        },
+        {
+            "postal_code": 12818,
+            "address": "Minia village / - m .Grade",
+            "post_office": "Minya brief",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 12819,
+            "address": "Village Grand Ghammaza / Grade",
+            "post_office": "Great Ghammaza",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12821,
+            "address": "Mitt Commander / m Ayat",
+            "post_office": "Mitt commander",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12822,
+            "address": "Alrhowy village / facility barrages / Embaba",
+            "post_office": "Alrhowy",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12823,
+            "address": "Village Lasker / m row",
+            "post_office": "Lasker",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12824,
+            "address": "Village Gerza / Ayat Center",
+            "post_office": "Gerza _ briefly",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12825,
+            "address": "Ekhsas Almnashy / facility Spans",
+            "post_office": "A_khasas Almnashy",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12826,
+            "address": "Kafr Gerza",
+            "post_office": "Kafr Gerza",
+            "lat": 29.9898159,
+            "lng": 31.1338071
+        },
+        {
+            "postal_code": 12827,
+            "address": "Land Brigade",
+            "post_office": "Land Brigade",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12828,
+            "address": "Kafr Tarkhan / Grade Center",
+            "post_office": "Kafr Tarkhan",
+            "lat": 29.7251203,
+            "lng": 31.2798033
+        },
+        {
+            "postal_code": 12832,
+            "address": "Hnbary / Osim Center",
+            "post_office": "Hnbary",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12841,
+            "address": "Abu Muslim angle / Abu Nomros",
+            "post_office": "Abu Muslim angle",
+            "lat": 29.9974202,
+            "lng": 31.2099364
+        },
+        {
+            "postal_code": 12845,
+            "address": "Village billfish / Atfih",
+            "post_office": "Shatt Nile",
+            "lat": 29.4080614,
+            "lng": 31.252741
+        },
+        {
+            "postal_code": 12851,
+            "address": "Kafr Allowasalian Atfih Center",
+            "post_office": "Kafr arrivals",
+            "lat": 29.4080614,
+            "lng": 31.252741
+        },
+        {
+            "postal_code": 12857,
+            "address": "Dahshur",
+            "post_office": "Dahshur",
+            "lat": 29.7971482,
+            "lng": 31.2433164
+        },
+        {
+            "postal_code": 12858,
+            "address": "Kafr Breueh",
+            "post_office": "Breueh",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12859,
+            "address": "Abu Suwaylim Ayat Village Center",
+            "post_office": "Angle Abu Sweilem",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12861,
+            "address": "Wholesale / Ayat Village Center",
+            "post_office": "Wholesale",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12862,
+            "address": "Hara village / Bahariya m",
+            "post_office": "Warm",
+            "lat": 28.3850182,
+            "lng": 28.9084501
+        },
+        {
+            "postal_code": 12863,
+            "address": "Palace Siwa main street village Bahariya",
+            "post_office": "Palace",
+            "lat": 29.2031708,
+            "lng": 25.5195451
+        },
+        {
+            "postal_code": 12864,
+            "address": "Village Alsbo / Bahariya Oasis",
+            "post_office": "Vanity",
+            "lat": 28.3850182,
+            "lng": 28.9084501
+        },
+        {
+            "postal_code": 12865,
+            "address": "Barghouti village / Ayat Center",
+            "post_office": "Barghouti",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12866,
+            "address": "Algelatemh / Manshyet archways Center / Village District VI",
+            "post_office": "Algelatemh",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12867,
+            "address": "Pedv village / Ayat Center",
+            "post_office": "Pedv",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12868,
+            "address": "Village Beja Sheikh / Ayat Center",
+            "post_office": "Beja Sheikh",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12872,
+            "address": "Almqatefah / Ayat Village Center",
+            "post_office": "Almqatefah",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12873,
+            "address": "Turkish village of Kafr / m .Ayat",
+            "post_office": "Kafr Turk",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12874,
+            "address": "Abul Abbas",
+            "post_office": "Abul Abbas Giza",
+            "lat": 30.0080996,
+            "lng": 31.1764901
+        },
+        {
+            "postal_code": 12875,
+            "address": "Kafr sage / Osim Center",
+            "post_office": "Kafr El Hakim",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12876,
+            "address": "Abu Nomros center / village of Nazlat Actr",
+            "post_office": "Catarrh Actr",
+            "lat": 29.9974202,
+            "lng": 31.2099364
+        },
+        {
+            "postal_code": 12877,
+            "address": "Ghammaza Minor / Arabs Tarabin / Grade",
+            "post_office": "Arabs Tarabin",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12878,
+            "address": "Arabs hill",
+            "post_office": "Arabs hill",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12879,
+            "address": "Built scheduler Imbaba Center",
+            "post_office": "Built scheduler",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12881,
+            "address": "Zaidi village",
+            "post_office": "Zaidi",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12882,
+            "address": "Arab arena / Giza",
+            "post_office": "Arab arena",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12883,
+            "address": "Hassanein / m .Osim",
+            "post_office": "Hassanein",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12884,
+            "address": "Arab village of supervisory / Atfih",
+            "post_office": "Arabs supervisory",
+            "lat": 29.4080614,
+            "lng": 31.252741
+        },
+        {
+            "postal_code": 12885,
+            "address": "Services Complex / Park tents / Osim",
+            "post_office": "Park tents",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12886,
+            "address": "Arab Abu petition / m row",
+            "post_office": "Arab Abu petition",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12887,
+            "address": "Or JD / facility archways village",
+            "post_office": "Or dinars",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12888,
+            "address": "Kafr El- Hamid / Kafr Hamid / m Ayat Center",
+            "post_office": "Kafr El Hamid",
+            "lat": 29.7166091,
+            "lng": 31.2426057
+        },
+        {
+            "postal_code": 12889,
+            "address": "U local highway / row unit",
+            "post_office": "Arab Abu helped",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12891,
+            "address": "Lisht",
+            "post_office": "Lisht",
+            "lat": 29.57024,
+            "lng": 31.2318258
+        },
+        {
+            "postal_code": 12892,
+            "address": "Bdsa / Ayat Center",
+            "post_office": "Bdsa",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12893,
+            "address": "Kafr El- Rifai / Ayat Center",
+            "post_office": "Kafr El Rifai",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 12894,
+            "address": "Catarrh Shobak / Badrashin Center",
+            "post_office": "Catarrh Shobak",
+            "lat": 29.8503964,
+            "lng": 31.2767378
+        },
+        {
+            "postal_code": 12895,
+            "address": "East Village Alliance / Atfih",
+            "post_office": "NATO s eastern",
+            "lat": 29.4080614,
+            "lng": 31.252741
+        },
+        {
+            "postal_code": 12896,
+            "address": "Friendly village grade",
+            "post_office": "Friendly",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12897,
+            "address": "Village Fahmin by grade / creams",
+            "post_office": "Fahmyin",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12898,
+            "address": "Kafr Abou Hadid / m Embaba village",
+            "post_office": "Kafr Abu iron",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12899,
+            "address": "Village creams / Helwan / Atfih",
+            "post_office": "Creams _ Helwan",
+            "lat": 29.8402707,
+            "lng": 31.29821209999999
+        },
+        {
+            "postal_code": 12911,
+            "address": "Abu Nomros / next to the Giza police",
+            "post_office": "Abu Nomros",
+            "lat": 29.9542359,
+            "lng": 31.2141196
+        },
+        {
+            "postal_code": 12912,
+            "address": "U local unit / Giza / Abu Nomros",
+            "post_office": "Manial Shiha",
+            "lat": 29.9974202,
+            "lng": 31.2099364
+        },
+        {
+            "postal_code": 12913,
+            "address": "The local unit in the village slapped m .Giza",
+            "post_office": "Tamouh",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12914,
+            "address": "The local unit building own Henan / Badrashin",
+            "post_office": "Or Henan",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12915,
+            "address": "Local Unit / village Manawat / Hawamdia / brief",
+            "post_office": "Manawat",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12916,
+            "address": "Hawamdia / Badrashin City Council",
+            "post_office": "Hawamdia",
+            "lat": 29.8503964,
+            "lng": 31.2767378
+        },
+        {
+            "postal_code": 12917,
+            "address": "Salah Salem / m . Street Badrashin",
+            "post_office": "Prince of us",
+            "lat": 29.8503964,
+            "lng": 31.2767378
+        },
+        {
+            "postal_code": 12918,
+            "address": "Badrashin City Council",
+            "post_office": "Badrashin",
+            "lat": 29.8497509,
+            "lng": 31.2765534
+        },
+        {
+            "postal_code": 12922,
+            "address": "Al Marzooqi / m Badrashin",
+            "post_office": "Al Marzooqi",
+            "lat": 29.8503964,
+            "lng": 31.2767378
+        },
+        {
+            "postal_code": 12923,
+            "address": "Main St. / Alpartyaah / m Badrashin",
+            "post_office": "Alpartyaah",
+            "lat": 29.8503964,
+            "lng": 31.2767378
+        },
+        {
+            "postal_code": 12924,
+            "address": "The village of Abu Rjoin / m Badrashin",
+            "post_office": "Abu Rjoin tribal",
+            "lat": 29.8503964,
+            "lng": 31.2767378
+        },
+        {
+            "postal_code": 12925,
+            "address": "Assembled unit / m .Badrashin",
+            "post_office": "Shobak western",
+            "lat": 29.8503964,
+            "lng": 31.2767378
+        },
+        {
+            "postal_code": 12926,
+            "address": "Mziguna / m Badrashin",
+            "post_office": "Mziguna",
+            "lat": 29.8503964,
+            "lng": 31.2767378
+        },
+        {
+            "postal_code": 12927,
+            "address": "Assembled unit / village Bernst m Ayat",
+            "post_office": "Bernst",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12931,
+            "address": "Careful / Ayat Center",
+            "post_office": "Almtanaa",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12932,
+            "address": "Kafr Ammar / Ayat Center",
+            "post_office": "Kafr Ammar",
+            "lat": 29.4959669,
+            "lng": 31.2340536
+        },
+        {
+            "postal_code": 12933,
+            "address": "Alqtory village / Ayat Center",
+            "post_office": "Alqtory",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12934,
+            "address": "Village tenderness Ayat Center",
+            "post_office": "Tenderness",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12935,
+            "address": "Main Street / m Bahariya",
+            "post_office": "Bahariya Oasis",
+            "lat": 28.3850182,
+            "lng": 28.9084501
+        },
+        {
+            "postal_code": 12936,
+            "address": "Commercial Market / m Bahariya",
+            "post_office": "Bahariya Oasis mines",
+            "lat": 28.3850182,
+            "lng": 28.9084501
+        },
+        {
+            "postal_code": 12937,
+            "address": "Water next to the village of Al-Azizia Badrashin center process",
+            "post_office": "Azizia Badrashin",
+            "lat": 29.8816053,
+            "lng": 31.2625719
+        },
+        {
+            "postal_code": 12938,
+            "address": "The main street / village angle Dahshur Badrashin Center",
+            "post_office": "Dahshur angle",
+            "lat": 29.7971482,
+            "lng": 31.2433164
+        },
+        {
+            "postal_code": 12939,
+            "address": "Assembled unit Bthma / Ayat Center",
+            "post_office": "Thma",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12941,
+            "address": "Village Almatmdip / m .Embaba",
+            "post_office": "Almatmdip of Imbaba",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12942,
+            "address": "Nahia",
+            "post_office": "Nahia",
+            "lat": 30.0442082,
+            "lng": 31.1697892
+        },
+        {
+            "postal_code": 12943,
+            "address": "Public housing / village Kerdasa / brief",
+            "post_office": "Kerdasa",
+            "lat": 30.0308657,
+            "lng": 31.1111907
+        },
+        {
+            "postal_code": 12944,
+            "address": "Local Unit / village firstborn / Pyramid facility",
+            "post_office": "Firstborn facility",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12945,
+            "address": "Saft El Laban / Giza / m .Embaba Atman / m .Giza",
+            "post_office": "Saft milk Giza",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12946,
+            "address": "The local unit building Balbragel / Osim",
+            "post_office": "Baragil",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12947,
+            "address": "The local unit building in the village of Shabramant Hawamdia",
+            "post_office": "Shabramant",
+            "lat": 29.932325,
+            "lng": 31.194752
+        },
+        {
+            "postal_code": 12948,
+            "address": "Shobak East / m row",
+            "post_office": "Shobak East",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12949,
+            "address": "Village Ekhsas / Grade",
+            "post_office": "Ekhsas",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12951,
+            "address": "Alaqguaz / m row / Giza",
+            "post_office": "Alaqguaz",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12952,
+            "address": "Row next to the Health Insurance",
+            "post_office": "Grade",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12954,
+            "address": "Village Alqbabat / Atfeeh",
+            "post_office": "Alqbabat",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12955,
+            "address": "Village Alkdaah / Atfeeh",
+            "post_office": "Alkdaah",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12956,
+            "address": "Kafr Qandil / Atfeeh",
+            "post_office": "Kafr Qandil",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12957,
+            "address": "Village Atfih / m Atfeeh",
+            "post_office": "Atfih",
+            "lat": 29.4080614,
+            "lng": 31.252741
+        },
+        {
+            "postal_code": 12958,
+            "address": "Access / local unit / Atfeeh",
+            "post_office": "Access",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12959,
+            "address": "Barmpel village / Atfih Center",
+            "post_office": "Barmpel",
+            "lat": 29.4080614,
+            "lng": 31.252741
+        },
+        {
+            "postal_code": 12961,
+            "address": "Public housing Oseem",
+            "post_office": "Osim",
+            "lat": 30.00153689999999,
+            "lng": 31.2037526
+        },
+        {
+            "postal_code": 12962,
+            "address": "U local / m Osim Unity",
+            "post_office": "Mansuriya",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12963,
+            "address": "Local Unit / Bortos / Osim",
+            "post_office": "Bortos",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12964,
+            "address": "Sea / facility barrages / Embaba Street",
+            "post_office": "Spans facility",
+            "lat": 30.0751124,
+            "lng": 31.22561869999999
+        },
+        {
+            "postal_code": 12965,
+            "address": "Ncla / facility barrages / Imbaba",
+            "post_office": "Ncla",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12966,
+            "address": "Deeb street / village Behrms / Osim",
+            "post_office": "Behrms",
+            "lat": 30.0204777,
+            "lng": 31.171795
+        },
+        {
+            "postal_code": 12967,
+            "address": "Public housing in Abu Ghalib / m Embaba",
+            "post_office": "Abu Ghalib",
+            "lat": 30.00153689999999,
+            "lng": 31.2037526
+        },
+        {
+            "postal_code": 12972,
+            "address": "The local unit building the village of Kafr Hegazy Embaba Center",
+            "post_office": "Kafr Hegazy Imbaba",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12973,
+            "address": "Assembled unit / m Ayat",
+            "post_office": "Nasiriyah Ayat",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12974,
+            "address": "The local unit building / with Kom / Osim village",
+            "post_office": "Of Kom",
+            "lat": 29.9973692,
+            "lng": 31.214821
+        },
+        {
+            "postal_code": 12975,
+            "address": "Mercy / Atreus / m Embaba mosque",
+            "post_office": "Atreus",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12976,
+            "address": "Local Unit / Bashtil Country / m Osim",
+            "post_office": "Bashtil country",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12977,
+            "address": "Local / m Osim Unity",
+            "post_office": "Kom Red Osim",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12978,
+            "address": "Assembled unit / village kindness Ayat Center",
+            "post_office": "Kindness",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12979,
+            "address": "Saudi Arabia / short / m Ayat",
+            "post_office": "Saudi Arabia",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12981,
+            "address": "The local unit building in the village of Tanash m .Warraq",
+            "post_office": "Tanash",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12982,
+            "address": "Dzaah village / barrages / Embaba facility",
+            "post_office": "Dzaah",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12983,
+            "address": "Village Manial Sultan / Atfeeh",
+            "post_office": "Manial Sultan",
+            "lat": 30.0213609,
+            "lng": 31.2268647
+        },
+        {
+            "postal_code": 12984,
+            "address": "Youth 2 Block housing 4",
+            "post_office": "2 youth housing",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12985,
+            "address": "Village Aelchenbab / Badrashin Center",
+            "post_office": "Aelchenbab",
+            "lat": 29.8503964,
+            "lng": 31.2767378
+        },
+        {
+            "postal_code": 12986,
+            "address": "Moussa mosque / Atfeeh",
+            "post_office": "Musa Mosque",
+            "lat": 29.968259,
+            "lng": 31.2056324
+        },
+        {
+            "postal_code": 12987,
+            "address": "Block 28 / Kafr Tohormos / short / Bulaq housing",
+            "post_office": "Kafr Tohormos housing",
+            "lat": 30.0151729,
+            "lng": 31.18106079999999
+        },
+        {
+            "postal_code": 12988,
+            "address": "The village of Abu Rjoin / m Badrashin",
+            "post_office": "Abu Rjoin Maritime",
+            "lat": 29.8503964,
+            "lng": 31.2767378
+        },
+        {
+            "postal_code": 12989,
+            "address": "Building local / m Badrashin Unity",
+            "post_office": "Abu Sair",
+            "lat": 29.8503964,
+            "lng": 31.2767378
+        },
+        {
+            "postal_code": 12991,
+            "address": "The village of Dahshur / Mrkzalbdarshan facility",
+            "post_office": "Dahshur facility",
+            "lat": 29.7971482,
+            "lng": 31.2433164
+        },
+        {
+            "postal_code": 12992,
+            "address": "Next to the mosque Rahman / Sagal / m Imbaba",
+            "post_office": "Sagal",
+            "lat": 30.0815975,
+            "lng": 31.19503539999999
+        },
+        {
+            "postal_code": 12993,
+            "address": "Public housing in the village of Qata / m Spans",
+            "post_office": "Qata",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12994,
+            "address": "Kafr Zahran / Badrashin Center",
+            "post_office": "Kafr Zahran",
+            "lat": 29.81355709999999,
+            "lng": 31.2675782
+        },
+        {
+            "postal_code": 12995,
+            "address": "Salehia / Atfeeh Local Unit",
+            "post_office": "Salehia brief",
+            "lat": 29.9772962,
+            "lng": 31.1324955
+        },
+        {
+            "postal_code": 12996,
+            "address": "Fadel village / m Ayat facility",
+            "post_office": "Fadel facility",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12997,
+            "address": "Village Alkiratin Giza",
+            "post_office": "Sidon and Alkiratin",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12998,
+            "address": "Village space / Marine units Centre",
+            "post_office": "Space",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 12999,
+            "address": "Attaan village / Grade Center",
+            "post_office": "Attaat Grade Center",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 14815,
+            "address": "Grade country",
+            "post_office": "Grade country",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 14821,
+            "address": "Village neighborhood - grade",
+            "post_office": "Hay grade",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 14822,
+            "address": "Grade / village of Nazlat Alian",
+            "post_office": "Catarrh Alian",
+            "lat": 30.0130557,
+            "lng": 31.2088526
+        },
+        {
+            "postal_code": 16711,
+            "address": "Kafr Shehata",
+            "post_office": "Kafr Shehata b",
+            "lat": 29.5812363,
+            "lng": 31.2547315
+        }
+    ]
+}

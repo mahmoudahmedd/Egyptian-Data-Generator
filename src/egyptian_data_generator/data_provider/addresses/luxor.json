@@ -1,0 +1,606 @@
+{
+    "luxor": [
+        {
+            "postal_code": 85951,
+            "address": "St. station / Luxor",
+            "post_office": "Luxor",
+            "lat": 25.6965585,
+            "lng": 32.644726
+        },
+        {
+            "postal_code": 85836,
+            "address": "Dabayaa",
+            "post_office": "Dabayaa",
+            "lat": 25.645281,
+            "lng": 32.589835
+        },
+        {
+            "postal_code": 85844,
+            "address": "Lentoids / Luxor Center",
+            "post_office": "Lentoids",
+            "lat": 25.6768918,
+            "lng": 32.6306245
+        },
+        {
+            "postal_code": 85838,
+            "address": "Tribal Qamola / Luxor Center",
+            "post_office": "Tribal Qamola",
+            "lat": 25.6768918,
+            "lng": 32.6306245
+        },
+        {
+            "postal_code": 85955,
+            "address": "Inside the Luxor International Airport",
+            "post_office": "Aloqasrata Airport",
+            "lat": 25.6738827,
+            "lng": 32.7014938
+        },
+        {
+            "postal_code": 85842,
+            "address": "Tod",
+            "post_office": "Tod",
+            "lat": 25.5825304,
+            "lng": 32.5325877
+        },
+        {
+            "postal_code": 85835,
+            "address": "Zinnia / good center",
+            "post_office": "Zinnia tribal",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85954,
+            "address": "Karnak Alaqsrh Hilton Hotel",
+            "post_office": "Karnak Luxor",
+            "lat": 25.7304138,
+            "lng": 32.6566215
+        },
+        {
+            "postal_code": 85841,
+            "address": "Imari facility / Luxor",
+            "post_office": "Imari facility",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85952,
+            "address": "Alaqsrh Karnak Temple",
+            "post_office": "Sidi Abu pilgrims",
+            "lat": 25.7188346,
+            "lng": 32.6572703
+        },
+        {
+            "postal_code": 85839,
+            "address": "Navigation Balqublyqamola / Luxor Center",
+            "post_office": "Navigation",
+            "lat": 25.6768918,
+            "lng": 32.6306245
+        },
+        {
+            "postal_code": 85852,
+            "address": "Alacalth mainland western / Luxor",
+            "post_office": "Alacalth",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85861,
+            "address": "Madamoud Nag Abotrbuc",
+            "post_office": "Madamoud",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85956,
+            "address": "Abu generosity / Luxor / stretch Market",
+            "post_office": "Abu generosity",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85957,
+            "address": "Awwamiyya",
+            "post_office": "Awwamiyya",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85958,
+            "address": "Baarat mainland western / Luxor",
+            "post_office": "Baarat",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85961,
+            "address": "Alkabbahy western / Luxor Center",
+            "post_office": "Alkabbahy",
+            "lat": 25.6768918,
+            "lng": 32.6306245
+        },
+        {
+            "postal_code": 85962,
+            "address": "Qriaalhabayl / Luxor Center",
+            "post_office": "Habil",
+            "lat": 25.6768918,
+            "lng": 32.6306245
+        },
+        {
+            "postal_code": 85963,
+            "address": "Nag pigment in Luxor",
+            "post_office": "Nag pigment",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85855,
+            "address": "Qriafattatih / Luxor Center",
+            "post_office": "Fattatih",
+            "lat": 25.6768918,
+            "lng": 32.6306245
+        },
+        {
+            "postal_code": 85856,
+            "address": "Qriaalndavin / Luxor Center",
+            "post_office": "Alndavin",
+            "lat": 25.6768918,
+            "lng": 32.6306245
+        },
+        {
+            "postal_code": 85853,
+            "address": "Qriagharby Qamola",
+            "post_office": "Western Qamola",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85964,
+            "address": "Alzenaqth",
+            "post_office": "Alzenaqth",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85857,
+            "address": "Qriaalmhidat / Luxor Center",
+            "post_office": "Almhidat",
+            "lat": 25.6768918,
+            "lng": 32.6306245
+        },
+        {
+            "postal_code": 85864,
+            "address": "Qriandja Unity",
+            "post_office": "Naga unity",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85867,
+            "address": "Baghdadi Aljdidndja Aloiqat",
+            "post_office": "New Baghdadi",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85866,
+            "address": "Courts Complex in Luxor / Awwamiyya",
+            "post_office": "Courts Complex in Luxor",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85868,
+            "address": "Nag Pond / Albrgharby / Luxor Center",
+            "post_office": "Nag Pond",
+            "lat": 25.6768918,
+            "lng": 32.6306245
+        },
+        {
+            "postal_code": 85869,
+            "address": "Alroajeh palace buildings torrents",
+            "post_office": "Alroajeh Luxor",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85965,
+            "address": "Second / Nag long Karnak Karnak",
+            "post_office": "Second Karnak",
+            "lat": 25.7188346,
+            "lng": 32.6572703
+        },
+        {
+            "postal_code": 85959,
+            "address": "St. station / Luxor / object Alaqasralaqsr Office",
+            "post_office": "Luxor station Sabahi",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85969,
+            "address": "Qriaalsaidh",
+            "post_office": "Upper Egyptians",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85862,
+            "address": "Madamoud / good / old Nag",
+            "post_office": "Madamoud second Luxor",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85863,
+            "address": "The new city of Thebes",
+            "post_office": "New Thebes",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85832,
+            "address": "Zinnia youth center next to the sea",
+            "post_office": "Zinnia sea",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85854,
+            "address": "Tod Al_husinat",
+            "post_office": "Al_husinat Luxor",
+            "lat": 25.5887496,
+            "lng": 32.5516283
+        },
+        {
+            "postal_code": 85846,
+            "address": "Center / Armant",
+            "post_office": "Armant",
+            "lat": 25.620661,
+            "lng": 32.54526269999999
+        },
+        {
+            "postal_code": 85847,
+            "address": "Armant Hait",
+            "post_office": "Armant Hait",
+            "lat": 25.622864,
+            "lng": 32.5439049
+        },
+        {
+            "postal_code": 85811,
+            "address": "Searbasna Street",
+            "post_office": "Esna",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85815,
+            "address": "Qriaalder Esna",
+            "post_office": "The monastery Esna",
+            "lat": 25.2940819,
+            "lng": 32.5476845
+        },
+        {
+            "postal_code": 85845,
+            "address": "Qriacgb our might",
+            "post_office": "Riot",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85816,
+            "address": "Qriaalazaima our might",
+            "post_office": "Alazaima",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85821,
+            "address": "Qriaalmtaana our might",
+            "post_office": "Almtaana",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85819,
+            "address": "Qriakiman Almtaana our might",
+            "post_office": "Cayman Almtaana",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85812,
+            "address": "Asfon village / ISNA Center",
+            "post_office": "Asfon",
+            "lat": 25.2940819,
+            "lng": 32.5476845
+        },
+        {
+            "postal_code": 85849,
+            "address": "Maris",
+            "post_office": "Maris",
+            "lat": 25.6245878,
+            "lng": 32.563937
+        },
+        {
+            "postal_code": 85817,
+            "address": "Village Austria / Esna Center",
+            "post_office": "Austria",
+            "lat": 25.2940819,
+            "lng": 32.5476845
+        },
+        {
+            "postal_code": 85814,
+            "address": "Qrialhalh / ISNA",
+            "post_office": "Hilla",
+            "lat": 25.2940819,
+            "lng": 32.5476845
+        },
+        {
+            "postal_code": 85813,
+            "address": "Thomas village and wellness / ISNA Center",
+            "post_office": "Thomas and wellness",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85848,
+            "address": "Reziegat Admiral / Barment",
+            "post_office": "Reziegat sea",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85818,
+            "address": "Qriaalaqraaa / Esna Center",
+            "post_office": "Alaqraaa",
+            "lat": 25.2940819,
+            "lng": 32.5476845
+        },
+        {
+            "postal_code": 85851,
+            "address": "Qriamahamed Bhrybarment",
+            "post_office": "Mahamid sea",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85829,
+            "address": "Village Tafnas our might",
+            "post_office": "Tafnas",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85827,
+            "address": "Canine defeated by village",
+            "post_office": "Canine",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85824,
+            "address": "Village defeated by arsenic",
+            "post_office": "Arsenic",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85825,
+            "address": "Village Kummer ISNA / ISNA Center",
+            "post_office": "Kummer Esna",
+            "lat": 25.2940819,
+            "lng": 32.5476845
+        },
+        {
+            "postal_code": 85871,
+            "address": "ARC / ISNA station",
+            "post_office": "Agricultural Research Station",
+            "lat": 25.2940819,
+            "lng": 32.5476845
+        },
+        {
+            "postal_code": 85822,
+            "address": "The compound of the Islamic / Esna Center",
+            "post_office": "Islamic Complex",
+            "lat": 25.2940819,
+            "lng": 32.5476845
+        },
+        {
+            "postal_code": 85874,
+            "address": "Our Might village Mualla",
+            "post_office": "Mualla",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85823,
+            "address": "Equal defeated by village",
+            "post_office": "Equal",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85826,
+            "address": "Qriaahlgrezh / ISNA",
+            "post_office": "Guerrero",
+            "lat": 25.2940819,
+            "lng": 32.5476845
+        },
+        {
+            "postal_code": 85858,
+            "address": "Village Reziegat Qublybarment",
+            "post_office": "Rizeigat tribal",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85828,
+            "address": "East Village Ahamidat our might",
+            "post_office": "Ahamidat East",
+            "lat": 25.3872308,
+            "lng": 32.576717
+        },
+        {
+            "postal_code": 85865,
+            "address": "Qriaalnjua Admiral / next to the village council",
+            "post_office": "Hamlets sea",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85872,
+            "address": "Znich village / Esna",
+            "post_office": "Znich",
+            "lat": 25.2940819,
+            "lng": 32.5476845
+        },
+        {
+            "postal_code": 85873,
+            "address": "Village analyte our might",
+            "post_office": "Analyte",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85875,
+            "address": "Mahameed tribal village defeated by",
+            "post_office": "Mahameed tribal",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85876,
+            "address": "Village Democratic Barment",
+            "post_office": "Democratic",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85859,
+            "address": "The village of Nag Ahmed Said / our might",
+            "post_office": "Nag Ahmed Saeed",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 75799,
+            "address": "Village Canal Nasirasna",
+            "post_office": "Canal Nasser",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85798,
+            "address": "Qriahinady",
+            "post_office": "Hannadi",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85878,
+            "address": "Riyanah village Barment",
+            "post_office": "Riyanah",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85797,
+            "address": "Powell defeated by village",
+            "post_office": "Powell",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85796,
+            "address": "Qriaaldkirh our might",
+            "post_office": "Aldkirh",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85882,
+            "address": "Turnpike Maris Armant",
+            "post_office": "Turnpike Murays",
+            "lat": 25.620661,
+            "lng": 32.54526269999999
+        },
+        {
+            "postal_code": 85884,
+            "address": "Turnpike lentoids sea",
+            "post_office": "Turnpike lentoids",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85885,
+            "address": "Sheikh Sultan Naga Baladissat",
+            "post_office": "Sheikh Sultan Naga",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85971,
+            "address": "Village Sawalha Balhabayl",
+            "post_office": "Sawalha",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85886,
+            "address": "Alrawfah Balbgdada village",
+            "post_office": "Alrawfah",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85888,
+            "address": "Sheikh Amer village",
+            "post_office": "Sheikh Amer",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85967,
+            "address": "Luxor International Airport Building",
+            "post_office": "Luxor Airport",
+            "lat": 25.6738827,
+            "lng": 32.7014938
+        },
+        {
+            "postal_code": 85991,
+            "address": "It is not turned on",
+            "post_office": "Luxor (Mobile)",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85889,
+            "address": "Armant Center - not opened",
+            "post_office": "Hajar Rizeigat Bahri (under construction)",
+            "lat": 25.620661,
+            "lng": 32.54526269999999
+        },
+        {
+            "postal_code": 85868,
+            "address": "Tud / Naga long / Tud",
+            "post_office": "Naga the long Tud",
+            "lat": 25.5824803,
+            "lng": 32.532587
+        },
+        {
+            "postal_code": 85839,
+            "address": "Village Central Medallions",
+            "post_office": "Middle East",
+            "lat": 25.6872431,
+            "lng": 32.6396357
+        },
+        {
+            "postal_code": 85959,
+            "address": "Inside Luxor Railway Station",
+            "post_office": "Luxor Station (Masai)",
+            "lat": 25.6965585,
+            "lng": 32.644726
+        }
+    ]
+}

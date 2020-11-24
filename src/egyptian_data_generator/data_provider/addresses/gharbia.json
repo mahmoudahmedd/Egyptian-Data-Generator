@@ -1,0 +1,1593 @@
+{
+    "gharbia": [
+        {
+            "postal_code": 31511,
+            "address": "Station / Tanta field",
+            "post_office": "Tanta main interests",
+            "lat": 30.7815852,
+            "lng": 30.9945889
+        },
+        {
+            "postal_code": 31512,
+            "address": "Taha al-Hakim / Tanta St.",
+            "post_office": "Tanta sub",
+            "lat": 30.804388,
+            "lng": 30.9985096
+        },
+        {
+            "postal_code": 31513,
+            "address": "Tanta city of St. goldsmiths",
+            "post_office": "Goldsmiths",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31514,
+            "address": "Tanta City Court St.",
+            "post_office": "New Manshiya",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31515,
+            "address": "Tanta sweet u City",
+            "post_office": "Loving the field",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31516,
+            "address": "The city of Tanta Club Road",
+            "post_office": "Club Street",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31517,
+            "address": "The city of Tanta St. evacuation",
+            "post_office": "Qurashi",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31518,
+            "address": "The city of Tanta Ajizy District ten Street",
+            "post_office": "Tribal neighborhoods",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31519,
+            "address": "U Army / Tanta",
+            "post_office": "Tanta Tourism Exhibition",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31521,
+            "address": "Dipper / city of Tanta / Said St.",
+            "post_office": "Dipper",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31525,
+            "address": "Tanta City",
+            "post_office": "Alexandria Tanta field _",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31526,
+            "address": "Tanta - Station Square",
+            "post_office": "Tanta Courts Complex",
+            "lat": 30.7815269,
+            "lng": 30.9946673
+        },
+        {
+            "postal_code": 31527,
+            "address": "Comprehensive Composite / Tanta University building",
+            "post_office": "Tanta University",
+            "lat": 30.7924391,
+            "lng": 30.9991409
+        },
+        {
+            "postal_code": 31528,
+            "address": "Tanta vegetable market",
+            "post_office": "Tanta _ Wholesale Market",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31529,
+            "address": "Tanta area recruiting / Tanta",
+            "post_office": "Area recruiting Tanta",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31531,
+            "address": "El Mahalla Tanta railway Bjawaralkopry upper",
+            "post_office": "Western Traffic Management",
+            "lat": 30.9690494,
+            "lng": 31.1474741
+        },
+        {
+            "postal_code": 31532,
+            "address": "Kafr El Mansoura / Tanta village center",
+            "post_office": "Kafr El Mansoura",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 31533,
+            "address": "Share Cbshir / Tanta village center",
+            "post_office": "Share Cbshir",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31534,
+            "address": "U Army / Tanta field",
+            "post_office": "Sales Tax",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31535,
+            "address": "Tanta City",
+            "post_office": "Seger",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31561,
+            "address": "Village crown Persians / Alsentp Center",
+            "post_office": "Taj Persians village",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31562,
+            "address": "Kafr El Zayat Center",
+            "post_office": "Kafr Okhca",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31581,
+            "address": "Akoh village share / Kafr El Zayat Center",
+            "post_office": "Acquaalhsh",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31582,
+            "address": "Manial Alhoecat / Tanta Center",
+            "post_office": "Manial Alhoecat",
+            "lat": 30.0213609,
+            "lng": 31.2268647
+        },
+        {
+            "postal_code": 31587,
+            "address": "Qutour Center",
+            "post_office": "Kafr Abu Ayana",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31588,
+            "address": "Alsentp Center",
+            "post_office": "Shubra Blol",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31589,
+            "address": "Alsentp second",
+            "post_office": "Department outbreaks Gemmaiza",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31597,
+            "address": "Qutour City",
+            "post_office": "Qutour sub",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31598,
+            "address": "Shubra Umbulula / Qutour Center",
+            "post_office": "Shubra Umbulula Qutour",
+            "lat": 30.085551,
+            "lng": 31.2453488
+        },
+        {
+            "postal_code": 31611,
+            "address": "Station / Kafr El Zayat field",
+            "post_office": "Kafr El Zayat",
+            "lat": 30.8265514,
+            "lng": 30.8128236
+        },
+        {
+            "postal_code": 31612,
+            "address": "Kafr El Zayat City",
+            "post_office": "Kafr El Zayat second",
+            "lat": 30.8310857,
+            "lng": 30.8183077
+        },
+        {
+            "postal_code": 31613,
+            "address": "Abul Gor / m Kafr El Zayat",
+            "post_office": "Abul Gor",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31614,
+            "address": "Dlepeshan / Kafr El Zayat Center",
+            "post_office": "Dlepeshan",
+            "lat": 30.7831995,
+            "lng": 30.804102
+        },
+        {
+            "postal_code": 31615,
+            "address": "Kafr Center Zayat- Kafr Dima",
+            "post_office": "Kafr Dima",
+            "lat": 30.8006464,
+            "lng": 30.87567
+        },
+        {
+            "postal_code": 31616,
+            "address": "Alnharih / center of the village of Kafr El Zayat",
+            "post_office": "Alnharih",
+            "lat": 30.8761687,
+            "lng": 30.8324862
+        },
+        {
+            "postal_code": 31617,
+            "address": "KFOR Bhay / Kafr El Zayat Center",
+            "post_office": "KFOR Bhay",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31618,
+            "address": "Aldljmon / Kafr El Zayat Center",
+            "post_office": "Aldljmon",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31619,
+            "address": "Kafr Zayat- Center Kafr burned",
+            "post_office": "Kafr burned",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31623,
+            "address": "Next to the youth center - Mitt Habib East",
+            "post_office": "Mitt Habib East",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31624,
+            "address": "Samanoud center within the local unit",
+            "post_office": "Meet Badr sweetness",
+            "lat": 30.9613826,
+            "lng": 31.24125949999999
+        },
+        {
+            "postal_code": 31625,
+            "address": "Local Unit / Zifta",
+            "post_office": "Shubra smoothie",
+            "lat": 30.6039208,
+            "lng": 31.1758825
+        },
+        {
+            "postal_code": 31626,
+            "address": "Local Unit Bashrchabh / Zifta",
+            "post_office": "Hurcabh",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31627,
+            "address": "Local Unit Building",
+            "post_office": "Monks",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31628,
+            "address": "????? / ? 0 ????",
+            "post_office": "Sonbat",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31629,
+            "address": "Mitt Assas - u Wabour flour / Smonod Center",
+            "post_office": "Mitt Assas",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31631,
+            "address": "Alsentp commercial street",
+            "post_office": "Alsentp",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31632,
+            "address": "Center Alsenth- laxative village",
+            "post_office": "Laxative",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31633,
+            "address": "Jaafari / Alsentp Center",
+            "post_office": "Jaafari",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31634,
+            "address": "Ttay / Alsentp Center",
+            "post_office": "Ttay",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31635,
+            "address": "Kfar Kila door / Alsentp Center",
+            "post_office": "Kfar Kila door",
+            "lat": 30.6836584,
+            "lng": 31.1443348
+        },
+        {
+            "postal_code": 31636,
+            "address": "Local Unit Shubra / Alsentp",
+            "post_office": "Shubra Waqas",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31637,
+            "address": "Alsentp Center",
+            "post_office": "Alsentp country",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31638,
+            "address": "Naoah / Samanoud village center",
+            "post_office": "Naoah",
+            "lat": 30.9613826,
+            "lng": 31.24125949999999
+        },
+        {
+            "postal_code": 31639,
+            "address": "Center Smonod- village Us Abu Sair",
+            "post_office": "Abu Sir Us",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31641,
+            "address": "El Bahr / Zifta",
+            "post_office": "Zifta",
+            "lat": 30.9748288,
+            "lng": 31.1731179
+        },
+        {
+            "postal_code": 31642,
+            "address": "Zifta City / Main Street",
+            "post_office": "Zifta sub",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31643,
+            "address": "Shop / Zifta Center",
+            "post_office": "Shop",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31644,
+            "address": "Affectionate village / bituminous Center",
+            "post_office": "Affectionate",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31645,
+            "address": "Faucet Kitchen major / Zifta Center",
+            "post_office": "Great Snpo",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31646,
+            "address": "Zifta Center",
+            "post_office": "Sndbst",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31647,
+            "address": "Tfhna Azab / Zifta Center",
+            "post_office": "Tfhna Azab",
+            "lat": 30.71132119999999,
+            "lng": 31.24028989999999
+        },
+        {
+            "postal_code": 31648,
+            "address": "Summer mosque / Zifta Center",
+            "post_office": "Summer mosque",
+            "lat": 30.63706049999999,
+            "lng": 31.2645008
+        },
+        {
+            "postal_code": 31649,
+            "address": "Strangely / Zifta Center",
+            "post_office": "Strangely Zifta Center",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31651,
+            "address": "Vrciss / Zifta Center",
+            "post_office": "Vrciss",
+            "lat": 30.6638045,
+            "lng": 31.233238
+        },
+        {
+            "postal_code": 31652,
+            "address": "Center Zvty- village dead marble",
+            "post_office": "Mitt marble",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31655,
+            "address": "Shubra Yemen Village Center Zvty",
+            "post_office": "Shubra Yemen",
+            "lat": 30.8322456,
+            "lng": 31.2147878
+        },
+        {
+            "postal_code": 31656,
+            "address": "Building Community Development Association",
+            "post_office": "Behind the locality",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31657,
+            "address": "Mitt Memon / Alsentp Center",
+            "post_office": "Mitt Memon",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31658,
+            "address": "Building Community Development Association",
+            "post_office": "Kafr caecilians",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31659,
+            "address": "Mitt Alharon / Zifta Center",
+            "post_office": "Mitt Alharon",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31661,
+            "address": "Nasiriyah / Smonod Center",
+            "post_office": "Nasiriyah",
+            "lat": 30.9442718,
+            "lng": 31.2311579
+        },
+        {
+            "postal_code": 31662,
+            "address": "Kafr Shubra Yemen / Zifta Center",
+            "post_office": "Kafr Shubra Yemen",
+            "lat": 30.8322456,
+            "lng": 31.2147878
+        },
+        {
+            "postal_code": 31663,
+            "address": "In front of the Grand Mosque",
+            "post_office": "Behbeit el Hagar",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31664,
+            "address": "Center Alsenth- village dead deer",
+            "post_office": "Mitt Ghazal",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31665,
+            "address": "Anbutin / Alsentp Center",
+            "post_office": "Anbutin",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31666,
+            "address": "Albandarh / Alsentp Center",
+            "post_office": "Albandarh",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31667,
+            "address": "Play / Alsentp Center",
+            "post_office": "Play",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31668,
+            "address": "Alsamlawih / Zifta Center",
+            "post_office": "Alsamlawih",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31669,
+            "address": "Kafr Al Jazeera / m 0 Zifta",
+            "post_office": "Kafr Al Jazeera _ Western",
+            "lat": 30.7777001,
+            "lng": 31.228351
+        },
+        {
+            "postal_code": 31671,
+            "address": "Next to El Shaheed Badrawy",
+            "post_office": "Samanoud sub",
+            "lat": 31.00960559999999,
+            "lng": 31.2998712
+        },
+        {
+            "postal_code": 31672,
+            "address": "Kafr El Zayat Center",
+            "post_office": "Kafr El Shorbagy",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31673,
+            "address": "Building Community Development Association Balzizih",
+            "post_office": "Azizia",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31674,
+            "address": "Zvty- Kafr Center Vrciss",
+            "post_office": "Kafr Vrciss",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 31675,
+            "address": "Tanta village center Alchrish",
+            "post_office": "Alchrish",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31676,
+            "address": "Tanta Kafr Coast Center",
+            "post_office": "Kafr coast",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31679,
+            "address": "Adshay / m Kafr El Zayat",
+            "post_office": "Adshay",
+            "lat": 30.7818658,
+            "lng": 30.8872137
+        },
+        {
+            "postal_code": 31681,
+            "address": "Suheim / Alsentp Center",
+            "post_office": "Suheim",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31682,
+            "address": "Hnrac / m 0 Alsentp",
+            "post_office": "Hnrac",
+            "lat": 30.8111266,
+            "lng": 31.1585033
+        },
+        {
+            "postal_code": 31683,
+            "address": "City Alsentp",
+            "post_office": "Alsentp sub",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31684,
+            "address": "Kafr El Zayat Center ( Kulaib Lapierre )",
+            "post_office": "Kulaib Lapierre",
+            "lat": 30.8715955,
+            "lng": 30.8252211
+        },
+        {
+            "postal_code": 31685,
+            "address": "Kafr harvesting / m 0 Kafr El Zayat",
+            "post_office": "Kafr Hashad",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31686,
+            "address": "Kafr Chamakh / Kafr El Zayat Center",
+            "post_office": "Kafr Chamakh",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31687,
+            "address": "Karma / Alsentp Center",
+            "post_office": "Karma",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31688,
+            "address": "Traffic inside the building in Kafr El -Zayat",
+            "post_office": "Unit Kafr El Zayat passage",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 31689,
+            "address": "Zifta passage inside the building",
+            "post_office": "Unit Zifta passage",
+            "lat": 30.7038843,
+            "lng": 31.2092503
+        },
+        {
+            "postal_code": 31691,
+            "address": "Damanhur monster / Zifta Center",
+            "post_office": "Damanhur monster",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 31692,
+            "address": "Kafr Shubra Gulwj / Zifta Center",
+            "post_office": "Kafr Shubra Gulwj",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 31693,
+            "address": "Kafr El Zayat Center",
+            "post_office": "Shubra Reese",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31694,
+            "address": "Kafr Chta / m 0 Zifta",
+            "post_office": "Kafr Chta",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 31695,
+            "address": "Student / Kafr El Zayat Center",
+            "post_office": "Student Kafr El Zayat",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31696,
+            "address": "Village Marine Chnerh / Alsentp Center",
+            "post_office": "Marine Chnerh",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31697,
+            "address": "Bgulwlh / Alsentp Center",
+            "post_office": "Bgulwlh Alsentp",
+            "lat": 30.7823636,
+            "lng": 31.0930896
+        },
+        {
+            "postal_code": 31711,
+            "address": "Village Lapierre / m Kafr El Zayat",
+            "post_office": "Abar",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31712,
+            "address": "Village Burma / Mrkztnta",
+            "post_office": "Burma",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31713,
+            "address": "Village Talpnt / m 0 Tanta",
+            "post_office": "Talpnt Caesar",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31716,
+            "address": "Aqrancho / Center Besion",
+            "post_office": "Aqrancho",
+            "lat": 30.9409965,
+            "lng": 30.8214012
+        },
+        {
+            "postal_code": 31717,
+            "address": "Village Alqdhabh / Basyoun",
+            "post_office": "Alqdhabh",
+            "lat": 30.9398693,
+            "lng": 30.8175828
+        },
+        {
+            "postal_code": 31718,
+            "address": "Center Besion",
+            "post_office": "Weatherproofing jungle",
+            "lat": 30.9409965,
+            "lng": 30.8214012
+        },
+        {
+            "postal_code": 31719,
+            "address": "Center Tanta locality late",
+            "post_office": "Locality late",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31721,
+            "address": "Tanta Center",
+            "post_office": "Hbashiralhsh",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31722,
+            "address": "Kom prisoner / Qutour Center",
+            "post_office": "Prisoner Kom",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31723,
+            "address": "Railway station building spirit of the locality .Alsentp",
+            "post_office": "Locality spirit",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31724,
+            "address": "Qutour Center",
+            "post_office": "Ibshway vaccinated",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31725,
+            "address": "Inchil / Qutour Center",
+            "post_office": "Inchil",
+            "lat": 30.9704155,
+            "lng": 31.0210214
+        },
+        {
+            "postal_code": 31726,
+            "address": "Station Square / Qutour",
+            "post_office": "Qutour",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31727,
+            "address": "Beltag / Qutour Center",
+            "post_office": "Beltag",
+            "lat": 30.9873624,
+            "lng": 30.9818962
+        },
+        {
+            "postal_code": 31728,
+            "address": "Damat / Qutour Center",
+            "post_office": "Damat",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31729,
+            "address": "The village of Shin / Qutour",
+            "post_office": "Shin",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31731,
+            "address": "Thep / Zifta Center",
+            "post_office": "Thep",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31732,
+            "address": "Noaj / Tanta Center",
+            "post_office": "Noaj",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31733,
+            "address": "Sbarbay / Tanta Center",
+            "post_office": "Sbarbay",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31734,
+            "address": "Center Tanta locality Menouf",
+            "post_office": "Locality Menouf",
+            "lat": 30.7866912,
+            "lng": 31.0081391
+        },
+        {
+            "postal_code": 31735,
+            "address": "Tanta village center Shopper",
+            "post_office": "Shopper",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31736,
+            "address": "Fisha sound / Tanta Center",
+            "post_office": "Fisha sound",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31737,
+            "address": "Tanta village Shuni Center",
+            "post_office": "Shuni",
+            "lat": 30.747721,
+            "lng": 30.9204278
+        },
+        {
+            "postal_code": 31738,
+            "address": "Kafr el-Sheikh Salim / Tanta Center",
+            "post_office": "Kafr el Sheikh Salim",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 31739,
+            "address": "Village Shubra Ant / Zifta Center",
+            "post_office": "Shubra Ant",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31741,
+            "address": "Poke / Tanta Center",
+            "post_office": "Poke",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31742,
+            "address": "Categorically / Tanta Center",
+            "post_office": "Categorically",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31743,
+            "address": "Ahenway / Alsentp Center",
+            "post_office": "Ahnaway",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31744,
+            "address": "Alragdih / Tanta Center",
+            "post_office": "Alragdih",
+            "lat": 30.8373408,
+            "lng": 31.0501645
+        },
+        {
+            "postal_code": 31745,
+            "address": "Gemmaiza / Alsentp Center",
+            "post_office": "Gemmaiza",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31746,
+            "address": "Alsenth- dead center Hawway",
+            "post_office": "Mitt Hawway",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31747,
+            "address": "Qurashiyyah / Alsentp Center",
+            "post_office": "Qurashiyyah",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31748,
+            "address": "Center Alsenth- dead village increases",
+            "post_office": "Mitt increases",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31749,
+            "address": "Okhanaoay / Tanta Center / Local Unit",
+            "post_office": "Okhanaoay",
+            "lat": 30.7924391,
+            "lng": 30.9991409
+        },
+        {
+            "postal_code": 31753,
+            "address": "Crippling / m 0 village of Kafr El Zayat",
+            "post_office": "Crippling",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31754,
+            "address": "Solomon facility / Kafr El Zayat Center",
+            "post_office": "Solomon facility",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31756,
+            "address": "Simla / Qutour Center",
+            "post_office": "Simla",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31757,
+            "address": "Khilandz / Tanta Center",
+            "post_office": "Khilandz",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31758,
+            "address": "Grand / Zifta center established",
+            "post_office": "Great facility Zifta",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31759,
+            "address": "Com village carpenter / Center Besion",
+            "post_office": "Com Najjar",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31761,
+            "address": "Village Michelle / Passion",
+            "post_office": "Michelle",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31762,
+            "address": "Village brink / Basyoun",
+            "post_office": "Verge",
+            "lat": 30.9398693,
+            "lng": 30.8175828
+        },
+        {
+            "postal_code": 31763,
+            "address": "Tanta Center Mitt Hbeish tribal",
+            "post_office": "Mitt Hbeish tribal",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31764,
+            "address": "Hbratna village / Center Besion",
+            "post_office": "Hbratna",
+            "lat": 30.9409965,
+            "lng": 30.8214012
+        },
+        {
+            "postal_code": 31765,
+            "address": "Village Ngregg / Basyoun",
+            "post_office": "Ngregg",
+            "lat": 30.9739049,
+            "lng": 30.86780719999999
+        },
+        {
+            "postal_code": 31766,
+            "address": "Kafr Jacob / Kafr El Zayat Center",
+            "post_office": "Kafr Jacob",
+            "lat": 30.8284618,
+            "lng": 30.8137697
+        },
+        {
+            "postal_code": 31767,
+            "address": "Tookh more / Alsentp Center",
+            "post_office": "Tookh more",
+            "lat": 30.8326633,
+            "lng": 31.0952407
+        },
+        {
+            "postal_code": 31771,
+            "address": "Local / m Basyoun Unity",
+            "post_office": "Kafr Abu neatly pressed red",
+            "lat": 30.9398693,
+            "lng": 30.8175828
+        },
+        {
+            "postal_code": 31772,
+            "address": "Kafr Bldm / Qutour Center",
+            "post_office": "Kafr Bldm",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 31773,
+            "address": "Village Pavilion Center Besion",
+            "post_office": "Pavilion",
+            "lat": 30.9409965,
+            "lng": 30.8214012
+        },
+        {
+            "postal_code": 31776,
+            "address": "Kafr protection / Tanta Center",
+            "post_office": "Kafr protection",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 31779,
+            "address": "Kafr Shorafa / Tanta Center",
+            "post_office": "Kafr Shorafa Tanta",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 31781,
+            "address": "Qutour Center",
+            "post_office": "Shubra Nbas",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31782,
+            "address": "Tanta City",
+            "post_office": "Kafr El Khader",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31783,
+            "address": "Kafr Massoud / Tanta Center",
+            "post_office": "Kafr Massoud",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 31784,
+            "address": "Center Qtor- village Sard",
+            "post_office": "Sard",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31785,
+            "address": "Epcin- Center Kafr Salem",
+            "post_office": "Kafr Salem _ Western region",
+            "lat": 31.0217375,
+            "lng": 30.7810308
+        },
+        {
+            "postal_code": 31786,
+            "address": "Animalcule Village - Center Qtor",
+            "post_office": "Animalcule",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31787,
+            "address": "Smatay / Qutour Center",
+            "post_office": "Smatay",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31788,
+            "address": "Zvty- Kafr El-Deeb Center",
+            "post_office": "Kafr El Deeb",
+            "lat": 30.7592766,
+            "lng": 31.1802493
+        },
+        {
+            "postal_code": 31789,
+            "address": "Mrkzktor- Kafr Ahmed Shalaby",
+            "post_office": "Kafr Ahmed Shalaby",
+            "lat": 30.9314472,
+            "lng": 30.9431373
+        },
+        {
+            "postal_code": 31791,
+            "address": "Aljinaidi / Tanta Center facility",
+            "post_office": "Aljinaidi facility",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31792,
+            "address": "Amillot / Qutour Center",
+            "post_office": "Omaot",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31793,
+            "address": "Bath / Qutour Center",
+            "post_office": "Bath",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31794,
+            "address": "Alillabashh / Zifta Center",
+            "post_office": "Alillabashh",
+            "lat": 30.7126619,
+            "lng": 31.240038
+        },
+        {
+            "postal_code": 31795,
+            "address": "Hbrato Church / Center Besion",
+            "post_office": "Hbrato Church",
+            "lat": 30.9409965,
+            "lng": 30.8214012
+        },
+        {
+            "postal_code": 31796,
+            "address": "Center Tanta village dead Sudan",
+            "post_office": "Mitt Sudan",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31797,
+            "address": "Com / Qutour Center",
+            "post_office": "Com",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31798,
+            "address": "K / Alsentp Center",
+            "post_office": "Kindergarten Alsentp Center",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31799,
+            "address": "Ayari / Qutour Center facility",
+            "post_office": "Plant Ayari",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31811,
+            "address": "Bashbich / m 0 Mahalla / unit next to Fire Station",
+            "post_office": "Bashbich",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31812,
+            "address": "Local Unit entrance",
+            "post_office": "Alheiatem",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31813,
+            "address": "Local Unit Wall",
+            "post_office": "Saft dust",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31814,
+            "address": "Next to the youth center",
+            "post_office": "Abu locality on the Kantara",
+            "lat": 30.9989629,
+            "lng": 30.8153488
+        },
+        {
+            "postal_code": 31817,
+            "address": "Mahlh- u monastery next to the graves Center",
+            "post_office": "Tiger onions",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31818,
+            "address": "Down local Alouhh Mahlh- Dmarw village center",
+            "post_office": "Dmarw",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31822,
+            "address": "The bottom of the social unit",
+            "post_office": "Kafr Hegazy",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31823,
+            "address": "Next to the Agricultural Society",
+            "post_office": "Belkana",
+            "lat": 30.6547043,
+            "lng": 31.2789237
+        },
+        {
+            "postal_code": 31824,
+            "address": "Local Unit entrance",
+            "post_office": "Almatmdip",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31825,
+            "address": "Next to the water station",
+            "post_office": "Suffered waged Ayyash",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31826,
+            "address": "Mahlh- Center Mitt OS",
+            "post_office": "Mitt OS",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31827,
+            "address": "Next to the Grand Mosque",
+            "post_office": "Dkhamis",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31828,
+            "address": "Mahlh- Sandsas Center",
+            "post_office": "Sandsas",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31829,
+            "address": "Modern / Mahala Center Construction",
+            "post_office": "Modern Alancha",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31831,
+            "address": "Next to the youth center",
+            "post_office": "Kafr strict",
+            "lat": 30.9989629,
+            "lng": 30.8153488
+        },
+        {
+            "postal_code": 31832,
+            "address": "Next to Azhar Institute",
+            "post_office": "Mitt Laith Hashim",
+            "lat": 30.80100329999999,
+            "lng": 30.9577185
+        },
+        {
+            "postal_code": 31833,
+            "address": "Next to the village of Central",
+            "post_office": "Alshahydy",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31834,
+            "address": "Next to the social unit",
+            "post_office": "Samol",
+            "lat": 31.0559467,
+            "lng": 31.1380739
+        },
+        {
+            "postal_code": 31835,
+            "address": "Next to the Agricultural Society",
+            "post_office": "Aljaberiyah",
+            "lat": 30.6547043,
+            "lng": 31.2789237
+        },
+        {
+            "postal_code": 31838,
+            "address": "U / water station",
+            "post_office": "Aldoakhlah",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31842,
+            "address": "Next to the Civil Registry",
+            "post_office": "Tnbarh",
+            "lat": 30.8129724,
+            "lng": 30.9935024
+        },
+        {
+            "postal_code": 31843,
+            "address": "Building Community Development Association",
+            "post_office": "Shubra Malakan",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31844,
+            "address": "The bottom of the Community Development Association",
+            "post_office": "Etaf",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31845,
+            "address": "Next to the youth center",
+            "post_office": "Kafr Fayala",
+            "lat": 30.9989629,
+            "lng": 30.8153488
+        },
+        {
+            "postal_code": 31846,
+            "address": "Mjul / Smonod Center",
+            "post_office": "Mjul",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31849,
+            "address": "??? ?????? - ?????? ??????",
+            "post_office": "Kafr Garitna",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31851,
+            "address": "Health Unit Building",
+            "post_office": "Kafr El Bastawisi",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31852,
+            "address": "Next to the school compound",
+            "post_office": "Caesarean",
+            "lat": 31.0722562,
+            "lng": 31.2070335
+        },
+        {
+            "postal_code": 31855,
+            "address": "Next to the school compound",
+            "post_office": "Kafr Dmtno",
+            "lat": 31.0722562,
+            "lng": 31.2070335
+        },
+        {
+            "postal_code": 31856,
+            "address": "Kafr el-Geneina tribal / Mahala Center",
+            "post_office": "Kafr el Geneina tribal",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 31857,
+            "address": "Next to Azhar Institute Primary",
+            "post_office": "Deyarb Hashim",
+            "lat": 30.9985315,
+            "lng": 31.291196
+        },
+        {
+            "postal_code": 31859,
+            "address": "Mahala / Abu Naja",
+            "post_office": "Abu Al Naja",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31861,
+            "address": "Kafr Hassan",
+            "post_office": "Kafr Hassan",
+            "lat": 31.0116153,
+            "lng": 31.3028428
+        },
+        {
+            "postal_code": 31862,
+            "address": "Almstafah village",
+            "post_office": "Almstafah",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31863,
+            "address": "Alsentp Center",
+            "post_office": "Blkim",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31865,
+            "address": "The bottom of the Community Development Association - Talima",
+            "post_office": "Talima",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31868,
+            "address": "Center Besion - Western Province",
+            "post_office": "Mourning",
+            "lat": 30.9409965,
+            "lng": 30.8214012
+        },
+        {
+            "postal_code": 31872,
+            "address": "Qutour Center",
+            "post_office": "Borreg",
+            "lat": 30.9556962,
+            "lng": 30.9646866
+        },
+        {
+            "postal_code": 31951,
+            "address": "Sea Street Mahalla",
+            "post_office": "Mahala",
+            "lat": 30.9696706,
+            "lng": 31.168083
+        },
+        {
+            "postal_code": 31952,
+            "address": "Misr Spinning and Weaving / Talaat Harb St. building next to the police station",
+            "post_office": "Spinning Musr_ Mahala",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31953,
+            "address": "Nasr Company building Mahalla",
+            "post_office": "Victory Mahalla",
+            "lat": 30.9696706,
+            "lng": 31.168083
+        },
+        {
+            "postal_code": 31955,
+            "address": "Alorach District Mahalla",
+            "post_office": "Alorach",
+            "lat": 30.9715958,
+            "lng": 31.1603001
+        },
+        {
+            "postal_code": 31956,
+            "address": "Jawish field milk market",
+            "post_office": "Milk market",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31957,
+            "address": "Mahalet El Borg Mahalla District",
+            "post_office": "Mahalet El Borg",
+            "lat": 30.9836384,
+            "lng": 31.1730343
+        },
+        {
+            "postal_code": 31958,
+            "address": "City workers 1 complex Bamahlh- next Passports",
+            "post_office": "City workers in Mahalla",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31959,
+            "address": "U / Abu Al-Hassan mosque's imam",
+            "post_office": "Sndfa",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31961,
+            "address": "Fisherman Architecture / Barns field Mahalla",
+            "post_office": "Barns",
+            "lat": 30.9696706,
+            "lng": 31.168083
+        },
+        {
+            "postal_code": 31962,
+            "address": "Buildings Egypt",
+            "post_office": "Tamiflu _ Mahala",
+            "lat": 30.7658793,
+            "lng": 31.0200235
+        },
+        {
+            "postal_code": 31963,
+            "address": "Mahala traffic department building",
+            "post_office": "Department of Mahalla passage",
+            "lat": 30.9696706,
+            "lng": 31.168083
+        },
+        {
+            "postal_code": 31964,
+            "address": "Courts / District Zahra complex building",
+            "post_office": "Zahra District Courts Complex",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31965,
+            "address": "Dispensary Hussein Charity",
+            "post_office": "Manor Borollos",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31536,
+            "address": "Damsheet Village / Tanta Center",
+            "post_office": "Damshit",
+            "lat": 30.78650859999999,
+            "lng": 31.0003757
+        },
+        {
+            "postal_code": 31864,
+            "address": "Center of Sandals",
+            "post_office": "Ganzour factory",
+            "lat": 30.8753556,
+            "lng": 31.03351
+        },
+        {
+            "postal_code": 31548,
+            "address": "Kafr Sonbat - Zefta Center",
+            "post_office": "Kafr Sinbat",
+            "lat": 30.7861497,
+            "lng": 31.2182778
+        },
+        {
+            "postal_code": 31866,
+            "address": "Salamoun - Basion Center",
+            "post_office": "Salamoun",
+            "lat": 30.9398693,
+            "lng": 30.8175828
+        }
+    ]
+}

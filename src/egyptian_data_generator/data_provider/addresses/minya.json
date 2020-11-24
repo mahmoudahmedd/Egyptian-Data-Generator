@@ -1,0 +1,1082 @@
+{
+    "minya": [
+        {
+            "postal_code": 61511,
+            "address": "Omar Effendi Minya field",
+            "post_office": "Minya main",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61512,
+            "address": "Minya City- government interests complex building",
+            "post_office": "Minya sub",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61513,
+            "address": "Usman Anwar El Mansoura Bridge - Minya",
+            "post_office": "Second Minya",
+            "lat": 31.0409483,
+            "lng": 31.3784704
+        },
+        {
+            "postal_code": 61711,
+            "address": "Aba endowment Megaga Center / East railway station",
+            "post_office": "Abba endowment station",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61712,
+            "address": "Megaga Center / father endowment",
+            "post_office": "Abba endowment country",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61611,
+            "address": "Saad Zaghloul St. / he returns to center",
+            "post_office": "He returns",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61623,
+            "address": "He returns to center",
+            "post_office": "He returns to country",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61729,
+            "address": "Atlidm village / he returns to center",
+            "post_office": "Atlidm",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61663,
+            "address": "Village Asital / Samalout / Local Unit",
+            "post_office": "Asital",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61742,
+            "address": "Itsa village / Samalot / u Port Said Center",
+            "post_office": "Itsa Minya",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61741,
+            "address": "Albergaah village / Minya Center",
+            "post_office": "Albergaah",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61743,
+            "address": "Village Albehu / Samalout",
+            "post_office": "Albehu",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61713,
+            "address": "Village Jernos / Megaga Center",
+            "post_office": "Jernos",
+            "lat": 28.6484694,
+            "lng": 30.8374924
+        },
+        {
+            "postal_code": 61732,
+            "address": "K / Malwa Center",
+            "post_office": "K Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61637,
+            "address": "Village Alsoahjh / Malwa station in front Agricultural Society",
+            "post_office": "Alsoahjh",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61673,
+            "address": "The village of Sheikh Fadl / u flowers / Bani Mazar Center",
+            "post_office": "Sheikh Fadl",
+            "lat": 28.4871648,
+            "lng": 30.8469516
+        },
+        {
+            "postal_code": 61731,
+            "address": "Mahrs village / he returns to center",
+            "post_office": "Mahrs",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61745,
+            "address": "Village affection / Bani Mazar",
+            "post_office": "Affection",
+            "lat": 28.4916998,
+            "lng": 30.8026155
+        },
+        {
+            "postal_code": 61617,
+            "address": "Built slaves / he returns",
+            "post_office": "Built Obeid_ Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61666,
+            "address": "Brown sang / Samalot",
+            "post_office": "Brown sang",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61671,
+            "address": "The city of Bani Mazar - El Batal Ahmed Abdel- Aziz",
+            "post_office": "Bani Mazar",
+            "lat": 28.4916998,
+            "lng": 30.8026155
+        },
+        {
+            "postal_code": 61645,
+            "address": "El Bayadeya Malwa / Malwa Center",
+            "post_office": "El Bayadeya Malwa",
+            "lat": 27.7327603,
+            "lng": 30.8396598
+        },
+        {
+            "postal_code": 61642,
+            "address": "Village tarpaulin / Malwa Center",
+            "post_office": "Tarpaulin",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61619,
+            "address": "Grace / he returns",
+            "post_office": "Grace Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61641,
+            "address": "Village Pan - Malwa Center",
+            "post_office": "Pan Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61648,
+            "address": "Dalga village / Deir Mawas Center",
+            "post_office": "Dalga",
+            "lat": 27.639351,
+            "lng": 30.697001
+        },
+        {
+            "postal_code": 61722,
+            "address": "Damishar village / Minya Center",
+            "post_office": "Damishar",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61651,
+            "address": "Barsha village / Malwa Center",
+            "post_office": "Deir Al Barsha",
+            "lat": 27.7562255,
+            "lng": 30.9038389
+        },
+        {
+            "postal_code": 61736,
+            "address": "U Freedom / Deir Mawas",
+            "post_office": "Deir Mawas",
+            "lat": 27.6403156,
+            "lng": 30.85173339999999
+        },
+        {
+            "postal_code": 61661,
+            "address": "Port Said / u Samalot center / central building",
+            "post_office": "Samalot",
+            "lat": 31.2652893,
+            "lng": 32.3018661
+        },
+        {
+            "postal_code": 61662,
+            "address": "Samalout behind the court / public housing",
+            "post_office": "Samalot sub",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61723,
+            "address": "Saft Muffler / Minya Center",
+            "post_office": "Saft Muffler",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61677,
+            "address": "Village Sndfa mouse / center Bani Mazar",
+            "post_office": "Sndfa mouse",
+            "lat": 28.5330622,
+            "lng": 30.6632478
+        },
+        {
+            "postal_code": 61515,
+            "address": "Taha seven - Bandar Minya",
+            "post_office": "Taha seven",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61733,
+            "address": "Village Qlandol / Malwa Center",
+            "post_office": "Qlandol",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61744,
+            "address": "Gulwsna / Samalout",
+            "post_office": "Gulwsna",
+            "lat": 28.3465054,
+            "lng": 30.7384023
+        },
+        {
+            "postal_code": 61691,
+            "address": "Megaga / Taha Hussein St.",
+            "post_office": "Megaga",
+            "lat": 28.1082023,
+            "lng": 30.7515413
+        },
+        {
+            "postal_code": 61681,
+            "address": "Matai / schools Street City",
+            "post_office": "Matai",
+            "lat": 28.4173048,
+            "lng": 30.7817545
+        },
+        {
+            "postal_code": 61632,
+            "address": "St. mandarin Mallawi",
+            "post_office": "Malwa sub",
+            "lat": 27.7359069,
+            "lng": 30.8448083
+        },
+        {
+            "postal_code": 61728,
+            "address": "Mnsfis village / he returns to center",
+            "post_office": "Mnsfis",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61621,
+            "address": "Hor village / Malwa Center",
+            "post_office": "Hor",
+            "lat": 27.8596675,
+            "lng": 30.7306014
+        },
+        {
+            "postal_code": 61668,
+            "address": "Mankateen / Samalout",
+            "post_office": "Mankateen",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61675,
+            "address": "Sweet village / Bani Mazar Center",
+            "post_office": "Sweet",
+            "lat": 28.4916998,
+            "lng": 30.8026155
+        },
+        {
+            "postal_code": 61643,
+            "address": "Catarrh Albderman / Deir Mawas Center",
+            "post_office": "Catarrh Albderman",
+            "lat": 27.6403156,
+            "lng": 30.85173339999999
+        },
+        {
+            "postal_code": 61738,
+            "address": "Village built Salem / Deir Mawas Center",
+            "post_office": "Lubna Salim",
+            "lat": 27.6413414,
+            "lng": 30.8550319
+        },
+        {
+            "postal_code": 61634,
+            "address": "El Sheikh Nasser / Malwa Center",
+            "post_office": "Third Malwa",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61682,
+            "address": "Menbal village / Matai Center",
+            "post_office": "Menbal",
+            "lat": 28.4084433,
+            "lng": 30.6817305
+        },
+        {
+            "postal_code": 61514,
+            "address": "U collector peeling / city of Minya",
+            "post_office": "Minya fourth",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61725,
+            "address": "Village Tookh Horse / city of Minya",
+            "post_office": "Tookh Horse",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61746,
+            "address": "The village of Abu Greg / center Bani Mazar",
+            "post_office": "Abu Greg",
+            "lat": 28.4916998,
+            "lng": 30.8026155
+        },
+        {
+            "postal_code": 61727,
+            "address": "Lubna Mohamed Sultan / Minya Center",
+            "post_office": "Lubna Mohamed Sultan",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61646,
+            "address": "Presses Malwa / Malwa Center",
+            "post_office": "Presses Malwa",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61614,
+            "address": "Abashadat / Malwa Center",
+            "post_office": "Abashadat",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61664,
+            "address": "Good village - Samalot",
+            "post_office": "Good Samalot",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61697,
+            "address": "Tunbdy village / Megaga Center",
+            "post_office": "Tunbdy Megaga",
+            "lat": 28.6484694,
+            "lng": 30.8374924
+        },
+        {
+            "postal_code": 61636,
+            "address": "Nway village / Malwa Center",
+            "post_office": "Nway",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61724,
+            "address": "Village Taha columns / Samalout",
+            "post_office": "Taha columns",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61696,
+            "address": "Harona village - Megaga Center",
+            "post_office": "Harona",
+            "lat": 28.6484694,
+            "lng": 30.8374924
+        },
+        {
+            "postal_code": 61674,
+            "address": "Qays village / Matai Center",
+            "post_office": "Qays",
+            "lat": 28.4173048,
+            "lng": 30.7817545
+        },
+        {
+            "postal_code": 61698,
+            "address": "Haider sympathy village / enemy Center",
+            "post_office": "Sympathy Haider",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61721,
+            "address": "Village Hill / Minya Center",
+            "post_office": "Hill",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61615,
+            "address": "Abyoha / he returns to the center of the village",
+            "post_office": "Abyoha",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61667,
+            "address": "Shusha / Samalout",
+            "post_office": "Shusha",
+            "lat": 28.3017367,
+            "lng": 30.6621257
+        },
+        {
+            "postal_code": 61638,
+            "address": "Tuna Mountain / center Malwa",
+            "post_office": "Tuna Mountain",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61618,
+            "address": "Village built Moses / he returns to center",
+            "post_office": "Banu Musa",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61622,
+            "address": "Catarrh / he returns Cement",
+            "post_office": "Catarrh Cement",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61517,
+            "address": "Etiquette of Minya / Minya College",
+            "post_office": "Etiquette of Minya College",
+            "lat": 28.1261591,
+            "lng": 30.7321311
+        },
+        {
+            "postal_code": 61676,
+            "address": "Halgam village / Bani Mazar Center",
+            "post_office": "Halgam",
+            "lat": 28.4916998,
+            "lng": 30.8026155
+        },
+        {
+            "postal_code": 61692,
+            "address": "Ahawany u / Bmgagh",
+            "post_office": "Megaga _ subsidiary",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61639,
+            "address": "The village of Umm Qmus / Malwa Center",
+            "post_office": "Or Qmus",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61616,
+            "address": "Pellnsourh / he returns to center",
+            "post_office": "Pellnsourh",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61684,
+            "address": "Brdnoha village / Matai Center",
+            "post_office": "Brdnoha",
+            "lat": 28.4346664,
+            "lng": 30.7365596
+        },
+        {
+            "postal_code": 61665,
+            "address": "Determination / Samalout",
+            "post_office": "Purposefulness",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61649,
+            "address": "Barsha village / Malwa Center",
+            "post_office": "Barsha",
+            "lat": 27.7562255,
+            "lng": 30.9038389
+        },
+        {
+            "postal_code": 61737,
+            "address": "Tanov / Deir Mawas Center",
+            "post_office": "Tanov",
+            "lat": 27.6403156,
+            "lng": 30.85173339999999
+        },
+        {
+            "postal_code": 61693,
+            "address": "Jihad village / enemy Center",
+            "post_office": "Jihad",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61714,
+            "address": "Village soldier / center Bani Mazar",
+            "post_office": "Soldiery",
+            "lat": 28.4916998,
+            "lng": 30.8026155
+        },
+        {
+            "postal_code": 61633,
+            "address": "U July 26 Mallawi",
+            "post_office": "A second wrench",
+            "lat": 27.7359069,
+            "lng": 30.8448083
+        },
+        {
+            "postal_code": 61516,
+            "address": "Sultan El Minya",
+            "post_office": "Sultan District",
+            "lat": 28.0947451,
+            "lng": 30.7566318
+        },
+        {
+            "postal_code": 61635,
+            "address": "Village Alahmonin / Malwa Center",
+            "post_office": "Alahmonin",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61672,
+            "address": "Built Mzar- Shafie City",
+            "post_office": "Sub built shrine",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61647,
+            "address": "Property Amoalqh / Malwa",
+            "post_office": "Amoalqh facility",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61518,
+            "address": "Land -born / Bandar Minya",
+            "post_office": "Land of birth",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61653,
+            "address": "Village Dirout or Palm / Malwa Center",
+            "post_office": "Dirout or Palm",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61747,
+            "address": "El Shaheed Salah Abdel Hakim / Deir Mawas Center",
+            "post_office": "Deir Mawas sub",
+            "lat": 27.6403156,
+            "lng": 30.85173339999999
+        },
+        {
+            "postal_code": 61654,
+            "address": "U July 26 / Mallawi",
+            "post_office": "Malwa fourth",
+            "lat": 27.7359069,
+            "lng": 30.8448083
+        },
+        {
+            "postal_code": 61753,
+            "address": "Village Damisha and Hashim / Minya Center",
+            "post_office": "Damisha and Hashim",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61655,
+            "address": "El Majidi / City Malwa",
+            "post_office": "New Malwa",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61656,
+            "address": "Osamu bride / Deir Mawas Center",
+            "post_office": "Osamu bride",
+            "lat": 27.6403156,
+            "lng": 30.85173339999999
+        },
+        {
+            "postal_code": 61756,
+            "address": "Ammaria East / Dermwas Center",
+            "post_office": "Ammaria East",
+            "lat": 27.6429099,
+            "lng": 30.8535576
+        },
+        {
+            "postal_code": 61748,
+            "address": "Tel built Imran / Deir Mawas Center",
+            "post_office": "Tel built Imran",
+            "lat": 27.6403156,
+            "lng": 30.85173339999999
+        },
+        {
+            "postal_code": 61657,
+            "address": "The village of Deir Abu Hanas / Malwa Center",
+            "post_office": "Deir Abu Hanas",
+            "lat": 27.7726942,
+            "lng": 30.9130435
+        },
+        {
+            "postal_code": 61734,
+            "address": "Abu Jacob village / Minya Center",
+            "post_office": "Abu Yaqub",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61715,
+            "address": "Village Brdobat / Megaga Center",
+            "post_office": "Brdobat",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61749,
+            "address": "The village of Nazlat Filahin- Minya Center",
+            "post_office": "Catarrh peasants",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61624,
+            "address": "Omar bin al-Khattab / he returns to St.",
+            "post_office": "He returns to sub",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61686,
+            "address": "Matai City",
+            "post_office": "Matai Country",
+            "lat": 28.4173048,
+            "lng": 30.7817545
+        },
+        {
+            "postal_code": 61689,
+            "address": "Ashanin Christians / Megaga Center",
+            "post_office": "Ashanin Christians",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61716,
+            "address": "Megaga City",
+            "post_office": "Megaga _ second",
+            "lat": 28.6484694,
+            "lng": 30.8374924
+        },
+        {
+            "postal_code": 61659,
+            "address": "Village Singerj / Malwa Center",
+            "post_office": "Singerj Malwa",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61625,
+            "address": "I said the village of Abu Malwa Center",
+            "post_office": "I said Abu",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61751,
+            "address": "Vaqosh village / Minya Center",
+            "post_office": "Curved Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61522,
+            "address": "Shaheen manor Minya",
+            "post_office": "Shaheen manor",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61735,
+            "address": "The village of Sheikh worship / Malwa Center",
+            "post_office": "Sheikh worship",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61519,
+            "address": "Minya / Minya University",
+            "post_office": "Minia University",
+            "lat": 28.1261591,
+            "lng": 30.7321311
+        },
+        {
+            "postal_code": 61717,
+            "address": "Village Dahrot / Megaga Center",
+            "post_office": "Dahrot",
+            "lat": 28.6484694,
+            "lng": 30.8374924
+        },
+        {
+            "postal_code": 61679,
+            "address": "Berdoneh supervision / Bani Mazar Center",
+            "post_office": "Berdoneh supervision",
+            "lat": 28.4916998,
+            "lng": 30.8026155
+        },
+        {
+            "postal_code": 61678,
+            "address": "Center built on / Bani Mazar Center",
+            "post_office": "Built on",
+            "lat": 28.4916998,
+            "lng": 30.8026155
+        },
+        {
+            "postal_code": 61718,
+            "address": "Sunflower Harona / Megaga village center",
+            "post_office": "Sunflower Harona",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61752,
+            "address": "The village of Saft El Laban / Minya Center",
+            "post_office": "Saft milk Minya",
+            "lat": 30.0258038,
+            "lng": 31.1653117
+        },
+        {
+            "postal_code": 61739,
+            "address": "East Saft / Minya",
+            "post_office": "East Minya Saft",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61669,
+            "address": "Samalot country Fatima Zahra u",
+            "post_office": "Samalot country",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61719,
+            "address": "Slaqos village / enemy Center",
+            "post_office": "Slaqos",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61613,
+            "address": "Catarrh Grace / he returns to center",
+            "post_office": "Catarrh Grace",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61757,
+            "address": "Thncha / Minya Center",
+            "post_office": "Thncha",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61755,
+            "address": "Kafr Khozam- Dermwas",
+            "post_office": "Kafr Khuzam",
+            "lat": 27.6429099,
+            "lng": 30.8535576
+        },
+        {
+            "postal_code": 61612,
+            "address": "The village of Bani Hassan Sunrise / he returns to center",
+            "post_office": "Bani Hassan Sunrise",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61759,
+            "address": "Marine sniff onions / Megaga Center",
+            "post_office": "Sniff onions _aharih Minya",
+            "lat": 28.6484694,
+            "lng": 30.8374924
+        },
+        {
+            "postal_code": 61762,
+            "address": "Taha Hussein - Bandar Megaga",
+            "post_office": "Taha Hussein",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61761,
+            "address": "Deir Mawas City / u railway level crossing",
+            "post_office": "Al_husaabh Deir Mawas",
+            "lat": 27.6403156,
+            "lng": 30.85173339999999
+        },
+        {
+            "postal_code": 61758,
+            "address": "Itsa village / Samalout",
+            "post_office": "Itsa Union",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61685,
+            "address": "Abu Aziz Matai village center",
+            "post_office": "Abu Aziz",
+            "lat": 28.4173048,
+            "lng": 30.7817545
+        },
+        {
+            "postal_code": 61626,
+            "address": "Mnehry / he returns to the village",
+            "post_office": "Mnehry Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61763,
+            "address": "Minya flower / Minia village center",
+            "post_office": "Minya flower",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61687,
+            "address": "Village Aato endowment / Bani Mazar",
+            "post_office": "Aato endowment",
+            "lat": 28.4916998,
+            "lng": 30.8026155
+        },
+        {
+            "postal_code": 61765,
+            "address": "Com Allovy / Samalout",
+            "post_office": "Com Allovy Minya",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61764,
+            "address": "Sheikh Masood village / enemy Center",
+            "post_office": "Sheikh Masoud Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61768,
+            "address": "The new city of Minya",
+            "post_office": "The new city of Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61769,
+            "address": "Village built a silent / city of Beni Mazar",
+            "post_office": "Lubna silent",
+            "lat": 28.4916998,
+            "lng": 30.8026155
+        },
+        {
+            "postal_code": 61771,
+            "address": "Harddrive / Minya Center",
+            "post_office": "Harddrive Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61772,
+            "address": "Western Saft / Minya Center",
+            "post_office": "Western Saft",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61773,
+            "address": "Dhmarw - Megaga",
+            "post_office": "Dhmarw Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61774,
+            "address": "Sheikh lattice / Malwa village center",
+            "post_office": "Sheikh lattice",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61775,
+            "address": "Joseph Village Sedky / Megaga",
+            "post_office": "Joseph Sedky",
+            "lat": 28.6484694,
+            "lng": 30.8374924
+        },
+        {
+            "postal_code": 61658,
+            "address": "Village Lubna Khalid / Megaga Center",
+            "post_office": "Built Khald_ Megaga",
+            "lat": 28.6484694,
+            "lng": 30.8374924
+        },
+        {
+            "postal_code": 61776,
+            "address": "Samalot / Minya Center",
+            "post_office": "Fulfillment of Minya",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61523,
+            "address": "The new city of Minya / Fourth Quarter",
+            "post_office": "Young Future",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61779,
+            "address": "Malwa Center / bad tuna",
+            "post_office": "Bad tuna Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61781,
+            "address": "Alanahth / Minia village",
+            "post_office": "Alanahth",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61782,
+            "address": "The village of Beni Amer / Minya",
+            "post_office": "Beni Amer",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61524,
+            "address": "Village 8 Minya",
+            "post_office": "Hope",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61688,
+            "address": "Malwa / Minya Center",
+            "post_office": "Second hill",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61784,
+            "address": "Industrial Area / Minya",
+            "post_office": "Industrial area of Minya",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61785,
+            "address": "Tookh Minya village of Deir Mawas",
+            "post_office": "Tookh Minya",
+            "lat": 27.6403156,
+            "lng": 30.85173339999999
+        },
+        {
+            "postal_code": 61786,
+            "address": "The village of Abu al-Abbas / Minya",
+            "post_office": "Abul Abbas",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61787,
+            "address": "Village Aezagh / Minya",
+            "post_office": "Aezagh",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61788,
+            "address": "Tel libel built Imran / Minya",
+            "post_office": "Tel island built Imran",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61789,
+            "address": "Village Nasiriyah / Deir Mawas",
+            "post_office": "Nasiriyah Deir Mawas",
+            "lat": 27.601687,
+            "lng": 30.8020826
+        },
+        {
+            "postal_code": 61792,
+            "address": "The village of Nazlat Asital",
+            "post_office": "Catarrh Asital",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 61799,
+            "address": "Nazlet Al Amoudin Village - Samalout Center",
+            "post_office": "The descent of the columns",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61811,
+            "address": "El Qamayer Village - Samalout Center",
+            "post_office": "Al-Kamayer",
+            "lat": 28.3139524,
+            "lng": 30.7101312
+        },
+        {
+            "postal_code": 61798,
+            "address": "The Village of Qulba - Mallawi Center",
+            "post_office": "Heart",
+            "lat": 27.7359069,
+            "lng": 30.8448083
+        },
+        {
+            "postal_code": 61523,
+            "address": "Saad Zaghloul St. El Menia Station",
+            "post_office": "El Menia Station",
+            "lat": 28.0968431,
+            "lng": 30.7538381
+        },
+        {
+            "postal_code": 61759,
+            "address": "Sham al-Basal marine village / Maghagha",
+            "post_office": "Freedom",
+            "lat": 28.6484694,
+            "lng": 30.8374924
+        }
+    ]
+}

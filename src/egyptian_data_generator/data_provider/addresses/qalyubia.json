@@ -1,0 +1,1250 @@
+{
+    "qalyubia": [
+        {
+            "postal_code": 13511,
+            "address": "Saad Zaghloul Square / Banha",
+            "post_office": "Banha country",
+            "lat": 30.4577273,
+            "lng": 31.180324
+        },
+        {
+            "postal_code": 13512,
+            "address": "City Penha Palace of Culture / u Lhalaly",
+            "post_office": "New Banha",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13513,
+            "address": "Banha country Saad Zaghloul Street",
+            "post_office": "Manshyet to new",
+            "lat": 30.4577273,
+            "lng": 31.180324
+        },
+        {
+            "postal_code": 13514,
+            "address": "Abdel Hafez Street / Banha",
+            "post_office": "Kafr Mnagher",
+            "lat": 30.4523492,
+            "lng": 31.1801112
+        },
+        {
+            "postal_code": 13515,
+            "address": "Wholesale market / Banha",
+            "post_office": "Badawi facility",
+            "lat": 30.04726999999999,
+            "lng": 31.237676
+        },
+        {
+            "postal_code": 13516,
+            "address": "City Council housing behind SSI Banha",
+            "post_office": "The new sub Banha",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13517,
+            "address": "Chinese porcelain and / Shubra",
+            "post_office": "Chinese porcelain",
+            "lat": 30.1233853,
+            "lng": 31.26092879999999
+        },
+        {
+            "postal_code": 13518,
+            "address": "Inside the headquarters of the League / Banha",
+            "post_office": "Banha University",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13519,
+            "address": "Monia village lions Banha",
+            "post_office": "Monia lions",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13521,
+            "address": "Exhibits / Tookh Island Village",
+            "post_office": "Exhibits Island",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13522,
+            "address": "Kafr Moyes / Banha",
+            "post_office": "Kafr Moyes",
+            "lat": 30.4758925,
+            "lng": 31.2351797
+        },
+        {
+            "postal_code": 13523,
+            "address": "ESCO Bbhtim / Shubra",
+            "post_office": "Wasco",
+            "lat": 30.1233853,
+            "lng": 31.26092879999999
+        },
+        {
+            "postal_code": 13611,
+            "address": "City Council housing Qalioub / u station Center",
+            "post_office": "Qalioub station",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13612,
+            "address": "Qalioub El Sultan Hussein City",
+            "post_office": "Qalioub country",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13613,
+            "address": "Village Sanafir Qalioub",
+            "post_office": "Sanafir",
+            "lat": 30.2214461,
+            "lng": 31.1684705
+        },
+        {
+            "postal_code": 13614,
+            "address": "Mitt village Halfa Qalioub",
+            "post_office": "Meet Halfa",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13615,
+            "address": "The village of Kom Aschwin / Qalioub - St. army",
+            "post_office": "Com Aschwin",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13616,
+            "address": "Village Balqus / Qalioub",
+            "post_office": "Balqus",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13617,
+            "address": "Village rarely Qalioub Central St.",
+            "post_office": "Rarely",
+            "lat": 30.1323853,
+            "lng": 31.2685688
+        },
+        {
+            "postal_code": 13618,
+            "address": "Nai village Qalioub / u canal",
+            "post_office": "Nye",
+            "lat": 30.1798231,
+            "lng": 31.20681879999999
+        },
+        {
+            "postal_code": 13619,
+            "address": "Kafr Ramada Qalioub village / u entrance country",
+            "post_office": "Kafr Ramada",
+            "lat": 30.2312784,
+            "lng": 31.2350548
+        },
+        {
+            "postal_code": 13621,
+            "address": "Central / Alguenataralkhiria building",
+            "post_office": "Qanater",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13622,
+            "address": "Village Hleghan / Qanater",
+            "post_office": "Hleghan",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13624,
+            "address": "Village enlightening / Qanater",
+            "post_office": "Enlightening Spans",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13625,
+            "address": "City Council housing Qanater",
+            "post_office": "Spans charitable subsidiary",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13626,
+            "address": "Kafr Shorafa western Qanater",
+            "post_office": "Kafr Shorafa western",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13627,
+            "address": "Kherghanih / Qanater village",
+            "post_office": "Kherghanih",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13628,
+            "address": "Village Mnty Qalioub / u altar",
+            "post_office": "Mnty",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13629,
+            "address": "Mitt village grew / Qalioub",
+            "post_office": "Mitt grew",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13631,
+            "address": "Village angle carpenter / Qalioub",
+            "post_office": "Najjar angle",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13632,
+            "address": "Behind the popular arena Qalioub country",
+            "post_office": "Qalioub country sub",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13633,
+            "address": "Village Bahadh / Qanater",
+            "post_office": "Bahadh",
+            "lat": 30.2214217,
+            "lng": 31.1445719
+        },
+        {
+            "postal_code": 13634,
+            "address": "Village Milking / Qalioub / in front of the youth center",
+            "post_office": "Milking",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13635,
+            "address": "Behind the popular arena Qalioub country",
+            "post_office": "Qalioub sub station",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13636,
+            "address": "Sidi Abdel Rahman Street / Qalioub",
+            "post_office": "Sidi Abdel Rahman bin Auf",
+            "lat": 30.9689002,
+            "lng": 28.7362599
+        },
+        {
+            "postal_code": 13637,
+            "address": "Village Manor Zaki Banha",
+            "post_office": "Manor Zaki",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13638,
+            "address": "The village of Kafr el-Sheikh Ibrahim - Banha Center",
+            "post_office": "Kafr El Sheikh Ibrahim",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 13639,
+            "address": "Local Unit Bnmdh",
+            "post_office": "Kafr Atallah",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13695,
+            "address": "Local Unit - major facility",
+            "post_office": "Grades",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13696,
+            "address": "Local Unit Balhqr - Kafr mug Center",
+            "post_office": "Briqta",
+            "lat": 30.1005232,
+            "lng": 31.245135
+        },
+        {
+            "postal_code": 13697,
+            "address": "Twenty-three July / Khanka village",
+            "post_office": "Twenty three of July",
+            "lat": 30.13031,
+            "lng": 31.2797579
+        },
+        {
+            "postal_code": 13698,
+            "address": "City Council housing Kafr thanked",
+            "post_office": "Kafr Shukr sub",
+            "lat": 30.5514145,
+            "lng": 31.255374
+        },
+        {
+            "postal_code": 13699,
+            "address": "The village of El Meridj / Shibin Spans",
+            "post_office": "El Meridj",
+            "lat": 30.2875723,
+            "lng": 31.3178023
+        },
+        {
+            "postal_code": 13711,
+            "address": "Public housing / Shibin Spans",
+            "post_office": "Shibin Spans",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13712,
+            "address": "Dear village / Shibin archways facility",
+            "post_office": "DEAR facility",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13713,
+            "address": "Village Sndnhor / Banha",
+            "post_office": "Sndnhor Banha",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13714,
+            "address": "Village Jmejrh / milk / u point",
+            "post_office": "New Jmejrh",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13715,
+            "address": "Osnet Kafr Shukr",
+            "post_office": "Osnet",
+            "lat": 30.53085,
+            "lng": 31.2488933
+        },
+        {
+            "postal_code": 13718,
+            "address": "The village of Kafr thanked Gamal Abdel Nasser Street",
+            "post_office": "Kafr Shukr",
+            "lat": 30.5514145,
+            "lng": 31.255374
+        },
+        {
+            "postal_code": 13719,
+            "address": "The village of Kafr Tcefa Kafr Shukr",
+            "post_office": "Kafr Tcefa",
+            "lat": 30.5490494,
+            "lng": 31.265453
+        },
+        {
+            "postal_code": 13721,
+            "address": "Village major facility / Kafr Shukr",
+            "post_office": "Great facility",
+            "lat": 30.5489539,
+            "lng": 31.26550079999999
+        },
+        {
+            "postal_code": 13724,
+            "address": "Village Djoy / Banha",
+            "post_office": "Djoy",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13725,
+            "address": "Village Beltan / Tookh",
+            "post_office": "Beltan",
+            "lat": 30.3691215,
+            "lng": 31.1739024
+        },
+        {
+            "postal_code": 13728,
+            "address": "Tnt village island Tookh",
+            "post_office": "Tnt island",
+            "lat": 30.35686179999999,
+            "lng": 31.1997504
+        },
+        {
+            "postal_code": 13729,
+            "address": "Village Brashwm Minor / Tookh",
+            "post_office": "Brashwm Minor",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13731,
+            "address": "Great Ojhor village / Tookh",
+            "post_office": "Great Ajhor",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13732,
+            "address": "Village Sindbis / Mrkzalguenatr charity",
+            "post_office": "Sindbis",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13733,
+            "address": "Village Alhmot Banha",
+            "post_office": "Alhmot",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13734,
+            "address": "Village Mrcefa / Banha",
+            "post_office": "Mrcefa",
+            "lat": 30.406455,
+            "lng": 31.250631
+        },
+        {
+            "postal_code": 13735,
+            "address": "Mitt Kenana / Tookh village",
+            "post_office": "Mitt Kenana",
+            "lat": 30.3826265,
+            "lng": 31.25514919999999
+        },
+        {
+            "postal_code": 13736,
+            "address": "Village Moshtohor / Tookh",
+            "post_office": "Moshtohor",
+            "lat": 30.35272459999999,
+            "lng": 31.2208566
+        },
+        {
+            "postal_code": 13737,
+            "address": "The local unit building the monastery / Tookh",
+            "post_office": "The monastery",
+            "lat": 30.35686179999999,
+            "lng": 31.1997504
+        },
+        {
+            "postal_code": 13738,
+            "address": "Village notching / Shibin barrages / government complex",
+            "post_office": "Notching",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13739,
+            "address": "Village Tahoria Shebin Spans",
+            "post_office": "Tahoria",
+            "lat": 30.2976683,
+            "lng": 31.2969674
+        },
+        {
+            "postal_code": 13741,
+            "address": "Martyr Ahmed Abdel Aziz Street / Tookh",
+            "post_office": "Tookh",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13742,
+            "address": "Kafr El Mansour / Tookh / street GP",
+            "post_office": "Kafr El Mansour _ Tookh",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 13743,
+            "address": "City Kaha / Tookh Center / Port Said St.",
+            "post_office": "Kaha",
+            "lat": 30.2766635,
+            "lng": 31.1996708
+        },
+        {
+            "postal_code": 13744,
+            "address": "Village Sndion Qalioub",
+            "post_office": "Sndion",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13745,
+            "address": "Village nuclei / Shibin Spans",
+            "post_office": "Intend",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13746,
+            "address": "Hummingbird / Qalioub village in front of the police station",
+            "post_office": "Stilted",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13749,
+            "address": "Kafr Shibin / Shibin archways village",
+            "post_office": "Kafr Shibin",
+            "lat": 30.2981307,
+            "lng": 31.3006901
+        },
+        {
+            "postal_code": 13751,
+            "address": "Village Passos / Qanater",
+            "post_office": "Passos",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13752,
+            "address": "Bahteem District / complex governmental interests Shubra Al Khaimah",
+            "post_office": "Bahteem",
+            "lat": 30.1233853,
+            "lng": 31.26092879999999
+        },
+        {
+            "postal_code": 13753,
+            "address": "Mostorod / Shubra",
+            "post_office": "Mostorod",
+            "lat": 30.2127166,
+            "lng": 31.3041145
+        },
+        {
+            "postal_code": 13754,
+            "address": "Village Kulj / Khanka",
+            "post_office": "Kulj",
+            "lat": 30.1738146,
+            "lng": 31.3551039
+        },
+        {
+            "postal_code": 13755,
+            "address": "Yellow Mountain Village Khanka",
+            "post_office": "Yellow Mountain",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13756,
+            "address": "Workshops Abu Zaabal / m Khanka",
+            "post_office": "Abu Zaabal workshops",
+            "lat": 30.241521,
+            "lng": 31.3522389
+        },
+        {
+            "postal_code": 13757,
+            "address": "Porsche Abu Zaabal Mail Extension",
+            "post_office": "Quarries Abu Zaabal",
+            "lat": 30.241521,
+            "lng": 31.3522389
+        },
+        {
+            "postal_code": 13758,
+            "address": "Abu Zaabal / m Khanka",
+            "post_office": "Abu Zaabal country",
+            "lat": 30.241521,
+            "lng": 31.3522389
+        },
+        {
+            "postal_code": 13759,
+            "address": "Entrance to the Atomic Energy Commission Khanka",
+            "post_office": "Atomic Energy",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13761,
+            "address": "Arab village Alaliqat / Khanka",
+            "post_office": "Arabs Alaliqat",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13762,
+            "address": "Arabs supervisor Shebin Spans",
+            "post_office": "Arabs Juheina",
+            "lat": 30.2976683,
+            "lng": 31.2969674
+        },
+        {
+            "postal_code": 13763,
+            "address": "Republic / Khanka Street",
+            "post_office": "Khanka",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13766,
+            "address": "Mohammed on Wall Street College of Agriculture",
+            "post_office": "Shubra",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13767,
+            "address": "Land Nubar / Shubra",
+            "post_office": "Nubar",
+            "lat": 30.1191688,
+            "lng": 31.2539373
+        },
+        {
+            "postal_code": 13768,
+            "address": "15 El canal district of Shubra Al Khaimah factories",
+            "post_office": "Shubra factories",
+            "lat": 30.1233853,
+            "lng": 31.26092879999999
+        },
+        {
+            "postal_code": 13769,
+            "address": "Land transit Shubra",
+            "post_office": "Transit Shubra",
+            "lat": 30.1233853,
+            "lng": 31.26092879999999
+        },
+        {
+            "postal_code": 13771,
+            "address": "Land Elfarnawany / Shubra",
+            "post_office": "Housing Elfarnawany",
+            "lat": 30.1233853,
+            "lng": 31.26092879999999
+        },
+        {
+            "postal_code": 13772,
+            "address": "Bigham / Shubra",
+            "post_office": "Bigham",
+            "lat": 30.1233853,
+            "lng": 31.26092879999999
+        },
+        {
+            "postal_code": 13773,
+            "address": "Land cables / Shubra",
+            "post_office": "Housing Industrial",
+            "lat": 30.1233853,
+            "lng": 31.26092879999999
+        },
+        {
+            "postal_code": 13774,
+            "address": "Particular / Khanka",
+            "post_office": "Particular",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13775,
+            "address": "Village Kerkhandh Tookh / Dyer St. terms",
+            "post_office": "Kerkhandh",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13776,
+            "address": "Village ducks / Banha",
+            "post_office": "Ducks",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13777,
+            "address": "Kafr Butcher Banha / public housing",
+            "post_office": "Kafr Butcher",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13778,
+            "address": "Ojhor Minor / Qanater",
+            "post_office": "Ajhor Minor",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13779,
+            "address": "Village Athribis / Banha",
+            "post_office": "Athribis",
+            "lat": 30.4695542,
+            "lng": 31.1912103
+        },
+        {
+            "postal_code": 13781,
+            "address": "City Tookh city council housing",
+            "post_office": "Tookh sub",
+            "lat": 30.35686179999999,
+            "lng": 31.1997504
+        },
+        {
+            "postal_code": 13782,
+            "address": "Dmilo village / center Banha / u sea bridge",
+            "post_office": "Dmilo",
+            "lat": 30.5003549,
+            "lng": 31.1960673
+        },
+        {
+            "postal_code": 13783,
+            "address": "Village Shubra Harris Mrkztuch",
+            "post_office": "Shubra Harris",
+            "lat": 30.1233853,
+            "lng": 31.26092879999999
+        },
+        {
+            "postal_code": 13784,
+            "address": "Share / Tookh / village next to the youth center",
+            "post_office": "Share",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13785,
+            "address": "Village Almanaal / Khanka",
+            "post_office": "Almanaal",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13786,
+            "address": "Manor agents Shebin archways housing",
+            "post_office": "Shibin archways sub",
+            "lat": 30.2976683,
+            "lng": 31.2969674
+        },
+        {
+            "postal_code": 13787,
+            "address": "Village Namul Tookh front Agricultural Society",
+            "post_office": "Namul",
+            "lat": 30.3091541,
+            "lng": 31.2367185
+        },
+        {
+            "postal_code": 13788,
+            "address": "Akiad / Djoy / Banha",
+            "post_office": "Akiad _ Djoy",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13789,
+            "address": "The village of Shubra Shihab Qanater",
+            "post_office": "Shubra Shihab",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13791,
+            "address": "Village Quaranfil / Qanater",
+            "post_office": "Quaranfil",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13792,
+            "address": "Taha village of Kafr Shibin Spans",
+            "post_office": "Kafr Taha",
+            "lat": 30.2981307,
+            "lng": 31.3006901
+        },
+        {
+            "postal_code": 13793,
+            "address": "Land Gabalawy / Shubra",
+            "post_office": "Gabalawy",
+            "lat": 30.1233853,
+            "lng": 31.26092879999999
+        },
+        {
+            "postal_code": 13794,
+            "address": "Village blond Kvrhkur",
+            "post_office": "Blonds",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13795,
+            "address": "Dyer St., hand / village Sendwh / Khanka",
+            "post_office": "Sendwh",
+            "lat": 30.25181,
+            "lng": 31.305063
+        },
+        {
+            "postal_code": 13796,
+            "address": "Village Alakecich / barrages Shebin El Bahr",
+            "post_office": "Alakecich",
+            "lat": 30.2976683,
+            "lng": 31.2969674
+        },
+        {
+            "postal_code": 13797,
+            "address": "Bani Tamim village Tel / u school / Spans",
+            "post_office": "Tel Bani Tamim",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13798,
+            "address": "Village Baradaa / Qanater",
+            "post_office": "Baradaa",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13812,
+            "address": "The necessity to village / Banha",
+            "post_office": "And the necessity to",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13813,
+            "address": "Village Grand Brashwm / Tookh",
+            "post_office": "Great Brashwm",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13814,
+            "address": "Mitt Asim village / Banha",
+            "post_office": "Mitt Asim Banha",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13815,
+            "address": "Kafr Shobak / Shibin archways village",
+            "post_office": "Kafr Shobak",
+            "lat": 30.2636362,
+            "lng": 31.3349751
+        },
+        {
+            "postal_code": 13816,
+            "address": "Kafr Ammar / Tookh village",
+            "post_office": "Kafr Ammar",
+            "lat": 29.4959669,
+            "lng": 31.2340536
+        },
+        {
+            "postal_code": 13817,
+            "address": "Shobak village Shebin archways Dyer St. terms",
+            "post_office": "Shobak",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 13818,
+            "address": "Village Manor Nawar Khanka",
+            "post_office": "Manor Nawar",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13819,
+            "address": "Teresa village / town entrance / Tookh u GP",
+            "post_office": "Teresa",
+            "lat": 30.35686179999999,
+            "lng": 31.1997504
+        },
+        {
+            "postal_code": 13821,
+            "address": "Village Mjul / Banha",
+            "post_office": "Mjul Banha",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13822,
+            "address": "Kafr Vrciss / Banha",
+            "post_office": "Kafr Vrciss Banha",
+            "lat": 30.6734888,
+            "lng": 31.4693382
+        },
+        {
+            "postal_code": 13823,
+            "address": "Nohrh Village / Central Building / Tookh",
+            "post_office": "Nohrh",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13824,
+            "address": "Village Kvrobeian / Khanka",
+            "post_office": "Kafr Abyan",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13825,
+            "address": "Village Ambassaana Tookh",
+            "post_office": "Ambassaana",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13826,
+            "address": "Mitt Radi village / Banha",
+            "post_office": "Mitt Radi",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13827,
+            "address": "Morning Qalioub / Sir forty u village",
+            "post_office": "Morning Qalioub",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13828,
+            "address": "Beauty village of Kafr Tookh",
+            "post_office": "Kafr Beauty",
+            "lat": 30.3513518,
+            "lng": 31.2032268
+        },
+        {
+            "postal_code": 13829,
+            "address": "The village of Kom Red Shebin Spans",
+            "post_office": "Shibin el Kom Red Spans",
+            "lat": 30.2976683,
+            "lng": 31.2969674
+        },
+        {
+            "postal_code": 13831,
+            "address": "Kafr ducks Banha",
+            "post_office": "Kafr ducks",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13832,
+            "address": "Monia village Shebin Alguenatrbjawar rail",
+            "post_office": "Monia Shebin Spans",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 13833,
+            "address": "The new division housing Khanka",
+            "post_office": "Khanka sub",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13834,
+            "address": "Mitt Alhovyin village Banha / u Religious Institute",
+            "post_office": "Mitt Alhovyin",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13835,
+            "address": "Arab village Sawalha Shebin Spans",
+            "post_office": "Arabs Sawalha",
+            "lat": 30.2976683,
+            "lng": 31.2969674
+        },
+        {
+            "postal_code": 13836,
+            "address": "Yellow mountain village Bakhankp facility",
+            "post_office": "Manshyet Yellow Mountain",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13837,
+            "address": "Village Zhoyen / Shibin Spans",
+            "post_office": "Zhoyen",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13838,
+            "address": "Arab village of Kafr / Banha",
+            "post_office": "Kafr Arabs",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13839,
+            "address": "The village of Kafr Tahla / Banha",
+            "post_office": "Kafr Tahla",
+            "lat": 30.3979497,
+            "lng": 31.1332057
+        },
+        {
+            "postal_code": 13841,
+            "address": "Little Qanater Qriaazbh",
+            "post_office": "Small manor",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13842,
+            "address": "Kafr Shahawy / Kafr Shukr",
+            "post_office": "Kafr Shahawy Khater",
+            "lat": 30.5490494,
+            "lng": 31.265453
+        },
+        {
+            "postal_code": 13843,
+            "address": "Village Tcefa / Kafr Shukr",
+            "post_office": "Tcefa",
+            "lat": 30.5489539,
+            "lng": 31.26550079999999
+        },
+        {
+            "postal_code": 13844,
+            "address": "Kafr Abu Juma Qalioub",
+            "post_office": "Kafr Abu Juma",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13845,
+            "address": "Kafr Hamza / Khanka village",
+            "post_office": "Kafr Hamza",
+            "lat": 30.2324261,
+            "lng": 31.3270841
+        },
+        {
+            "postal_code": 13846,
+            "address": "Village Dandana / Tookh",
+            "post_office": "Dandana",
+            "lat": 30.3339162,
+            "lng": 31.2086949
+        },
+        {
+            "postal_code": 13847,
+            "address": "Village people's manor Qanater",
+            "post_office": "People s manor",
+            "lat": 30.191313,
+            "lng": 31.1337071
+        },
+        {
+            "postal_code": 13848,
+            "address": "Kurdish village of Kafr Kafr Shukr / u youth center",
+            "post_office": "Kafr El Kurdi",
+            "lat": 30.5489539,
+            "lng": 31.26550079999999
+        },
+        {
+            "postal_code": 13849,
+            "address": "Bahteem sub Shubra / Posta Building",
+            "post_office": "Bahteem sub",
+            "lat": 30.1233853,
+            "lng": 31.26092879999999
+        },
+        {
+            "postal_code": 13851,
+            "address": "Village Vrciss Banha",
+            "post_office": "Vrciss Banha",
+            "lat": 30.6734888,
+            "lng": 31.4693382
+        },
+        {
+            "postal_code": 13852,
+            "address": "The village of Kafr Sendwah / Shibin Spans",
+            "post_office": "Kafr Sendwah",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13853,
+            "address": "Kafr El Mansour - Kafr Thanksgiving",
+            "post_office": "Kafr Mansour_ Kafr Shukr",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 13854,
+            "address": "Mitt Attar village / Banha",
+            "post_office": "Mitt Attar",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13857,
+            "address": "Village Bakashin / Kafr Shukr",
+            "post_office": "Bakashin",
+            "lat": 30.5489539,
+            "lng": 31.26550079999999
+        },
+        {
+            "postal_code": 13858,
+            "address": "Ancient village Jmejrh / Banha",
+            "post_office": "Old Jmejrh",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13859,
+            "address": "Village Nob Taha Shebin Spans",
+            "post_office": "Nob Taha Shibin",
+            "lat": 30.2543166,
+            "lng": 31.2941069
+        },
+        {
+            "postal_code": 13861,
+            "address": "Kafr Alrjalat / Tookh",
+            "post_office": "Kafr Alrjalat",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13862,
+            "address": "Village Viguera / milk / u hospital",
+            "post_office": "Viguera",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13863,
+            "address": "The village of Kom Alotron / Tookh",
+            "post_office": "Com Alotron",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13864,
+            "address": "Shubra City happiness / Mosque of Ahmad small u",
+            "post_office": "City happiness and cooperation",
+            "lat": 30.085551,
+            "lng": 31.2453488
+        },
+        {
+            "postal_code": 13865,
+            "address": "Naqbas / Banha",
+            "post_office": "Naqbas",
+            "lat": 30.4461885,
+            "lng": 31.2344433
+        },
+        {
+            "postal_code": 13866,
+            "address": "Village Retreat Center Nohrh Tookh",
+            "post_office": "Retreat Nohrh",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13867,
+            "address": "Kafr village in honor of religion Kafr Shukr / El Haj Amin",
+            "post_office": "Kafr in honor of religion",
+            "lat": 30.5489539,
+            "lng": 31.26550079999999
+        },
+        {
+            "postal_code": 13868,
+            "address": "Beltan / Tookh center angle",
+            "post_office": "Beltan angle",
+            "lat": 30.3691215,
+            "lng": 31.1739024
+        },
+        {
+            "postal_code": 13869,
+            "address": "Village monastery and prudence / Shibin Spans",
+            "post_office": "Kafr monastery and prudence",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13871,
+            "address": "White Manor / Khanka Center",
+            "post_office": "Arabs Alaidah",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13874,
+            "address": "A'badleh village / Tookh Center",
+            "post_office": "A badleh",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13875,
+            "address": "Kafr share / Tookh Center",
+            "post_office": "Kafr share Tookh",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13876,
+            "address": "Kafr Abu Zahra",
+            "post_office": "Kafr Abu Zahra",
+            "lat": 30.44923279999999,
+            "lng": 31.2583446
+        },
+        {
+            "postal_code": 13877,
+            "address": "Kafr support Sanhour / support Sanhour",
+            "post_office": "Kafr support Rivers",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13878,
+            "address": "Kafr prudence / Tookh",
+            "post_office": "Kafr prudence",
+            "lat": 30.3534182,
+            "lng": 31.2018345
+        },
+        {
+            "postal_code": 13881,
+            "address": "Manor Sursock / Shibin Spans",
+            "post_office": "Manor Sursock _khankh",
+            "lat": 30.550334,
+            "lng": 31.0106341
+        },
+        {
+            "postal_code": 13882,
+            "address": "Nagdy / Shibin archways Island",
+            "post_office": "Nagdy Island",
+            "lat": 30.3292368,
+            "lng": 31.2168466
+        },
+        {
+            "postal_code": 13883,
+            "address": "Ezbet Abu year / Qalioub",
+            "post_office": "Abu years",
+            "lat": 30.2119888,
+            "lng": 31.2282958
+        },
+        {
+            "postal_code": 13884,
+            "address": "Kafr Abu anniversary / Banha",
+            "post_office": "Kafr Abu anniversary",
+            "lat": 30.4659929,
+            "lng": 31.1848307
+        },
+        {
+            "postal_code": 13885,
+            "address": "White Manor / Abu Zaabal",
+            "post_office": "White Manor",
+            "lat": 30.241521,
+            "lng": 31.3522389
+        },
+        {
+            "postal_code": 13886,
+            "address": "Hassani village / Kaha",
+            "post_office": "Al_husanip",
+            "lat": 30.2766635,
+            "lng": 31.1996708
+        },
+        {
+            "postal_code": 13887,
+            "address": "Recep village of Kafr",
+            "post_office": "Kafr Recep",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 13891,
+            "address": "Safa and Amal City - Shebin El Qanater Center",
+            "post_office": "Safa and Hope City",
+            "lat": 30.2976683,
+            "lng": 31.2969674
+        }
+    ]
+}

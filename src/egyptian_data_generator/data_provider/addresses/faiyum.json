@@ -1,0 +1,578 @@
+{
+    "faiyum": [
+        {
+            "postal_code": 63511,
+            "address": "Saad Zaghloul Street / Fayoum",
+            "post_office": "Fayoum major",
+            "lat": 29.3203536,
+            "lng": 30.8524498
+        },
+        {
+            "postal_code": 63512,
+            "address": "Liberty St. building Central / Mrkzayyoum",
+            "post_office": "Central Fayoum",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63513,
+            "address": "Saad Zaghloul Street / Fayoum center near Fayoum General Hospital",
+            "post_office": "Dar ash",
+            "lat": 29.3203536,
+            "lng": 30.8524498
+        },
+        {
+            "postal_code": 63516,
+            "address": "Interests / Fayoum complex building",
+            "post_office": "Compound interest Fayoum",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63518,
+            "address": "Village Demu Fayoum / Fayoum Center",
+            "post_office": "_ The day Demu",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63523,
+            "address": "John is building the administrative village of John / Fayoum",
+            "post_office": "John",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63525,
+            "address": "District housing cooperatives Mubarak Fayoum Center",
+            "post_office": "Mubarak District",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63613,
+            "address": "Nasiriyah / Obcoay village center",
+            "post_office": "Nasiriyah",
+            "lat": 29.3549137,
+            "lng": 31.0115635
+        },
+        {
+            "postal_code": 63616,
+            "address": "Alhaouacna village / Mrkzyousef friend",
+            "post_office": "Alhaouacna",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63617,
+            "address": "Village Biscuits / m 0 Yusuf",
+            "post_office": "Biscuits",
+            "lat": 29.3577466,
+            "lng": 30.8609326
+        },
+        {
+            "postal_code": 63621,
+            "address": "Village strength / m 0 Yusuf",
+            "post_office": "Strength",
+            "lat": 29.4141428,
+            "lng": 30.386703
+        },
+        {
+            "postal_code": 63622,
+            "address": "Village Hills by day / local unit building / M.ayyoum",
+            "post_office": "Hills by day",
+            "lat": 29.310402,
+            "lng": 30.845634
+        },
+        {
+            "postal_code": 63623,
+            "address": "Zaid village / Obcoay Center",
+            "post_office": "Zaid",
+            "lat": 29.3615693,
+            "lng": 30.7069862
+        },
+        {
+            "postal_code": 63624,
+            "address": "Rustic western village of Joseph Center",
+            "post_office": "Rustic Western",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63625,
+            "address": "Village Akhawajat / Yusuf next to Central",
+            "post_office": "Akhawajat",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63626,
+            "address": "Yusuf / Fayoum Center",
+            "post_office": "Yusuf",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63627,
+            "address": "Rayyan village of Joseph Center",
+            "post_office": "Rayyan",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63628,
+            "address": "Next to the local unit of the village of KFOR Nile",
+            "post_office": "KFOR Nile",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63629,
+            "address": "Yusuf Center",
+            "post_office": "Khalid Pasha",
+            "lat": 29.3577466,
+            "lng": 30.8609326
+        },
+        {
+            "postal_code": 63631,
+            "address": "Yusuf Center",
+            "post_office": "Rayyan new Fullback Desert",
+            "lat": 29.3577466,
+            "lng": 30.8609326
+        },
+        {
+            "postal_code": 63711,
+            "address": "Tamiya City",
+            "post_office": "_ The day s main Tamiya",
+            "lat": 29.476466,
+            "lng": 30.9595715
+        },
+        {
+            "postal_code": 63712,
+            "address": "Village Palace Rashwan / Tamiya",
+            "post_office": "Palace Rashwan",
+            "lat": 29.476466,
+            "lng": 30.9595715
+        },
+        {
+            "postal_code": 63713,
+            "address": "Village kindergarten / Tamiya Center",
+            "post_office": "_ The day kindergarten",
+            "lat": 29.476466,
+            "lng": 30.9595715
+        },
+        {
+            "postal_code": 63714,
+            "address": "Village Srsena / Tamiya Center",
+            "post_office": "Srsena",
+            "lat": 29.476466,
+            "lng": 30.9595715
+        },
+        {
+            "postal_code": 63715,
+            "address": "Village of origin Beauty / Tamiya",
+            "post_office": "Origin Beauty",
+            "lat": 29.476466,
+            "lng": 30.9595715
+        },
+        {
+            "postal_code": 63716,
+            "address": "U 0 Abu Bakr / Atsa",
+            "post_office": "Itsa main",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63717,
+            "address": "Village drowning / Atsa",
+            "post_office": "Drowning",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63718,
+            "address": "Stone / M.ottsa / village local unit building",
+            "post_office": "Stone Fayoum",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63719,
+            "address": "Prince village of origin / Atsa",
+            "post_office": "Mohamed Fahmy Mr. facility",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63721,
+            "address": "Dsaa village / Fayoum Center",
+            "post_office": "Dsaa",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63722,
+            "address": "Dobaar village / center Obcoay",
+            "post_office": "Dobaar",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63723,
+            "address": "Village Jrdo / Local Unit / Atsa Center Building",
+            "post_office": "Jrdo _ Fayoum",
+            "lat": 29.237632,
+            "lng": 30.796438
+        },
+        {
+            "postal_code": 63724,
+            "address": "Village Nazlah / m 0 Yusuf",
+            "post_office": "Nazlah",
+            "lat": 29.3048913,
+            "lng": 30.6372471
+        },
+        {
+            "postal_code": 63725,
+            "address": "Village Palace Jabali / m 0 Yusuf",
+            "post_office": "Jabali Palace",
+            "lat": 29.3577466,
+            "lng": 30.8609326
+        },
+        {
+            "postal_code": 63726,
+            "address": "Alhamuly / M.yousef friend",
+            "post_office": "_ The day Alhamuly",
+            "lat": 29.3577466,
+            "lng": 30.8609326
+        },
+        {
+            "postal_code": 63727,
+            "address": "Village Matartars / m 0 Snurs",
+            "post_office": "Matartars",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63728,
+            "address": "The village of Dar es Salaam / M.tamihmbeny Local Unit",
+            "post_office": "The village of Dar es Salaam",
+            "lat": 29.4216796,
+            "lng": 30.9254128
+        },
+        {
+            "postal_code": 63729,
+            "address": "Minya / Atsa village Agricultural Society building",
+            "post_office": "Minya Fayoum",
+            "lat": 29.2204141,
+            "lng": 30.7637298
+        },
+        {
+            "postal_code": 63731,
+            "address": "The village of Abu Jendar / Atsa Center",
+            "post_office": "Abu Jendar",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63732,
+            "address": "Village angle Kerdasa / Fayoum Center",
+            "post_office": "Kerdasa angle",
+            "lat": 30.0308657,
+            "lng": 31.1111907
+        },
+        {
+            "postal_code": 63733,
+            "address": "Built a valid / Fayoum road Sanhour / M.ayyoum",
+            "post_office": "Built in favor of Fayoum",
+            "lat": 29.6657163,
+            "lng": 30.9712166
+        },
+        {
+            "postal_code": 63734,
+            "address": "Village Alsellaan / m 0 Snurs",
+            "post_office": "Alsellaan",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63737,
+            "address": "Village Qlhanh / Atsa",
+            "post_office": "Qlhanh",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63738,
+            "address": "Village Qlmshah / Atsa",
+            "post_office": "Qlmshah",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63739,
+            "address": "Village valiant Palace / Atsa",
+            "post_office": "Palace of the brave",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63741,
+            "address": "Tton village / Atsa Center",
+            "post_office": "Tton",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63742,
+            "address": "Village Agon / Fayoum",
+            "post_office": "Agon",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63743,
+            "address": "The village of Hawara / Fayoum",
+            "post_office": "Hawara",
+            "lat": 29.2578951,
+            "lng": 30.8964048
+        },
+        {
+            "postal_code": 63744,
+            "address": "Fayoum village of Adwa Center",
+            "post_office": "Infection by day",
+            "lat": 29.35646509999999,
+            "lng": 30.6199895
+        },
+        {
+            "postal_code": 63745,
+            "address": "Village Aboxah / u station / Obcoay Center",
+            "post_office": "Aboxah",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63746,
+            "address": "Village Bihmu / Snurs Center",
+            "post_office": "Bihmu",
+            "lat": 29.36939599999999,
+            "lng": 30.8538134
+        },
+        {
+            "postal_code": 63747,
+            "address": "Sila village / m 0 Fayoum",
+            "post_office": "Silas Fayoum",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63748,
+            "address": "Snurs City",
+            "post_office": "Snurs main",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63749,
+            "address": "Navigation District Psonors / Snurs Center",
+            "post_office": "Snurs sub",
+            "lat": 29.41367129999999,
+            "lng": 30.8624751
+        },
+        {
+            "postal_code": 63751,
+            "address": "The local unit building Battersea / m . Snurs",
+            "post_office": "Teresa Snurs",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63752,
+            "address": "Village Anagalifa / Snurs",
+            "post_office": "Anagalifa",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63753,
+            "address": "Village Snro / Mrkzabashoay",
+            "post_office": "_ The day Snro",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63754,
+            "address": "Azab Fayoum village center",
+            "post_office": "Azab Fayoum Center",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63755,
+            "address": "Kafr Mahfouz Tamiya Center",
+            "post_office": "Kafr Mahfouz",
+            "lat": 29.468106,
+            "lng": 30.9015642
+        },
+        {
+            "postal_code": 63756,
+            "address": "Village of origin built Osman / Snurs",
+            "post_office": "Facility built Osman",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63757,
+            "address": "Lengthy village / Atsa",
+            "post_office": "Lengthy",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63761,
+            "address": "Village Shakshuk / Mrkzobashoay",
+            "post_office": "Shakshuk",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63762,
+            "address": "Shidmoh village / Atsa Center",
+            "post_office": "Shidmoh",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63763,
+            "address": "Dmishqin village / Fayoum Center",
+            "post_office": "Dmishqin",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63764,
+            "address": "Village Azizia / Tamiya",
+            "post_office": "Azizia Tamiya",
+            "lat": 29.476466,
+            "lng": 30.9595715
+        },
+        {
+            "postal_code": 63765,
+            "address": "We will provide the village / m 0 Fayoum",
+            "post_office": "We will",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63766,
+            "address": "Aboud village of Kafr / Ibshway Center",
+            "post_office": "Kafr Abboud",
+            "lat": 29.3169531,
+            "lng": 30.8374991
+        },
+        {
+            "postal_code": 63767,
+            "address": "Village Manor Qlmshah / Atsa Center",
+            "post_office": "Manor Qlmshah",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63768,
+            "address": "Village Abjeej / Fayoum Center",
+            "post_office": "The day Abjeej",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63769,
+            "address": "Village Menashe Khatib / m 0 Fayoum",
+            "post_office": "Menashe Khatib",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63771,
+            "address": "Village protoplasm / near Central /m.snurs",
+            "post_office": "Protoplasm Fayoum",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63774,
+            "address": "Village nascent / Snurs",
+            "post_office": "Nascent",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63775,
+            "address": "Lantern / Tamiya village",
+            "post_office": "Lantern by day",
+            "lat": 29.476466,
+            "lng": 30.9595715
+        },
+        {
+            "postal_code": 63776,
+            "address": "Village Mokrani / m 0 Yusuf",
+            "post_office": "Mokrani",
+            "lat": 29.3577466,
+            "lng": 30.8609326
+        },
+        {
+            "postal_code": 63777,
+            "address": "Village Zafer facility / Atsa Center",
+            "post_office": "Zafer facility",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63778,
+            "address": "Village Republic / Tamiya Center",
+            "post_office": "Republic",
+            "lat": 29.476466,
+            "lng": 30.9595715
+        },
+        {
+            "postal_code": 63779,
+            "address": "Village facility Tantawi / m 0 Snurs",
+            "post_office": "Tantawi facility",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63782,
+            "address": "Open City",
+            "post_office": "City Conquest Industrial",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        },
+        {
+            "postal_code": 63783,
+            "address": "Itsa Center",
+            "post_office": "Qasimiyah",
+            "lat": 29.2378946,
+            "lng": 30.7913458
+        },
+        {
+            "postal_code": 63524,
+            "address": "Ezbet Qalamshah / Atsa",
+            "post_office": "Fayoum third",
+            "lat": 29.1635687,
+            "lng": 30.8400577
+        },
+        {
+            "postal_code": 63634,
+            "address": "Local Unit of the Republic",
+            "post_office": "Belly belly",
+            "lat": 29.320183,
+            "lng": 30.852474
+        },
+        {
+            "postal_code": 63785,
+            "address": "No. 2 / 2nd Residential District / 1st Neighborhood",
+            "post_office": "New Fayoum City",
+            "lat": 29.3084021,
+            "lng": 30.8428497
+        }
+    ]
+}

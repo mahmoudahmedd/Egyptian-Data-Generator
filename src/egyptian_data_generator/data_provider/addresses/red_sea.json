@@ -1,0 +1,193 @@
+{
+    "red_sea": [
+        {
+            "postal_code": 84511,
+            "address": "Hurghada / split Hamid essence",
+            "post_office": "Hurghada",
+            "lat": 27.2578957,
+            "lng": 33.8116067
+        },
+        {
+            "postal_code": 84712,
+            "address": "Short / imam of the mosque City",
+            "post_office": "Short of the Red Sea",
+            "lat": 24.6826316,
+            "lng": 34.1531947
+        },
+        {
+            "postal_code": 84715,
+            "address": "Ras Gharib City / 608 Buildings",
+            "post_office": "Ras Gharib",
+            "lat": 28.3627136,
+            "lng": 33.079519
+        },
+        {
+            "postal_code": 84711,
+            "address": "Safaga City / phosphate Safaga Hospital",
+            "post_office": "Safaga",
+            "lat": 26.7500171,
+            "lng": 33.9359756
+        },
+        {
+            "postal_code": 84713,
+            "address": "Ahamraoyen village / short Center",
+            "post_office": "Ahamraoyen",
+            "lat": 24.6826316,
+            "lng": 34.1531947
+        },
+        {
+            "postal_code": 84516,
+            "address": "Hurghada",
+            "post_office": "Directorate of Health",
+            "lat": 27.2578957,
+            "lng": 33.8116067
+        },
+        {
+            "postal_code": 84512,
+            "address": "Hurghada / port of Hurghada",
+            "post_office": "Hurghada port",
+            "lat": 27.2312836,
+            "lng": 33.8454759
+        },
+        {
+            "postal_code": 84723,
+            "address": "Ras Gharib City / Buildings 114",
+            "post_office": "Ras Gharib sub",
+            "lat": 28.3627136,
+            "lng": 33.079519
+        },
+        {
+            "postal_code": 84718,
+            "address": "Safaga port / Safaga",
+            "post_office": "Safaga port",
+            "lat": 26.7500171,
+            "lng": 33.9359756
+        },
+        {
+            "postal_code": 84717,
+            "address": "Short city / region Aweyna",
+            "post_office": "Aweyna Red Sea",
+            "lat": 24.6826316,
+            "lng": 34.1531947
+        },
+        {
+            "postal_code": 84722,
+            "address": "Safaga City / next to the police station",
+            "post_office": "Safaga _ subsidiary",
+            "lat": 26.7591846,
+            "lng": 33.9194063
+        },
+        {
+            "postal_code": 84724,
+            "address": "Shalateen / u / main city",
+            "post_office": "Shalateen",
+            "lat": 23.1088196,
+            "lng": 35.5626365
+        },
+        {
+            "postal_code": 84513,
+            "address": "Hurghada City / tourist village of El Gouna",
+            "post_office": "El Gouna tourism",
+            "lat": 27.4079756,
+            "lng": 33.67645340000001
+        },
+        {
+            "postal_code": 84716,
+            "address": "Huwaitat new village / Safaga",
+            "post_office": "Or the new Huwaitat",
+            "lat": 26.7500171,
+            "lng": 33.9359756
+        },
+        {
+            "postal_code": 84514,
+            "address": "Hurghada / Department Mrorsear Red",
+            "post_office": "Red Sea passage",
+            "lat": 27.2578957,
+            "lng": 33.8116067
+        },
+        {
+            "postal_code": 84727,
+            "address": "Ras Gharib / World Petroleum Company",
+            "post_office": "Ras Gharib Petroleum",
+            "lat": 28.3627136,
+            "lng": 33.079519
+        },
+        {
+            "postal_code": 84726,
+            "address": "The village of Abu ash / Main St. / Shalateen",
+            "post_office": "Abu ashes",
+            "lat": 23.1088196,
+            "lng": 35.5626365
+        },
+        {
+            "postal_code": 84515,
+            "address": "Hurghada / split Hamid essence",
+            "post_office": "Hurghada sub",
+            "lat": 27.2578957,
+            "lng": 33.8116067
+        },
+        {
+            "postal_code": 84517,
+            "address": "Hurghada",
+            "post_office": "Hurghada City Council",
+            "lat": 27.2578957,
+            "lng": 33.8116067
+        },
+        {
+            "postal_code": 84729,
+            "address": "Safaga City",
+            "post_office": "Safaga country",
+            "lat": 26.7500171,
+            "lng": 33.9359756
+        },
+        {
+            "postal_code": 84733,
+            "address": "Tuibia tourist village",
+            "post_office": "Short Utopia",
+            "lat": 24.6826316,
+            "lng": 34.1531947
+        },
+        {
+            "postal_code": 84731,
+            "address": "Safaga Kilo 8 hotel next to the Pope",
+            "post_office": "Safaga Tourism",
+            "lat": 26.7500171,
+            "lng": 33.9359756
+        },
+        {
+            "postal_code": 84651,
+            "address": "Hurghada - Makadi tourist city",
+            "post_office": "Makadi Beach",
+            "lat": 26.9681771,
+            "lng": 33.919408
+        },
+        {
+            "postal_code": 84737,
+            "address": "Marsa Alam",
+            "post_office": "Blue Reef Marsa Alam",
+            "lat": 25.0676256,
+            "lng": 34.8789697
+        },
+        {
+            "postal_code": 84941,
+            "address": "Sunny Rise Resort",
+            "post_office": "Sunny Rise Mobile",
+            "lat": 27.320258,
+            "lng": 33.710496
+        },
+        {
+            "postal_code": 84732,
+            "address": "Inside Marsa Alam Airport",
+            "post_office": "Marsa Alam Airport",
+            "lat": 25.5550518,
+            "lng": 34.5907958
+        },
+        {
+            "postal_code": 84734,
+            "address": "City of Ras Ghareb",
+            "post_office": "Port Ras Ghareb",
+            "lat": 28.3627136,
+            "lng": 33.079519
+        }
+    ]
+}

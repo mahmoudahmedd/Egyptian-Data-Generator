@@ -1,0 +1,88 @@
+{
+    "marsa_matruh": [
+        {
+            "postal_code": 51513,
+            "address": "Flowers Building 9 / K 130 District",
+            "post_office": "Marsa Matrouh second",
+            "lat": 31.3543445,
+            "lng": 27.2373159
+        },
+        {
+            "postal_code": 51515,
+            "address": "Science Roman Matrouh Street",
+            "post_office": "Greek flag",
+            "lat": 31.3180593,
+            "lng": 27.2831126
+        },
+        {
+            "postal_code": 51611,
+            "address": "Palace / by strange / Matrouh",
+            "post_office": "Palace Matrouh",
+            "lat": 31.3543445,
+            "lng": 27.2373159
+        },
+        {
+            "postal_code": 51612,
+            "address": "Or vultures / Matrouh wonderful",
+            "post_office": "Or vultures",
+            "lat": 31.3543445,
+            "lng": 27.2373159
+        },
+        {
+            "postal_code": 51712,
+            "address": "Brani / City Council Sidi Barani next position",
+            "post_office": "Sidi Barani",
+            "lat": 31.6104121,
+            "lng": 25.9249155
+        },
+        {
+            "postal_code": 51713,
+            "address": "Salloum / Salloum near police station",
+            "post_office": "Salloum",
+            "lat": 31.575001,
+            "lng": 25.159321
+        },
+        {
+            "postal_code": 51723,
+            "address": "El-Hammam City - Matrouh",
+            "post_office": "El-Hammam _ subsidiary",
+            "lat": 30.8421333,
+            "lng": 29.3940979
+        },
+        {
+            "postal_code": 51724,
+            "address": "Village (27) of sugar beet",
+            "post_office": "Village 27 sugar beet",
+            "lat": 31.3543445,
+            "lng": 27.2373159
+        },
+        {
+            "postal_code": 51725,
+            "address": "Village 23 sugar beet",
+            "post_office": "Village 23 sugar beet",
+            "lat": 31.3543445,
+            "lng": 27.2373159
+        },
+        {
+            "postal_code": 51727,
+            "address": "Hope District Sidi Barani Building 82",
+            "post_office": "Sidi Barani sub",
+            "lat": 31.6104121,
+            "lng": 25.9249155
+        },
+        {
+            "postal_code": 51732,
+            "address": "Sidi Abdel Rahman / Main Street / Daba",
+            "post_office": "Sidi Abdel Rahman",
+            "lat": 30.9689002,
+            "lng": 28.7362599
+        },
+        {
+            "postal_code": 51744,
+            "address": "Fouka / next to FAO Agricultural Project",
+            "post_office": "Fouka",
+            "lat": 31.3543445,
+            "lng": 27.2373159
+        }
+    ]
+}

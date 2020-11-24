@@ -1,0 +1,2181 @@
+{
+    "sharqia": [
+        {
+            "postal_code": 44511,
+            "address": "El Galaa / Zagazig",
+            "post_office": "Zagazig",
+            "lat": 30.8022751,
+            "lng": 31.6194911
+        },
+        {
+            "postal_code": 44512,
+            "address": "U School American / Zagazig",
+            "post_office": "Zagazig sub",
+            "lat": 30.5864601,
+            "lng": 31.50562529999999
+        },
+        {
+            "postal_code": 44514,
+            "address": "St. Nukrashi Beekeeper / Zagazig",
+            "post_office": "Beekeeper section",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44515,
+            "address": "Farouk wholesale market u / Zagazig",
+            "post_office": "Zagazig Wholesale Market",
+            "lat": 30.5821918,
+            "lng": 31.5130739
+        },
+        {
+            "postal_code": 44516,
+            "address": "U conservative / Zagazig",
+            "post_office": "Compound interest Zagazig",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44517,
+            "address": "Sea Kafr El-Hammam / Zagazig",
+            "post_office": "Kfar Hamam",
+            "lat": 30.6115998,
+            "lng": 31.5121096
+        },
+        {
+            "postal_code": 44518,
+            "address": "Sidi Abu Amer / Zagazig",
+            "post_office": "Sidi Abu Amer",
+            "lat": 30.5963104,
+            "lng": 31.5070267
+        },
+        {
+            "postal_code": 44519,
+            "address": "Zagazig University building - Faculty of Commerce",
+            "post_office": "Zagazig University",
+            "lat": 30.5883084,
+            "lng": 31.4831937
+        },
+        {
+            "postal_code": 44522,
+            "address": "Zagazig Traffic Department building",
+            "post_office": "Traffic",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44523,
+            "address": "MP / Zagazig St.",
+            "post_office": "Zagazig second",
+            "lat": 30.5484211,
+            "lng": 31.4169018
+        },
+        {
+            "postal_code": 44587,
+            "address": "Alodayah village",
+            "post_office": "Alodayah",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44588,
+            "address": "Alazazih",
+            "post_office": "Alazazih",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44611,
+            "address": "Mashtool market",
+            "post_office": "Mashtool market",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44612,
+            "address": "Mohamed El Mashtool Iraqi market",
+            "post_office": "Mashtool market country",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44613,
+            "address": "Press village / Mashtool market",
+            "post_office": "Press",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44614,
+            "address": "Village Nohoa / Qamh",
+            "post_office": "Nohoa",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44615,
+            "address": "Kafr Abrash / Mashtool market",
+            "post_office": "Kafr Abrash",
+            "lat": 30.3898705,
+            "lng": 31.3598812
+        },
+        {
+            "postal_code": 44616,
+            "address": "Enlightening village / Mashtool market",
+            "post_office": "Enlightening",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44617,
+            "address": "Village stubble / Mashtool market",
+            "post_office": "Stubble",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44618,
+            "address": "Dhmcha / Mashtool market",
+            "post_office": "Dhmcha",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44619,
+            "address": "El Sheikh Abu Shawar Abrash / Mashtool market",
+            "post_office": "Abrash",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44621,
+            "address": "Gamal Abdel Nasser / Belbais",
+            "post_office": "Belbais",
+            "lat": 30.415135,
+            "lng": 31.573439
+        },
+        {
+            "postal_code": 44622,
+            "address": "Manshyet Saadoun / Belbais",
+            "post_office": "Belbais sub",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44624,
+            "address": "Peace Village / Belbais",
+            "post_office": "_ East peace",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44625,
+            "address": "Judicial Village / Belbais",
+            "post_office": "Adliya",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44626,
+            "address": "Kafr Ayoub Solomon / Belbais",
+            "post_office": "Kafr Ayoub Suleiman",
+            "lat": 30.42326,
+            "lng": 31.5741036
+        },
+        {
+            "postal_code": 44627,
+            "address": "Mitt village tote / Belbais",
+            "post_office": "Mitt download",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44628,
+            "address": "Kerio Shubra Palm / Belbais",
+            "post_office": "Shubra Palm",
+            "lat": 30.415135,
+            "lng": 31.573439
+        },
+        {
+            "postal_code": 44629,
+            "address": "First / Tenth of Ramadan neighboring",
+            "post_office": "Tenth of Ramadan first",
+            "lat": 30.2926655,
+            "lng": 31.7423434
+        },
+        {
+            "postal_code": 44631,
+            "address": "Village Alblachon / Belbais",
+            "post_office": "Alblachon",
+            "lat": 30.4353901,
+            "lng": 31.4405781
+        },
+        {
+            "postal_code": 44632,
+            "address": "City Air / Belbais",
+            "post_office": "Air City",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44633,
+            "address": "Mitt Suhail / Minya wheat village",
+            "post_office": "Mitt Sohail",
+            "lat": 30.5104799,
+            "lng": 31.3455091
+        },
+        {
+            "postal_code": 44634,
+            "address": "Neighboring XIV / Tenth of Ramadan",
+            "post_office": "Tenth of Ramadan second",
+            "lat": 30.2926655,
+            "lng": 31.7423434
+        },
+        {
+            "postal_code": 44635,
+            "address": "Sixth / Tenth of Ramadan neighboring",
+            "post_office": "Sixth neighboring",
+            "lat": 30.2926655,
+            "lng": 31.7423434
+        },
+        {
+            "postal_code": 44636,
+            "address": "Village Sndnhor / Belbais",
+            "post_office": "Sndnhor",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44637,
+            "address": "Neighboring ninth Tenth of Ramadan",
+            "post_office": "Adjacent ninth",
+            "lat": 30.2926655,
+            "lng": 31.7423434
+        },
+        {
+            "postal_code": 44638,
+            "address": "Village Slment / Belbais",
+            "post_office": "Slment",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44639,
+            "address": "Village Qurmlh / Belbais",
+            "post_office": "Qurmlh",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44641,
+            "address": "Bjawarmahthalskhalhdid / Faqous Center",
+            "post_office": "Faqous",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44642,
+            "address": "Tribal Sun / Hosseinieh stone",
+            "post_office": "Tribal Sun Stone",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44643,
+            "address": "Arabs Darwish / Faqous Center",
+            "post_office": "Arabs Darwish",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44644,
+            "address": "Bakarch / Hosseinieh",
+            "post_office": "Bakarch",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44645,
+            "address": "Sawaleh / Faqous",
+            "post_office": "Sawaleh",
+            "lat": 30.7187209,
+            "lng": 31.8112782
+        },
+        {
+            "postal_code": 44646,
+            "address": "Sea cow u / Hosseinieh / Salehia first",
+            "post_office": "Salehia first",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44647,
+            "address": "Swadh / Qaqos Center",
+            "post_office": "Swadh",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44648,
+            "address": "K / Faqous",
+            "post_office": "Kindergarten Faqous",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44649,
+            "address": "U railway / Kafr plastic / Faqous",
+            "post_office": "Central Faqous",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44651,
+            "address": "Aldedamon / Faqous",
+            "post_office": "Aldaadamon",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44652,
+            "address": "Alsmana / Faqous",
+            "post_office": "Alsmana",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44653,
+            "address": "Smckin West / Hosseinieh",
+            "post_office": "Smckin West",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44654,
+            "address": "Husseini / u Center",
+            "post_office": "Hosseinieh",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44655,
+            "address": "Saud Island / Hosseinieh",
+            "post_office": "Saud Island",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44656,
+            "address": "Elewa / Hosseinieh Island",
+            "post_office": "Elewa Island",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44657,
+            "address": "Abu Omar origin / Hosseinieh Center",
+            "post_office": "Origin Abu Amr",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44658,
+            "address": "Phenomenological / Hosseinieh",
+            "post_office": "Phenomenological",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44659,
+            "address": "Khattara Minor / Faqous Center",
+            "post_office": "Khattara Minor",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44661,
+            "address": "Abu Hammad Center / Liberty Street",
+            "post_office": "Abu Hammad",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 44662,
+            "address": "Alabash tourism / Abu Hammad",
+            "post_office": "Alabash",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 44663,
+            "address": "Kafr El Azazi / u Religious Institute / Abu Hammad",
+            "post_office": "Kafr El Azazi",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 44664,
+            "address": "Jaafari / Abu Hammad",
+            "post_office": "Jaafari Abu Hammad",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 44665,
+            "address": "Bahtit / Abu Hammad",
+            "post_office": "Bahtit",
+            "lat": 30.4885084,
+            "lng": 31.6377996
+        },
+        {
+            "postal_code": 44667,
+            "address": "Spouse / El Galaa / Abu Hammad Center",
+            "post_office": "Spouse",
+            "lat": 30.6126326,
+            "lng": 31.7117777
+        },
+        {
+            "postal_code": 44668,
+            "address": "Unity Street / Abu Hammad / stamens",
+            "post_office": "Stamens",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 44669,
+            "address": "Spouse / u schools / Abu Hammad Center",
+            "post_office": "Second consort",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 44671,
+            "address": "Abu Kabir / Editing Street",
+            "post_office": "Abu Kabir",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44672,
+            "address": "Tookh Alaqramous / Obkber",
+            "post_office": "Tookh Alaqramous",
+            "lat": 30.6943947,
+            "lng": 31.6597404
+        },
+        {
+            "postal_code": 44673,
+            "address": "Hrbit / Abu Kabir center",
+            "post_office": "Grbit",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44674,
+            "address": "KFOR Star / Abrahamic / u Alamrs",
+            "post_office": "KFOR star",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44675,
+            "address": "Aldhtamon / Abu Kabir center",
+            "post_office": "Aldhtamon",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44676,
+            "address": "Alaqramous / Abu Kabir center",
+            "post_office": "Alaqramous",
+            "lat": 30.6674168,
+            "lng": 31.6858796
+        },
+        {
+            "postal_code": 44677,
+            "address": "Long / u station / Faqous",
+            "post_office": "Long",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44678,
+            "address": "Monia Venerable / villa next to Salah Tarouti / Faqous",
+            "post_office": "Monia Venerable",
+            "lat": 30.7114875,
+            "lng": 31.8032054
+        },
+        {
+            "postal_code": 44679,
+            "address": "Ghazali / Faqous Center",
+            "post_office": "Ghazali Eastern",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44681,
+            "address": "Kvrsqr / u Republic / Mrczkfrsqr",
+            "post_office": "Kafr Saqr",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44682,
+            "address": "Alahjarsh village / Kafr Saqr",
+            "post_office": "Alahjarsh Kafr Saqr",
+            "lat": 30.792629,
+            "lng": 31.62348
+        },
+        {
+            "postal_code": 44683,
+            "address": "Village judges / u July 23 / Kafr Saqr",
+            "post_office": "Judges",
+            "lat": 30.792629,
+            "lng": 31.62348
+        },
+        {
+            "postal_code": 44684,
+            "address": "Almouansh / Kafr Saqr",
+            "post_office": "Almouansh",
+            "lat": 30.792629,
+            "lng": 31.62348
+        },
+        {
+            "postal_code": 44685,
+            "address": "Tlerak / boys hawk",
+            "post_office": "Tlerak",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44686,
+            "address": "Sufi / boys hawk",
+            "post_office": "Sufi",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44687,
+            "address": "Sycamore tree structures Amr / Deyarb star",
+            "post_office": "Sycamore tree structures Amr",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44688,
+            "address": "Qsasin floral / boys hawk",
+            "post_office": "Qsasin flowers",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44689,
+            "address": "Awlad Sakr",
+            "post_office": "Awlad Sakr",
+            "lat": 30.931942,
+            "lng": 31.6983221
+        },
+        {
+            "postal_code": 44691,
+            "address": "Sayed El -Minya wheat pasture",
+            "post_office": "Qamh",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44692,
+            "address": "Saad Zaghloul St. Qamh",
+            "post_office": "Minya wheat sub",
+            "lat": 30.5141641,
+            "lng": 31.3457546
+        },
+        {
+            "postal_code": 44693,
+            "address": "St. Anbrh Allan / Qamh",
+            "post_office": "Allan",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44696,
+            "address": "Village Snhout / Qamh",
+            "post_office": "Snhout",
+            "lat": 30.4660072,
+            "lng": 31.3356526
+        },
+        {
+            "postal_code": 44697,
+            "address": "The village of Bani Hilal / Qamh",
+            "post_office": "Bani Hilal",
+            "lat": 30.487459,
+            "lng": 31.4198318
+        },
+        {
+            "postal_code": 44698,
+            "address": "Alsnavin tribal / Qamh",
+            "post_office": "Tribal Alsnavin",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44699,
+            "address": "Kafr Zagazig tribal / Qamh",
+            "post_office": "Kafr Zagazig tribal",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44711,
+            "address": "Village Berden / Zagazig",
+            "post_office": "Berden",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44712,
+            "address": "Hamid village purification / Zagazig",
+            "post_office": "Purification Hamid",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44713,
+            "address": "Manshiya / Belbais",
+            "post_office": "Manshiya",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44714,
+            "address": "Boys CIF / Belbais village",
+            "post_office": "Sons Saif",
+            "lat": 30.415135,
+            "lng": 31.573439
+        },
+        {
+            "postal_code": 44715,
+            "address": "Inshas / Belbais",
+            "post_office": "Inshas",
+            "lat": 30.3870529,
+            "lng": 31.4440355
+        },
+        {
+            "postal_code": 44716,
+            "address": "Village Alzoaml / Belbais",
+            "post_office": "Alzoaml",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44717,
+            "address": "Orchards Ismailia / Belbais",
+            "post_office": "Orchards Ismailia",
+            "lat": 30.7982127,
+            "lng": 31.7512517
+        },
+        {
+            "postal_code": 44718,
+            "address": "Village Alaslojy / Zagazig",
+            "post_office": "Alaslojy",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44719,
+            "address": "Abu cracks / evacuation u / Mrczkfrsqr",
+            "post_office": "Abu cracks",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44721,
+            "address": "Shop / Kafr Saqr",
+            "post_office": "East shop",
+            "lat": 30.792629,
+            "lng": 31.62348
+        },
+        {
+            "postal_code": 44722,
+            "address": "Abu Green / Zagazig",
+            "post_office": "Abu green",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44723,
+            "address": "Toihr / Abouhmad",
+            "post_office": "Toihr",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44724,
+            "address": "Village Signpost / Abu Hammad Center",
+            "post_office": "The Voice",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 44725,
+            "address": "Jungle / Abu Kabir",
+            "post_office": "Jungle",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44726,
+            "address": "Gallstone / Abu Kabir",
+            "post_office": "Gallstone",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44727,
+            "address": "Ouled Moussa / Abu Kabir / Central St.",
+            "post_office": "Ouled Moussa",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44731,
+            "address": "Akiad / Faqous",
+            "post_office": "Akiad Navy",
+            "lat": 30.7468632,
+            "lng": 31.8747497
+        },
+        {
+            "postal_code": 44732,
+            "address": "Akiad tribal / Faqous",
+            "post_office": "Tribal Akiad",
+            "lat": 30.7468632,
+            "lng": 31.8747497
+        },
+        {
+            "postal_code": 44733,
+            "address": "Qhabonh / Hosseinieh Center",
+            "post_office": "Qhabonh",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44734,
+            "address": "Azazi / Faqous Center",
+            "post_office": "Azazi",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44735,
+            "address": "Salehia / Faqous",
+            "post_office": "Salehia Faqous",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44736,
+            "address": "Alockheoh / Hosseinieh Center",
+            "post_office": "Alackheoh",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44737,
+            "address": "Abuamirh District M Zein / Zagazig",
+            "post_office": "Or Zein",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44738,
+            "address": "El Sheikh Mujahid Behnaa / Deyarb star",
+            "post_office": "Behnaa",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44739,
+            "address": "Mitt Abu Arab / Zagazig village",
+            "post_office": "Mitt Abu Arab",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44741,
+            "address": "City Hehia / Omar Ibn El Khattab",
+            "post_office": "Hehia",
+            "lat": 30.6719395,
+            "lng": 31.5913577
+        },
+        {
+            "postal_code": 44742,
+            "address": "Alalaqma / Hehia Center",
+            "post_office": "Alalaqma",
+            "lat": 30.6719395,
+            "lng": 31.5913577
+        },
+        {
+            "postal_code": 44743,
+            "address": "Abrahamic / racket in front of rice",
+            "post_office": "But Brahimah",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44744,
+            "address": "Direct village / Abrahamic",
+            "post_office": "Direct",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44745,
+            "address": "U trade school / city Alqnayat",
+            "post_office": "Alqnayat",
+            "lat": 30.6151035,
+            "lng": 31.4595383
+        },
+        {
+            "postal_code": 44746,
+            "address": "Taybeh / Zagazig",
+            "post_office": "Good Zagazig",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44747,
+            "address": "Local Unit Hnbarh auspicious / Zagazig",
+            "post_office": "Hnbarh auspicious",
+            "lat": 30.5883084,
+            "lng": 31.4831937
+        },
+        {
+            "postal_code": 44748,
+            "address": "Local Unit Saft Rezzig / Deyarb star",
+            "post_office": "Saft Rezzig",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44749,
+            "address": "St. Posta Deyarb star",
+            "post_office": "Deyarb star sub",
+            "lat": 30.5849778,
+            "lng": 31.50489279999999
+        },
+        {
+            "postal_code": 44751,
+            "address": "St. Ibn Abi Taleb Deyarb star",
+            "post_office": "Deyarb country star",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44752,
+            "address": "Village Alasaad / Deyarb star",
+            "post_office": "Alasaad",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44753,
+            "address": "Village Safor / Deyarb star",
+            "post_office": "Safor",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44756,
+            "address": "New Village / Qamh",
+            "post_office": "New Qamh",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44757,
+            "address": "Mitt Bashar village / Qamh",
+            "post_office": "Mitt Bashar",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44758,
+            "address": "Village Znkulon / Zagazig",
+            "post_office": "Znkulon",
+            "lat": 30.568042,
+            "lng": 31.461951
+        },
+        {
+            "postal_code": 44762,
+            "address": "Bisha village Amer / Qamh",
+            "post_office": "Bisha Amer",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44763,
+            "address": "Bisha Kaid / Zagazig Center",
+            "post_office": "Bisha Kaid",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44764,
+            "address": "St. Treaty Akoh / Deyarb star",
+            "post_office": "Okoh",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44765,
+            "address": "Station / Behnbay / Zagazig field",
+            "post_office": "Behnbay",
+            "lat": 30.5653363,
+            "lng": 31.5908341
+        },
+        {
+            "postal_code": 44766,
+            "address": "Radwan origin / Abu Kabir",
+            "post_office": "Radwan origin",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44767,
+            "address": "Anshass onion / Zagazig",
+            "post_office": "Anshas onions",
+            "lat": 30.3870529,
+            "lng": 31.4440355
+        },
+        {
+            "postal_code": 44768,
+            "address": "Kafr El Hadj Omar / Faqous Center",
+            "post_office": "Kafr El Hadj Omar",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44769,
+            "address": "Village Vrciss / Zagazig",
+            "post_office": "Vrciss Zagazig",
+            "lat": 30.6734888,
+            "lng": 31.4693382
+        },
+        {
+            "postal_code": 44773,
+            "address": "U Central Alhoibr / Deyarb star",
+            "post_office": "Alhoibr",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44774,
+            "address": "Hayan village house / Hehia Center",
+            "post_office": "Hayan home",
+            "lat": 30.6719395,
+            "lng": 31.5913577
+        },
+        {
+            "postal_code": 44775,
+            "address": "Mahmudiya / Hehia Center",
+            "post_office": "Mahmudiya East",
+            "lat": 30.6719395,
+            "lng": 31.5913577
+        },
+        {
+            "postal_code": 44776,
+            "address": "Oriental direct / Abrahamic Center",
+            "post_office": "Direct Oriental",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44777,
+            "address": "Village SonyEricsson / Deyarb star",
+            "post_office": "Soany _ Oriental",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44778,
+            "address": "Alzersmon / Hehia",
+            "post_office": "Alzersmon Eastern",
+            "lat": 30.6719395,
+            "lng": 31.5913577
+        },
+        {
+            "postal_code": 44779,
+            "address": "The village of Tal animalcule / Zagazig",
+            "post_office": "Tel animalcule",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44783,
+            "address": "Beni Amer / Zagazig",
+            "post_office": "Beni Amer Zagazig",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44786,
+            "address": "Village Taarot / Zagazig",
+            "post_office": "Taarot",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44787,
+            "address": "Mitt Abu village / Zagazig",
+            "post_office": "Mitt Abu Ali",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44788,
+            "address": "October 6th St. Deyarb star",
+            "post_office": "Deyarb main star",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44789,
+            "address": "Gariy built Quraish / Qamh",
+            "post_office": "Built Quraish",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44791,
+            "address": "Sixth neighboring district 44 / Tenth of Ramadan",
+            "post_office": "District VI 44",
+            "lat": 30.2926655,
+            "lng": 31.7423434
+        },
+        {
+            "postal_code": 44792,
+            "address": "Village tentacles / Qamh",
+            "post_office": "Tentacles",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44793,
+            "address": "Village Tombs / Qamh",
+            "post_office": "Tombs",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44794,
+            "address": "Village Eboumtna / Deyarb star",
+            "post_office": "Eboumtna",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44795,
+            "address": "U Assembly legitimate slaver / Zagazig",
+            "post_office": "Slaver",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44796,
+            "address": "Village Hnbarh / Mnqla / Deyarb star",
+            "post_office": "Hnbarh Mnqla",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44797,
+            "address": "Blossom Village drinking / Qamh",
+            "post_office": "Blossom drinking",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44798,
+            "address": "Kafr Aghannamy / Qamh",
+            "post_office": "Kafr Aghannimiy",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44799,
+            "address": "Kafr El- Hajj Hassan / Deyarb Center Star",
+            "post_office": "Kafr El Hajj Hassan",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44811,
+            "address": "Kafr Aljinaidi / Deyarb star / in front of Central",
+            "post_office": "Kafr Aljinaidi",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44812,
+            "address": "El Club Kradis / Deyarb star",
+            "post_office": "Kradis",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44815,
+            "address": "Almhaalh / Abu Kabir",
+            "post_office": "Almhaalh",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44816,
+            "address": "Sea Kafr El limited / Zagazig",
+            "post_office": "Kafr limited",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44817,
+            "address": "Laurel Village / Zagazig",
+            "post_office": "Laurel",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44818,
+            "address": "Papillary new / Abu Hammad",
+            "post_office": "Papillary Eastern",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 44819,
+            "address": "Posta / Bnallos / Zagazig St.",
+            "post_office": "Bnallos",
+            "lat": 30.5849778,
+            "lng": 31.50489279999999
+        },
+        {
+            "postal_code": 44821,
+            "address": "Ldermian / Faqous",
+            "post_office": "Ldermian East",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44822,
+            "address": "Alnmarwt / Faqous",
+            "post_office": "Alnmarwt",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44823,
+            "address": "Juheina tribal / Faqous Center",
+            "post_office": "Tribal Juheina",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44824,
+            "address": "Dried / Deyarb Star / near Central",
+            "post_office": "Dried",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44825,
+            "address": "Mitt village over / Qamh",
+            "post_office": "Mitt increases Qamh",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44826,
+            "address": "Ahalouat / Abrahamic / near Central",
+            "post_office": "Ahalouat",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44827,
+            "address": "Thank / Faqous Center",
+            "post_office": "Thank",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44828,
+            "address": "Kafr Abaza / Zagazig",
+            "post_office": "Kafr Abaza",
+            "lat": 30.4918969,
+            "lng": 31.5686752
+        },
+        {
+            "postal_code": 44829,
+            "address": "Mashtool judge / Zagazig",
+            "post_office": "Mashtool judge",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44831,
+            "address": "Kafr Abu Hatab / Hehia",
+            "post_office": "Kafr Abu Hatab",
+            "lat": 30.6874176,
+            "lng": 31.5912242
+        },
+        {
+            "postal_code": 44832,
+            "address": "Village Vrgan / Deyarb star",
+            "post_office": "Vrgan",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44833,
+            "address": "Village Chroadh / Zagazig",
+            "post_office": "Chroadh",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44834,
+            "address": "Rahmaniyah / Abrahamic / Abu Kabir",
+            "post_office": "Rahmaniyah",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44835,
+            "address": "U local unit rolling pin Basta / Zagazig",
+            "post_office": "Basta rolling pin",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44836,
+            "address": "St. Alosth / Brown Ayoub / Abu Hammad",
+            "post_office": "Built Ayoub",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 44837,
+            "address": "Ghazala Alkhas / Zagazig",
+            "post_office": "Ghazala Alkhas",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44838,
+            "address": "Abu Hammad / Abdel Moneim Riad Street",
+            "post_office": "Abu Hammad sub",
+            "lat": 30.5351317,
+            "lng": 31.6764568
+        },
+        {
+            "postal_code": 44839,
+            "address": "Amuslimh / Zagazig / Hehia",
+            "post_office": "Amuslimh",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44841,
+            "address": "Kafr Musa Shawish / Qamh",
+            "post_office": "Kafr Musa Shawish",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44842,
+            "address": "Tel key / u Treaty / Abu Hammad",
+            "post_office": "Tel key",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 44843,
+            "address": "Qintair / Faqous Center",
+            "post_office": "Qintair",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44844,
+            "address": "Deyarb Star Market St.",
+            "post_office": "Deyarb Star Market",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44845,
+            "address": "Central St. Doadh / Zagazig",
+            "post_office": "Doadh",
+            "lat": 30.6590454,
+            "lng": 31.41535919999999
+        },
+        {
+            "postal_code": 44846,
+            "address": "Kafr Barham Ahmed / Zagazig",
+            "post_office": "Kafr Ahmad Barham",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44847,
+            "address": "Village Alheisamah / u schools / Faqous Center",
+            "post_office": "Alheisamah",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44848,
+            "address": "Ghazala Abdoun / Faqous Center",
+            "post_office": "Ghazala Abdoun",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44849,
+            "address": "Bosta or ash / Zagazig St.",
+            "post_office": "Or the ashes",
+            "lat": 30.5653363,
+            "lng": 31.5908341
+        },
+        {
+            "postal_code": 44851,
+            "address": "Rolling pin Akrash / Deyarb star",
+            "post_office": "Rolling pin Akrash",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44852,
+            "address": "Akrash mills / Brahmah / u canal",
+            "post_office": "Mills Akrash",
+            "lat": 30.7539017,
+            "lng": 31.5170166
+        },
+        {
+            "postal_code": 44853,
+            "address": "U village schools built sunflower / Alzfazik",
+            "post_office": "Built sunflower",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44854,
+            "address": "Dyer St. side Almanaharit / Deyarb star",
+            "post_office": "Almanaharit",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44855,
+            "address": "The village of Al-Zahra / Zagazig",
+            "post_office": "Zahra Zagazig",
+            "lat": 30.578401,
+            "lng": 31.5004029
+        },
+        {
+            "postal_code": 44856,
+            "address": "South easy Hosseinieh / Zagazig",
+            "post_office": "South easy Hosseinieh",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44859,
+            "address": "St. graves / Mashtool market",
+            "post_office": "Neptat",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44861,
+            "address": "Kafr Ahawany / Abu Kabir center",
+            "post_office": "Kfrahawany_alsoaqy",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44864,
+            "address": "Village Shebrh / Deyarb star",
+            "post_office": "Shebrh",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44866,
+            "address": "Village Dbej / Deyarb star",
+            "post_office": "Dbej",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44869,
+            "address": "Kafr wonderful / Hehia Center",
+            "post_office": "Kafr wonderful",
+            "lat": 30.6230405,
+            "lng": 31.6119306
+        },
+        {
+            "postal_code": 44874,
+            "address": "Grand Village / Hosseinieh Center Monologues",
+            "post_office": "Great Monologues",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44875,
+            "address": "Kafr scientists / Faqous",
+            "post_office": "Kafr scientists",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44876,
+            "address": "Aran / m .Faqous / Arbin",
+            "post_office": "Aran",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44881,
+            "address": "Abu Tahoun / Kafr Saqr",
+            "post_office": "Abu Tahoun",
+            "lat": 30.792629,
+            "lng": 31.62348
+        },
+        {
+            "postal_code": 44889,
+            "address": "Prince village / Zagazig Center",
+            "post_office": "Prince",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44893,
+            "address": "Kafr Shawish",
+            "post_office": "Kafr Shawish",
+            "lat": 30.7045515,
+            "lng": 31.7565894
+        },
+        {
+            "postal_code": 44895,
+            "address": "Kafr Hammad / Deyarb Center Star",
+            "post_office": "Kafr Hammad",
+            "lat": 30.8769544,
+            "lng": 31.6590998
+        },
+        {
+            "postal_code": 44896,
+            "address": "Village built Ayaz / Belbais Center",
+            "post_office": "Lubna Ayaz",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44897,
+            "address": "Village orbital emerging / Belbais Center",
+            "post_office": "Orbital emerging",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44911,
+            "address": "Qsasin Middle / Zagazig",
+            "post_office": "Qsasin Middle",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44912,
+            "address": "Alkhas / Faqous Center",
+            "post_office": "Alkhas",
+            "lat": 30.7292723,
+            "lng": 31.7977797
+        },
+        {
+            "postal_code": 44914,
+            "address": "Memon home",
+            "post_office": "Memon home",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44916,
+            "address": "The third industrial zone / Tenth of Ramadan",
+            "post_office": "The third industrial zone",
+            "lat": 30.2926655,
+            "lng": 31.7423434
+        },
+        {
+            "postal_code": 44918,
+            "address": "Basin Nageh / Hehia village center",
+            "post_office": "Nageh Basin",
+            "lat": 30.6719395,
+            "lng": 31.5913577
+        },
+        {
+            "postal_code": 44919,
+            "address": "Village notching / Zagazig Center",
+            "post_office": "Notching Zagazig",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44921,
+            "address": "Tenth of Ramadan",
+            "post_office": "Neighboring 33",
+            "lat": 30.2926655,
+            "lng": 31.7423434
+        },
+        {
+            "postal_code": 44923,
+            "address": "Abu Kabir Center / East / Abu Yasin",
+            "post_office": "Abu Yasin",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44926,
+            "address": "Abu Kabir Center / East / bad Areen",
+            "post_office": "Catarrh Aran",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44927,
+            "address": "Sheikh Rezzig / Abu Kabir center",
+            "post_office": "Sheikh Rezzig",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44928,
+            "address": "Abu Ammar / Abu Kabir center",
+            "post_office": "Abu Ammar",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44932,
+            "address": "Alherquaah village / Abu Kabir center",
+            "post_office": "Alherquabh",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44933,
+            "address": "Kafr Saqr/ East / Center 's",
+            "post_office": "Image",
+            "lat": 30.792629,
+            "lng": 31.62348
+        },
+        {
+            "postal_code": 44934,
+            "address": "Abu Kabir center / facility Sedky",
+            "post_office": "Facility Sedky",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44936,
+            "address": "Butterfly / Abu large village center",
+            "post_office": "Butterfly",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44943,
+            "address": "Second Hehia",
+            "post_office": "Second Hehia",
+            "lat": 30.6719395,
+            "lng": 31.5913577
+        },
+        {
+            "postal_code": 44945,
+            "address": "Cbrawin",
+            "post_office": "Cbrawin",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44947,
+            "address": "Abu Kabir second",
+            "post_office": "Abu Kabir second",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44952,
+            "address": "Abu Samida",
+            "post_office": "Abu Samida",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44953,
+            "address": "Saft henna",
+            "post_office": "Saft henna",
+            "lat": 30.5546373,
+            "lng": 31.6100148
+        },
+        {
+            "postal_code": 44954,
+            "address": "Kafr Hamouda",
+            "post_office": "Kafr Hamouda",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44955,
+            "address": "Kafr Vedan napkin",
+            "post_office": "Kafr Zidane napkin",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44957,
+            "address": "Abu Hassanein - Kafr Saqr",
+            "post_office": "Abu Hassanein",
+            "lat": 30.792629,
+            "lng": 31.62348
+        },
+        {
+            "postal_code": 44958,
+            "address": "Shatt al -Hawa",
+            "post_office": "Scorch fancy",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44962,
+            "address": "Kafr Adviser",
+            "post_office": "Kafr Adviser",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44965,
+            "address": "The village of Abu Zur night - children Saqr",
+            "post_office": "Abu Zur night",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44971,
+            "address": "Egypt through Asmaalah Desert Alcleo 36 Association Ahmed Orabi",
+            "post_office": "Ahmed Orabi Association",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 47391,
+            "address": "Village Qrajh - Kafr Saqr",
+            "post_office": "Qrajh",
+            "lat": 30.792629,
+            "lng": 31.62348
+        },
+        {
+            "postal_code": 47550,
+            "address": "Saadia - Abu Hammad",
+            "post_office": "Saadia",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 47752,
+            "address": "Kafr el-Sheikh al-Zawahiri - Hehia",
+            "post_office": "Kafr el Sheikh al Zawahiri",
+            "lat": 31.11065929999999,
+            "lng": 30.9387799
+        },
+        {
+            "postal_code": 44862,
+            "address": "Immaculate village / Aalozkazik",
+            "post_office": "Immaculate",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44865,
+            "address": "Village Tahla Berden / Zagazig",
+            "post_office": "Tahla Berden",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44863,
+            "address": "Village built cub Zagazig",
+            "post_office": "Built cub",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44868,
+            "address": "Qmarwna / us wheat village",
+            "post_office": "Qmarwna",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44867,
+            "address": "Village Bermkim / Deyarb star",
+            "post_office": "Bermkim",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44872,
+            "address": "Kafr Sharabia / Mashtool market",
+            "post_office": "Kafr Sharabia",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44871,
+            "address": "Kafr Suleiman Musa / Zagazig",
+            "post_office": "Kafr Suleiman Musa",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44879,
+            "address": "Village Almisah / Deyarb star",
+            "post_office": "Almisah",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44873,
+            "address": "U mosque great pro / Mashtool market",
+            "post_office": "Advocacy Mashtool",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44878,
+            "address": "Shubra peace / Qamh",
+            "post_office": "Shubra peace",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44877,
+            "address": "Village Hva / Belbais",
+            "post_office": "Hva",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44883,
+            "address": "Kafr El Deyarb star Dhmcha / Mashtool market",
+            "post_office": "Kafr Dhmcha",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44884,
+            "address": "Mitt Mualla / Belbais village",
+            "post_office": "Mitt Mualla",
+            "lat": 30.415135,
+            "lng": 31.573439
+        },
+        {
+            "postal_code": 44891,
+            "address": "Village built a valid / Belbais",
+            "post_office": "Lubna favor Belbais",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44882,
+            "address": "Village / Nuba Belbais",
+            "post_office": "Nubia and Aldhashna",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44885,
+            "address": "Village Shaybah straw / Qamh",
+            "post_office": "Shaybah straw",
+            "lat": 30.565138,
+            "lng": 31.3123303
+        },
+        {
+            "postal_code": 44887,
+            "address": "Old disbelief / Belbais",
+            "post_office": "Old disbelief",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44888,
+            "address": "Kafr Ibrahim Aidi / Belbais",
+            "post_office": "Kafr Ibrahim Aidi",
+            "lat": 31.1137411,
+            "lng": 30.6645667
+        },
+        {
+            "postal_code": 44892,
+            "address": "Knowing built / Belbais",
+            "post_office": "Knowing built",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44597,
+            "address": "Village Sfith",
+            "post_office": "Sfith",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44984,
+            "address": "Leptotrichia village / Mashtool market",
+            "post_office": "Leptotrichia",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44596,
+            "address": "Kafr Atta safety",
+            "post_office": "Kafr Atta safety",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44899,
+            "address": "Bear Village Building",
+            "post_office": "Bear Building",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44913,
+            "address": "Island of Happiness",
+            "post_office": "Island of Happiness",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44595,
+            "address": "Kafr Fri / Zagazig",
+            "post_office": "Kafr Jumaa",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44594,
+            "address": "Village starchy / Zagazig",
+            "post_office": "Nashwa",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44915,
+            "address": "Abu stilt village",
+            "post_office": "Abu stilt",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44944,
+            "address": "Saadat / Belbais",
+            "post_office": "Saadat",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44924,
+            "address": "Walaja / Qamh",
+            "post_office": "Walaja",
+            "lat": 30.5215942,
+            "lng": 31.2968476
+        },
+        {
+            "postal_code": 44922,
+            "address": "Kafr El -Basha / Deyarb star village",
+            "post_office": "Kafr El Basha Deyarb star",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44592,
+            "address": "Kafr Mohamed Hussein / Zagazig",
+            "post_office": "Kafr Mohamed Hussein",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44949,
+            "address": "Shubra grapes / Qamh",
+            "post_office": "Shubra grapes",
+            "lat": 30.085551,
+            "lng": 31.2453488
+        },
+        {
+            "postal_code": 44593,
+            "address": "Village Alqracrh Mena wheat",
+            "post_office": "Alqracrh Qamh",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44925,
+            "address": "Alchwenah / Belbais village",
+            "post_office": "Alchwenah",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44941,
+            "address": "Kafr Moussa Omran / Abu Kabir",
+            "post_office": "Kafr Moussa Omran",
+            "lat": 30.72086,
+            "lng": 31.67165
+        },
+        {
+            "postal_code": 44937,
+            "address": "Amaranth Azizia / Qamh",
+            "post_office": "Amaranth Azizia",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44946,
+            "address": "Kafr Aekl / Deyarb star",
+            "post_office": "Kafr Aekl",
+            "lat": 30.7492957,
+            "lng": 31.4611812
+        },
+        {
+            "postal_code": 44589,
+            "address": "Zagazig village of Kafr Mekkawy",
+            "post_office": "Kafr Mekkawy",
+            "lat": 30.6454269,
+            "lng": 31.5193613
+        },
+        {
+            "postal_code": 44956,
+            "address": "Belbais Center",
+            "post_office": "Children Muhanna",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44959,
+            "address": "Deyarb Center Star",
+            "post_office": "Abu Eid",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44964,
+            "address": "Minya wheat Center",
+            "post_office": "Rabamih",
+            "lat": 30.5104799,
+            "lng": 31.3455091
+        },
+        {
+            "postal_code": 44591,
+            "address": "Alinkaria village next to Combine flour",
+            "post_office": "Alinkaria",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44961,
+            "address": "Manor Almitknany",
+            "post_office": "Almitknany",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44948,
+            "address": "Village Bndf",
+            "post_office": "Bndf",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 47554,
+            "address": "Almotawaa village",
+            "post_office": "Almotawaa",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 47712,
+            "address": "Khalwt daboos",
+            "post_office": "Khalwt daboos",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 47712,
+            "address": "Saada abu khalil",
+            "post_office": "Saada abu khalil_Hiha",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 47521,
+            "address": "Nazlet Alkhial",
+            "post_office": "Nazlet Alkhial",
+            "lat": 29.98143659999999,
+            "lng": 31.14096799999999
+        },
+        {
+            "postal_code": 47754,
+            "address": "Sebih",
+            "post_office": "Sebih",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 47754,
+            "address": "Kafr alashqam",
+            "post_office": "Kafr alashqam",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 47754,
+            "address": "Kafr Alashraf",
+            "post_office": "Kafr Alashraf",
+            "lat": 30.6168603,
+            "lng": 31.4396554
+        },
+        {
+            "postal_code": 47561,
+            "address": "Abou Hammad Center",
+            "post_office": "Kafr Abu Najm",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 47559,
+            "address": "Abou Hammad Center",
+            "post_office": "Alim",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 47563,
+            "address": "Arab Alfdan - Abu Hammad Center",
+            "post_office": "Arab Alfdan",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 47562,
+            "address": "Abou Hammad Center",
+            "post_office": "Ibraheem mansour",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 47713,
+            "address": "Kafr El Adawy - Faqous Center",
+            "post_office": "Kafr El Adawi",
+            "lat": 30.7193633,
+            "lng": 31.7858451
+        },
+        {
+            "postal_code": 47558,
+            "address": "Nazlat Azzazi - Abu Hammad Center",
+            "post_office": "Nazlat Al Azzazy",
+            "lat": 30.54428039999999,
+            "lng": 31.68028649999999
+        },
+        {
+            "postal_code": 47557,
+            "address": "Al-Buz Village / Abu Hammad Center",
+            "post_office": "Almond",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 47556,
+            "address": "Bani Ghari Village / Abu Hammad Center",
+            "post_office": "Brown Gray",
+            "lat": 30.54424,
+            "lng": 31.6799483
+        },
+        {
+            "postal_code": 44521,
+            "address": "Center of Zagazig",
+            "post_office": "Fishermen",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44967,
+            "address": "Center of wheat",
+            "post_office": "Hamidiya",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44975,
+            "address": "Menia Salmant - Belbeis Center",
+            "post_office": "Menia Salmant",
+            "lat": 28.0870967,
+            "lng": 30.7618397
+        },
+        {
+            "postal_code": 44929,
+            "address": "Center of Zagazig",
+            "post_office": "Swirl basin",
+            "lat": 30.5765383,
+            "lng": 31.5040656
+        },
+        {
+            "postal_code": 44586,
+            "address": "Center of wheat",
+            "post_office": "node",
+            "lat": 30.7326622,
+            "lng": 31.7195459
+        },
+        {
+            "postal_code": 44968,
+            "address": "Meet Rabia El Dala - Minya El Qamh Center",
+            "post_office": "Meet Rabia Aldla",
+            "lat": 30.5130542,
+            "lng": 31.3459772
+        },
+        {
+            "postal_code": 44969,
+            "address": "Meet Jaber - Belbeis Center",
+            "post_office": "Meet Jaber",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44972,
+            "address": "Al Jusak - Belbeis Center",
+            "post_office": "Jossq",
+            "lat": 30.4155984,
+            "lng": 31.56192819999999
+        },
+        {
+            "postal_code": 44973,
+            "address": "Bilbis Center - Belbeis Center",
+            "post_office": "The ignorant",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        },
+        {
+            "postal_code": 44974,
+            "address": "West Battalion - Belbeis Center",
+            "post_office": "West Battalion",
+            "lat": 30.4196468,
+            "lng": 31.5619203
+        }
+    ]
+}

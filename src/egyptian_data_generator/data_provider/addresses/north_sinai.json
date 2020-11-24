@@ -1,0 +1,305 @@
+{
+    "north_sinai": [
+        {
+            "postal_code": 45511,
+            "address": "Arish city / Posta Road",
+            "post_office": "Arish",
+            "lat": 31.132093,
+            "lng": 33.8032762
+        },
+        {
+            "postal_code": 45619,
+            "address": "Village pomegranate / m 0 pomegranate / Mrkzperalabd",
+            "post_office": "Pommel",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45621,
+            "address": "Village Baloza / m 0 Bir al-Abed",
+            "post_office": "Baloza",
+            "lat": 30.6798201,
+            "lng": 32.6466992
+        },
+        {
+            "postal_code": 45618,
+            "address": "Fourth / m village of Bir al-Abed 0",
+            "post_office": "Fourth Arish",
+            "lat": 31.009798,
+            "lng": 33.1463992
+        },
+        {
+            "postal_code": 45612,
+            "address": "Bir al-Abed / Main Street",
+            "post_office": "Bir al Abed",
+            "lat": 31.009798,
+            "lng": 33.1463992
+        },
+        {
+            "postal_code": 45613,
+            "address": "Kawthar District / Sheikh Zuid Center",
+            "post_office": "Sheikh Zuid",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45624,
+            "address": "Sift / m 0 sift City / 1 Main St.",
+            "post_office": "Sift",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45617,
+            "address": "Good city / good center",
+            "post_office": "Good",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45622,
+            "address": "Abu village long / m 0 Sheikh Zuid",
+            "post_office": "Abu long",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45623,
+            "address": "Village coupon / m 0 good",
+            "post_office": "Coupon",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45614,
+            "address": "Rafah / Main Street / Rafah Center",
+            "post_office": "Rafah",
+            "lat": 31.2802667,
+            "lng": 34.2401914
+        },
+        {
+            "postal_code": 45513,
+            "address": "U arena folk / Arish / Alfoakharip",
+            "post_office": "Alfoakharip",
+            "lat": 31.132093,
+            "lng": 33.8032762
+        },
+        {
+            "postal_code": 45616,
+            "address": "Abu refine / m District Presidency 0 Arish",
+            "post_office": "Abu refine",
+            "lat": 31.132093,
+            "lng": 33.8032762
+        },
+        {
+            "postal_code": 45615,
+            "address": "Village Grass / m 0 Bir al-Abed / Main Street",
+            "post_office": "His two sons",
+            "lat": 31.009798,
+            "lng": 33.1463992
+        },
+        {
+            "postal_code": 45514,
+            "address": "Village transit / m 0 Bir al-Abed",
+            "post_office": "Transit Bir al Abed",
+            "lat": 31.009798,
+            "lng": 33.1463992
+        },
+        {
+            "postal_code": 45515,
+            "address": "U July 23 / m 0 Arish / wholesale market",
+            "post_office": "Wholesale market",
+            "lat": 31.132093,
+            "lng": 33.8032762
+        },
+        {
+            "postal_code": 45516,
+            "address": "Peace suburb / m 0 Arish",
+            "post_office": "Salam Al Arish",
+            "lat": 31.132093,
+            "lng": 33.8032762
+        },
+        {
+            "postal_code": 45625,
+            "address": "Customs building inside Rafah / m .Rafah",
+            "post_office": "Rafah exchange",
+            "lat": 31.2802667,
+            "lng": 34.2401914
+        },
+        {
+            "postal_code": 45626,
+            "address": "Jura village / m 0 Sheikh Zuid",
+            "post_office": "Jura",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45522,
+            "address": "Katia village / m 0 Bir al-Abed",
+            "post_office": "Katia",
+            "lat": 31.009798,
+            "lng": 33.1463992
+        },
+        {
+            "postal_code": 45524,
+            "address": "Overlooking the Rafah / local / Rafah Unity",
+            "post_office": "Umbrella Rafah",
+            "lat": 31.2802667,
+            "lng": 34.2401914
+        },
+        {
+            "postal_code": 45517,
+            "address": "Almqillh / m 0 village good",
+            "post_office": "Almqillh",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45629,
+            "address": "Village Albrth / m .Rafah",
+            "post_office": "Albrth",
+            "lat": 31.2802667,
+            "lng": 34.2401914
+        },
+        {
+            "postal_code": 45631,
+            "address": "Village kindergarten / m 0 Bir al-Abed / Main Street",
+            "post_office": "Village Kindergarten",
+            "lat": 31.009798,
+            "lng": 33.1463992
+        },
+        {
+            "postal_code": 45632,
+            "address": "Village October 6 / m 0 Bir al-Abed",
+            "post_office": "October 6 North Sinai",
+            "lat": 31.009798,
+            "lng": 33.1463992
+        },
+        {
+            "postal_code": 45633,
+            "address": "Village Claq / m 0 Sheikh Zuid",
+            "post_office": "Claq",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45525,
+            "address": "Concord Village / m .Rafah",
+            "post_office": "Accord",
+            "lat": 31.2802667,
+            "lng": 34.2401914
+        },
+        {
+            "postal_code": 45526,
+            "address": "Traffic Department building / Arish",
+            "post_office": "Traffic Arish",
+            "lat": 31.132093,
+            "lng": 33.8032762
+        },
+        {
+            "postal_code": 45634,
+            "address": "Village back / m 0 Sheikh Zuid",
+            "post_office": "Back",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45711,
+            "address": "The village of Umm Shehan / m 0 good",
+            "post_office": "Or Shehan",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45635,
+            "address": "Village Field / public street / Arish Center",
+            "post_office": "Field",
+            "lat": 31.132093,
+            "lng": 33.8032762
+        },
+        {
+            "postal_code": 45712,
+            "address": "Aljfjafah / good village center",
+            "post_office": "Aljfjafah",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45636,
+            "address": "Bir al-Abed / buildings housing Street",
+            "post_office": "Bir al Abed sub",
+            "lat": 31.009798,
+            "lng": 33.1463992
+        },
+        {
+            "postal_code": 45527,
+            "address": "Abdelhady From abdelhady / North Sinai District",
+            "post_office": "Abdelhady From abdelhady District",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45529,
+            "address": "Transit / North Sinai District",
+            "post_office": "Transit district",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45528,
+            "address": "Flowers / North Sinai District",
+            "post_office": "Flower District of North Sinai",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45639,
+            "address": "The fourth stage / Arish Center",
+            "post_office": "The fourth stage",
+            "lat": 31.132093,
+            "lng": 33.8032762
+        },
+        {
+            "postal_code": 45637,
+            "address": "The village of Abu Aeraj",
+            "post_office": "Abu Aeraj",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45641,
+            "address": "The village of Nag Shabana",
+            "post_office": "Nag Shabana",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45533,
+            "address": "Village success",
+            "post_office": "Success",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45642,
+            "address": "Village or obstacle",
+            "post_office": "Or obstacle",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45628,
+            "address": "Not opened for bad security",
+            "post_office": "Sheikh Zwaid / Sub",
+            "lat": 30.282365,
+            "lng": 33.617577
+        },
+        {
+            "postal_code": 45636,
+            "address": "The village of Abu Shanar / Rafah",
+            "post_office": "Abu Shannar",
+            "lat": 31.2802667,
+            "lng": 34.2401914
+        }
+    ]
+}

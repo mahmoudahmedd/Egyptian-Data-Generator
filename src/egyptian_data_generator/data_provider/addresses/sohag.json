@@ -1,0 +1,1698 @@
+{
+    "sohag": [
+        {
+            "postal_code": 82511,
+            "address": "El Bahr / Sohag Center",
+            "post_office": "Sohag",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82515,
+            "address": "Fever / Sohag Center St.",
+            "post_office": "Sohag sub",
+            "lat": 26.5607948,
+            "lng": 31.6943386
+        },
+        {
+            "postal_code": 82714,
+            "address": "Akhmim / u Revolution Center",
+            "post_office": "Akhmim",
+            "lat": 26.5625905,
+            "lng": 31.7449177
+        },
+        {
+            "postal_code": 82648,
+            "address": "Warmer / Sohag Center",
+            "post_office": "Adva",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82844,
+            "address": "Albarba / Gerga Center",
+            "post_office": "Albarba",
+            "lat": 26.3405111,
+            "lng": 31.8401344
+        },
+        {
+            "postal_code": 82734,
+            "address": "Batakh / Maragha Center",
+            "post_office": "Batakh",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82811,
+            "address": "Belina / u Creek Coast Center",
+            "post_office": "Belina",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82628,
+            "address": "Alajabirat / Tahta Center",
+            "post_office": "Alajabirat",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82723,
+            "address": "Algelawih / Saqlth Center",
+            "post_office": "Algelawih",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82836,
+            "address": "Sheikh Marzouq / Belina Center",
+            "post_office": "Sheikh Marzouq",
+            "lat": 26.2354377,
+            "lng": 32.0029805
+        },
+        {
+            "postal_code": 82725,
+            "address": "Village Asalaa",
+            "post_office": "Asalaa",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82747,
+            "address": "Alsoamah West / Akhmim Center",
+            "post_office": "Alsoamah West",
+            "lat": 26.6039527,
+            "lng": 31.7339812
+        },
+        {
+            "postal_code": 82726,
+            "address": "East / center established Zouk",
+            "post_office": "Zouk East",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82629,
+            "address": "Alsoamah West / Mrkzthta / villager near record",
+            "post_office": "Tleihat",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82825,
+            "address": "Godmother Lapidus / Belina Center",
+            "post_office": "Godmother Abydos",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82739,
+            "address": "El-Usayrat / center established",
+            "post_office": "El Usayrat established center",
+            "lat": 26.3936731,
+            "lng": 31.821766
+        },
+        {
+            "postal_code": 82735,
+            "address": "Dear / Maragha Center",
+            "post_office": "Ahlgrezac",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82721,
+            "address": "Ketkath / Saqulta Center",
+            "post_office": "Ketkath",
+            "lat": 26.6580069,
+            "lng": 31.6710917
+        },
+        {
+            "postal_code": 82615,
+            "address": "Destroyed / Tama Center",
+            "post_office": "Devastating",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82641,
+            "address": "Maragha / Maragha Center",
+            "post_office": "Maragha",
+            "lat": 26.6963055,
+            "lng": 31.6023606
+        },
+        {
+            "postal_code": 82738,
+            "address": "Mrkzalmncoh / Saad Zaghloul St.",
+            "post_office": "Created",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82612,
+            "address": "Or Doma / Tama Center",
+            "post_office": "Or Doma",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82642,
+            "address": "The children of Ishmael / Maragha Center",
+            "post_office": "The children of Ishmael",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82837,
+            "address": "Children Elewa / Belina Center",
+            "post_office": "Elewa tribal children",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82818,
+            "address": "Dar es Salaam Center",
+            "post_office": "Dar es Salaam",
+            "lat": 26.2737331,
+            "lng": 32.0666997
+        },
+        {
+            "postal_code": 82839,
+            "address": "Children Yahya Admiral / Dar es Salaam Center",
+            "post_office": "Children Yahya sea",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82842,
+            "address": "Pardis / Belina Center",
+            "post_office": "Pardis",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82737,
+            "address": "Blsaforh / Sohag Center",
+            "post_office": "Blsaforh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82624,
+            "address": "Benja / Tahta / El Manzala Center",
+            "post_office": "Benja",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82833,
+            "address": "David's house / Gerga Center",
+            "post_office": "House of David",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82713,
+            "address": "Tunisia / Sohag Center St.",
+            "post_office": "Tunisia",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82951,
+            "address": "Gerga / Gerga Center",
+            "post_office": "Gerga",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82749,
+            "address": "Shandaweel / Maragha Centre Island",
+            "post_office": "Shandaweel Island",
+            "lat": 26.6128527,
+            "lng": 31.647306
+        },
+        {
+            "postal_code": 82633,
+            "address": "Western supervisor / supervisor Center / u youth center",
+            "post_office": "Western Juheina",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82719,
+            "address": "Saqlth / u Freedom Center",
+            "post_office": "Saqlth",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82611,
+            "address": "Tama / Tama Center",
+            "post_office": "Tama",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82621,
+            "address": "Tahta center / Salah Salem St.",
+            "post_office": "Tahta",
+            "lat": 26.7643633,
+            "lng": 31.5039303
+        },
+        {
+            "postal_code": 82736,
+            "address": "Araba Abu Dahab / Sohag Center",
+            "post_office": "Araba Abu Dahab",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82728,
+            "address": "Com House / center established",
+            "post_office": "Com House",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82627,
+            "address": "Catarrh judge / Tahta Center",
+            "post_office": "Bad Kady",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82626,
+            "address": "Catarrh Building",
+            "post_office": "Catarrh Building",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82814,
+            "address": "Tents / Dar es Salaam Center",
+            "post_office": "Tents",
+            "lat": 26.2737331,
+            "lng": 32.0666997
+        },
+        {
+            "postal_code": 82643,
+            "address": "Ibnauwayt / Maragha Center",
+            "post_office": "Ibnauwayt",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82712,
+            "address": "Pindar Akarmanah / Sohag Center",
+            "post_office": "Pindar Akarmanah",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82727,
+            "address": "Western / center established Zouk",
+            "post_office": "Western Zouk",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82835,
+            "address": "Beit Allam / Gerga Center",
+            "post_office": "Beit Allam",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82821,
+            "address": "Brgel / Belina Center",
+            "post_office": "Brgel",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82631,
+            "address": "Nibs / center Tahta / unification St.",
+            "post_office": "Nibs",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82952,
+            "address": "Gerga / Gerga Center",
+            "post_office": "Gerga _ subsidiary",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82813,
+            "address": "Children behind / Dar es Salaam Center",
+            "post_office": "Children behind",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82514,
+            "address": "Public housing west of Bandar Sohag",
+            "post_office": "Sohag West",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82622,
+            "address": "Tahta Center / u land market",
+            "post_office": "Tahta sub",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82831,
+            "address": "Contentious / Gerga Center",
+            "post_office": "Contentious",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82843,
+            "address": "Pardis facility / Belina Center",
+            "post_office": "Pardis facility",
+            "lat": 26.2857296,
+            "lng": 31.94644839999999
+        },
+        {
+            "postal_code": 82834,
+            "address": "Goran / Gerga Center",
+            "post_office": "Goran",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82613,
+            "address": "Riyanah commentator / Tama Center",
+            "post_office": "Riyanah commentator",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82729,
+            "address": "Children safety / center established",
+            "post_office": "Children safety",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82635,
+            "address": "Juheina East / supervisor Center",
+            "post_office": "Juheina East",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82832,
+            "address": "Gerga superhero / Gerga Center",
+            "post_office": "Superhero Gerga",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82634,
+            "address": "Promenade Hajir / supervisor Center",
+            "post_office": "Promenade Hajir",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82743,
+            "address": "East Bindar / facility center",
+            "post_office": "Pindar East",
+            "lat": 26.3700147,
+            "lng": 31.8477684
+        },
+        {
+            "postal_code": 82731,
+            "address": "Aldoarat / facility / Main Street Center",
+            "post_office": "Aldoarat",
+            "lat": 26.4172428,
+            "lng": 31.7769218
+        },
+        {
+            "postal_code": 82614,
+            "address": "Com Ohqao / Tama Center",
+            "post_office": "Com Ashquao",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82625,
+            "address": "Plate / plate complex u / Mrkzthta",
+            "post_office": "Lamina",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82822,
+            "address": "Built Hamil / Belina Center",
+            "post_office": "Built Hamil",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82647,
+            "address": "Hammadid / Sohag Center",
+            "post_office": "Hammadid",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82516,
+            "address": "Nasser City / Sohag Center / u schools",
+            "post_office": "Nasser City",
+            "lat": 30.051085,
+            "lng": 31.3655989
+        },
+        {
+            "postal_code": 82751,
+            "address": "Alahajoh West / center established",
+            "post_office": "Alahajoh West",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82841,
+            "address": "Mzach and Sheikh Jabor / Gerga Center",
+            "post_office": "Mzach and Sheikh Jabor",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82824,
+            "address": "Asamta / Belina Center",
+            "post_office": "Asamta Belina",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82741,
+            "address": "Children Jabara / facility",
+            "post_office": "Children Jabara",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82823,
+            "address": "Critical tribal / Belina Center",
+            "post_office": "Critical tribal",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82815,
+            "address": "Village Alangamich",
+            "post_office": "Alangamich",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82732,
+            "address": "Naseer boys / Sohag Center",
+            "post_office": "Children Naseer",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82816,
+            "address": "Albulabich Admiral / Dar es Salaam Center",
+            "post_office": "Albulabich sea",
+            "lat": 26.2737331,
+            "lng": 32.0666997
+        },
+        {
+            "postal_code": 82819,
+            "address": "Salem boys Admiral / Dar es Salaam Center",
+            "post_office": "Salem boys nautical",
+            "lat": 26.2737331,
+            "lng": 32.0666997
+        },
+        {
+            "postal_code": 82512,
+            "address": "Abu tree / Bandar Sohag / Omar Khayyam",
+            "post_office": "Abu tree",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82742,
+            "address": "Joyful children / facility center / council villager",
+            "post_office": "Joyful children",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82722,
+            "address": "Hungry Riyanah / Saqulta center Mohamed Hassanein St.",
+            "post_office": "Hungry Riyanah",
+            "lat": 26.6580069,
+            "lng": 31.6710917
+        },
+        {
+            "postal_code": 82744,
+            "address": "Pindar sand / Gerga Center",
+            "post_office": "Pindar sandy",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82645,
+            "address": "Shuraniya",
+            "post_office": "Shuraniya",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82644,
+            "address": "Aldzzerh / Maragha Center",
+            "post_office": "Aldzzerh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82953,
+            "address": "Gerga / u Barakat Center",
+            "post_office": "Central Gerga",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82717,
+            "address": "Alsoamah / Sohag village center",
+            "post_office": "Alsoamah East",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82623,
+            "address": "Coast Tahta / Tahta / center El Tahrir",
+            "post_office": "Tahta Coast",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82812,
+            "address": "Belina / Prince Mohammed El Center",
+            "post_office": "Belina sub",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82752,
+            "address": "Aldiabat / Akhmim Center",
+            "post_office": "Aldiabat",
+            "lat": 26.5625905,
+            "lng": 31.7449177
+        },
+        {
+            "postal_code": 82826,
+            "address": "Forest / Belina Center",
+            "post_office": "Forests",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82616,
+            "address": "Alagana / Tama Center",
+            "post_office": "Alagana",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82636,
+            "address": "Western / supervisor center supervisor",
+            "post_office": "Western Juheina sub",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82753,
+            "address": "Riyanah Hajir / Saqlth / u school center",
+            "post_office": "Riyanah Hajir",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82755,
+            "address": "Alkuaml Admiral / Sohag Center",
+            "post_office": "Alkuaml sea",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82617,
+            "address": "Slamon Tama / Tama Center",
+            "post_office": "Slamon _ Tama",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82517,
+            "address": "Manor Rashid / Sohag Center",
+            "post_office": "Manor Rashid",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82618,
+            "address": "Tama / Tama Center",
+            "post_office": "Tama sub",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82754,
+            "address": "Vaocaly / Saqlth Center",
+            "post_office": "Vaocaly",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82637,
+            "address": "Turnpike comb / Tahta Center",
+            "post_office": "Hajer_ comb",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82845,
+            "address": "Upper Egyptians com / Gerga Center",
+            "post_office": "Com Upper Egyptians _ Gerga",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82758,
+            "address": "Alslamony Akhmim / Akhmim Center",
+            "post_office": "Alslamony Akhmim",
+            "lat": 26.5625905,
+            "lng": 31.7449177
+        },
+        {
+            "postal_code": 82522,
+            "address": "Alhawess u / Sohag",
+            "post_office": "Tenth of Ramadan District",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82756,
+            "address": "EV / u Noury ??Center",
+            "post_office": "Created subsidiary",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82757,
+            "address": "Alkolh Akhmim / Akhmim Center",
+            "post_office": "Alkolh Akhmim",
+            "lat": 26.5130889,
+            "lng": 31.8256042
+        },
+        {
+            "postal_code": 82827,
+            "address": "Children Yahya Hajir / Dar es Salaam Center",
+            "post_office": "Children Yahya Hajir",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82846,
+            "address": "Awamer Admiral / Gerga Center",
+            "post_office": "Awamer sea",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82761,
+            "address": "Zara / near religious exhibition / facility center",
+            "post_office": "Zara",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82651,
+            "address": "Abu Bakr / supervisor Center",
+            "post_office": "Abu Bakr",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82762,
+            "address": "Alatamna / Tama Center",
+            "post_office": "Alatamna",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82763,
+            "address": "Mahamdh tribal / Sohag Center",
+            "post_office": "Mahamdh tribal",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82649,
+            "address": "Maragha Center",
+            "post_office": "Maragha sub",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82638,
+            "address": "Lubna war / Tahta Center",
+            "post_office": "Lubna war",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82619,
+            "address": "Allowaqat / Tama Center",
+            "post_office": "Allowaqat",
+            "lat": 26.8378011,
+            "lng": 31.46817099999999
+        },
+        {
+            "postal_code": 82766,
+            "address": "Entrance Aharizzat / center established",
+            "post_office": "Western Aharizzat",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82768,
+            "address": "Bhta / Maragha Center",
+            "post_office": "Bhta",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82653,
+            "address": "FAW West / Tama Center",
+            "post_office": "FAW West",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82853,
+            "address": "Nag on Behns / Gerga Center",
+            "post_office": "Nag on Behns",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82849,
+            "address": "Mahasna / Gerga Center",
+            "post_office": "Mahasna",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82654,
+            "address": "Marine promenade - Juheina",
+            "post_office": "Marine promenade",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82657,
+            "address": "Promenade Alheih / supervisor Center",
+            "post_office": "Promenade Alheih",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82656,
+            "address": "Promenade Alheih / supervisor Center",
+            "post_office": "Promenade Mahzmin",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82655,
+            "address": "Promenade Alheih / supervisor Center",
+            "post_office": "Aharafshh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82767,
+            "address": "Araba Abu Aziz / Sohag Center",
+            "post_office": "Araba Abu Aziz",
+            "lat": 26.5766187,
+            "lng": 31.6275944
+        },
+        {
+            "postal_code": 82848,
+            "address": "Nag Alawneh / Belina Center",
+            "post_office": "Nag Alawneh",
+            "lat": 26.2187894,
+            "lng": 31.8804416
+        },
+        {
+            "postal_code": 82847,
+            "address": "Critical Balqraan / Belina Center",
+            "post_office": "Critical Balqraan",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82851,
+            "address": "Nag carpenter / Belina Center",
+            "post_office": "Nag Najjar",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82518,
+            "address": "Bandar Sohag",
+            "post_office": "The bakery robot",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82519,
+            "address": "Editorial / Sohag Center Street",
+            "post_office": "Liberation Street",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82769,
+            "address": "Brown visited / Sohag Center",
+            "post_office": "Brown visited",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82771,
+            "address": "Western / Sohag center and Ninh",
+            "post_office": "Bank and Ninh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82521,
+            "address": "Salah Salem / Tahta Center Street",
+            "post_office": "Salah Salem _ Tahta",
+            "lat": 26.7643633,
+            "lng": 31.5039303
+        },
+        {
+            "postal_code": 82772,
+            "address": "Godmother East / Sohag Center",
+            "post_office": "Godmother East",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82773,
+            "address": "Children Chlol / Sohag Center",
+            "post_office": "Children Chlol",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82658,
+            "address": "Com Arabs / Tama Center",
+            "post_office": "Com Arabs _ Tama",
+            "lat": 26.8896419,
+            "lng": 31.442761
+        },
+        {
+            "postal_code": 82778,
+            "address": "Ahawaolh / center established",
+            "post_office": "Ahawaolh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82523,
+            "address": "Nag Disqualified / Bandar Sohag",
+            "post_office": "Nag Disqualified",
+            "lat": 26.5381657,
+            "lng": 31.7061138
+        },
+        {
+            "postal_code": 82776,
+            "address": "Island boys Hamza / center established",
+            "post_office": "Island boys Hamza",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82855,
+            "address": "Almhaodh / Gerga Center",
+            "post_office": "Western Almhaodh",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82774,
+            "address": "Nag Sheikh Hamad / Sohag Center",
+            "post_office": "Nag Sheikh Hamad",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82777,
+            "address": "Bhalal island / Maragha Center",
+            "post_office": "Bhalal island",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82524,
+            "address": "Sohag University / Sohag Center",
+            "post_office": "Sohag University",
+            "lat": 26.5644965,
+            "lng": 31.708051
+        },
+        {
+            "postal_code": 82525,
+            "address": "Sohag, Assiut / Bandar Sohag",
+            "post_office": "Sohag court complex",
+            "lat": 26.5660299,
+            "lng": 31.6841103
+        },
+        {
+            "postal_code": 82854,
+            "address": "Salmani / Belina Center",
+            "post_office": "Salmani",
+            "lat": 26.2125105,
+            "lng": 31.8989501
+        },
+        {
+            "postal_code": 82779,
+            "address": "Toael / Saqlth Center / u Sea",
+            "post_office": "Western Toael",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82787,
+            "address": "Alhawwaoich / Mrkzakhmam",
+            "post_office": "Alhawwaoich",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82659,
+            "address": "Nag Abu Awad / Maragha Center",
+            "post_office": "Nag Abu Awad",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82781,
+            "address": "Rashaida / center established",
+            "post_office": "Rashaida",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82782,
+            "address": "Akhmim / u Ahmed Maher Center",
+            "post_office": "Second Akhmim",
+            "lat": 26.5625905,
+            "lng": 31.7449177
+        },
+        {
+            "postal_code": 82661,
+            "address": "Built Ammar / Tahta / u Anwar Sadat Center",
+            "post_office": "Built Ammar",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82662,
+            "address": "Kom yellow / Tahta Center",
+            "post_office": "Yellow Kom",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82783,
+            "address": "Nag Rashwan / Gerga Center",
+            "post_office": "Nag Rashwan",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82526,
+            "address": "Ways Sohag / tribal passports",
+            "post_office": "Sohag fourth",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82664,
+            "address": "Nag Alhweij / Sohag Center",
+            "post_office": "Nag Alhweij",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82663,
+            "address": "Homestead emerging / Tama Center",
+            "post_office": "Homestead emerging",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82954,
+            "address": "Tod / Gerga Center",
+            "post_office": "Tod Gerga",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82784,
+            "address": "Alroahb / center established",
+            "post_office": "Alroahb",
+            "lat": 26.4791083,
+            "lng": 31.7441636
+        },
+        {
+            "postal_code": 82785,
+            "address": "Nag naked / Sohag Center",
+            "post_office": "Marine and Ninh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82788,
+            "address": "Wells endowment / Akhmim Center",
+            "post_office": "Wells endowment",
+            "lat": 26.5625905,
+            "lng": 31.7449177
+        },
+        {
+            "postal_code": 82789,
+            "address": "Wells King / Akhmim Center",
+            "post_office": "King wells",
+            "lat": 26.5625905,
+            "lng": 31.7449177
+        },
+        {
+            "postal_code": 82527,
+            "address": "Ahmed Daifallah / Bandar Sohag",
+            "post_office": "Ahmed Daifallah Qlfaw",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82955,
+            "address": "The old controversial / Gerga",
+            "post_office": "The old controversial",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82798,
+            "address": "Coast Admiral / Belina",
+            "post_office": "Sea coast",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82791,
+            "address": "Naga monastery / Sohag Center",
+            "post_office": "Naga monastery",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82858,
+            "address": "Basque - Belina",
+            "post_office": "Basque",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82699,
+            "address": "Sheikh Masood - Sohag",
+            "post_office": "Sheikh Makram",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82666,
+            "address": "Qaramita village / Saqlth Center",
+            "post_office": "Qaramita West",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82792,
+            "address": "Awwamiyya / Saqlth / u sheikhs",
+            "post_office": "Awwamiyya Saqlth",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82796,
+            "address": "Saqulta / canal East Center",
+            "post_office": "Brown continued",
+            "lat": 26.6580069,
+            "lng": 31.6710917
+        },
+        {
+            "postal_code": 82793,
+            "address": "Alkuaml tribal / Sohag / Main St.",
+            "post_office": "Alkuaml tribal",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82859,
+            "address": "Village pepperoni / Dar es Salaam Center",
+            "post_office": "Gaggle",
+            "lat": 26.2737331,
+            "lng": 32.0666997
+        },
+        {
+            "postal_code": 82668,
+            "address": "Sheikh cub / Maragha village center",
+            "post_office": "Sheikh cub",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82665,
+            "address": "Ukhaydir / Maragha",
+            "post_office": "Ukhaydir",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82698,
+            "address": "Cayuh east / Akhmim Center",
+            "post_office": "Cayuh East",
+            "lat": 26.5625905,
+            "lng": 31.7449177
+        },
+        {
+            "postal_code": 82667,
+            "address": "Garden / Tama",
+            "post_office": "Park",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82865,
+            "address": "Aghannimih village / Belina",
+            "post_office": "Aghannimih Belina",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82674,
+            "address": "Nag Abdul Rasul / center supervisor / Sohag",
+            "post_office": "Nag Abdul Rasul",
+            "lat": 26.674526,
+            "lng": 31.5321114
+        },
+        {
+            "postal_code": 82671,
+            "address": "Alaqraorteurh / Sohag",
+            "post_office": "Alqracrh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82683,
+            "address": "Buildings Nibs / Sohag",
+            "post_office": "Buildings Nibs",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82669,
+            "address": "Village Azirat / Maragha Center",
+            "post_office": "Second Ahlgrezac",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82682,
+            "address": "Western mountain village of Nag Juhayna Center",
+            "post_office": "Nag mountain",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82672,
+            "address": "Nag Hamza / supervisor Center",
+            "post_office": "Nag Hamza",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82697,
+            "address": "Village Aldjaafarh / Saqulta",
+            "post_office": "Aldjaafarh Saqulta",
+            "lat": 26.6580069,
+            "lng": 31.6710917
+        },
+        {
+            "postal_code": 82867,
+            "address": "Qush / Mrkzdar peace",
+            "post_office": "Qush",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82797,
+            "address": "Built scarf / Maragha Center",
+            "post_office": "Built a scarf",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82861,
+            "address": "Alamaadh village / center established",
+            "post_office": "Alamaadh",
+            "lat": 26.4254173,
+            "lng": 31.7368633
+        },
+        {
+            "postal_code": 82673,
+            "address": "Village Fazarah / Mrkzalemragh",
+            "post_office": "Fazarah Maragha",
+            "lat": 26.6989017,
+            "lng": 31.5220118
+        },
+        {
+            "postal_code": 82862,
+            "address": "Nag Imran / Dar es Salaam Center",
+            "post_office": "Nag Imran",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82866,
+            "address": "Pardis hungry / Belina",
+            "post_office": "Pardis hungry",
+            "lat": 26.2857296,
+            "lng": 31.94644839999999
+        },
+        {
+            "postal_code": 82869,
+            "address": "Mzach east / Dar es Salaam Center",
+            "post_office": "Mzach East",
+            "lat": 26.2737331,
+            "lng": 32.0666997
+        },
+        {
+            "postal_code": 82871,
+            "address": "Altoader - Sohag",
+            "post_office": "Altoader",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82877,
+            "address": "Tribal coast",
+            "post_office": "Tribal coast",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82864,
+            "address": "Nag Abbas / Gerga Center",
+            "post_office": "Nag Abbas",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82675,
+            "address": "Al_husamdh / Tama Center",
+            "post_office": "Al_husamdh",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82678,
+            "address": "Sheikh Makram - Sohag",
+            "post_office": "Sheikh Zainuddin",
+            "lat": 26.559402,
+            "lng": 31.6921635
+        },
+        {
+            "postal_code": 82874,
+            "address": "Nag Jerio - Sohag",
+            "post_office": "Nag Jerio",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82679,
+            "address": "Algwanm - Sohag",
+            "post_office": "Algwanm",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82687,
+            "address": "Attoh - Sohag",
+            "post_office": "Attoh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82686,
+            "address": "Aloakedh / Sohag village",
+            "post_office": "Aloakedh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82684,
+            "address": "Amour - Sohag",
+            "post_office": "Amour",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82875,
+            "address": "Nag Jabali - Sohag",
+            "post_office": "Nag Jabali",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82677,
+            "address": "The village of Nazlat Dweik / Tama Center",
+            "post_office": "Catarrh Dweik",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82681,
+            "address": "Pinho - Sohag",
+            "post_office": "Pinho",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82695,
+            "address": "East / Sohag center and Ninh",
+            "post_office": "East Ninh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82685,
+            "address": "Alaqbisat - Sohag",
+            "post_office": "Alaqbisat",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82873,
+            "address": "Mansour built - Sohag",
+            "post_office": "Built Mansour",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82692,
+            "address": "Alahjarsh village",
+            "post_office": "Alahjarsh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82689,
+            "address": "Bassonh - Sohag",
+            "post_office": "Bassonh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82688,
+            "address": "Aqsas - Sohag",
+            "post_office": "Aqsas",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82878,
+            "address": "Alzerzerh / center established",
+            "post_office": "Alzerzerh",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82881,
+            "address": "Haredi village / Tahta Center",
+            "post_office": "Haredi tribal",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82885,
+            "address": "Sheikh Zainuddin / Tahta village",
+            "post_office": "Sheikh Yusuf",
+            "lat": 26.7639935,
+            "lng": 31.4982124
+        },
+        {
+            "postal_code": 82889,
+            "address": "Qriaalhama -suhaj",
+            "post_office": "Nag protection",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82891,
+            "address": "Kharfah entity - an entity",
+            "post_office": "Kharfah facility",
+            "lat": 27.5081497,
+            "lng": 30.805785
+        },
+        {
+            "postal_code": 82895,
+            "address": "Village Lhalavy Belina",
+            "post_office": "Lhalavy",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82897,
+            "address": "Qriaalhmas- Sohag",
+            "post_office": "Alhmas",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82529,
+            "address": "Nag Abed Rabbo - Sohag",
+            "post_office": "Nag Abed Rabbo",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82528,
+            "address": "Saad Allah - Sohag",
+            "post_office": "Saadallah",
+            "lat": 26.6031726,
+            "lng": 31.7052951
+        },
+        {
+            "postal_code": 82892,
+            "address": "Nag Hashim - Asiri",
+            "post_office": "Nag Hashim Asiri",
+            "lat": 26.3548097,
+            "lng": 31.9229969
+        },
+        {
+            "postal_code": 82896,
+            "address": "??? ????? ( 2008/03/30 )",
+            "post_office": "Arabs Bkhawaj",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82987,
+            "address": "Village",
+            "post_office": "Almhaodh East",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82922,
+            "address": "Village",
+            "post_office": "Reform",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82923,
+            "address": "Village",
+            "post_office": "Arabs Attaat Navy",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82894,
+            "address": "Gerga / Gerga Center",
+            "post_office": "Alaclaih",
+            "lat": 26.3418755,
+            "lng": 31.8875679
+        },
+        {
+            "postal_code": 82652,
+            "address": "Village",
+            "post_office": "Gunpowder",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82924,
+            "address": "Village",
+            "post_office": "Nag emerging",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82591,
+            "address": "Kawthar District",
+            "post_office": "Social Service Institute",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82571,
+            "address": "Village",
+            "post_office": "Tiger fresh water",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82572,
+            "address": "Infantry Center",
+            "post_office": "Alsagria",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82581,
+            "address": "Akhmeem Center - Not opened",
+            "post_office": "The Desert Back",
+            "lat": 26.5625905,
+            "lng": 31.7449177
+        },
+        {
+            "postal_code": 82652,
+            "address": "Juhaina - Freeze for 5 years",
+            "post_office": "Ali bin Abi Talib",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82561,
+            "address": "The center of Tama",
+            "post_office": "Hisham",
+            "lat": 26.8896419,
+            "lng": 31.442761
+        },
+        {
+            "postal_code": 82645,
+            "address": "Shoraniya / Maragha Center",
+            "post_office": "Shuka",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82682,
+            "address": "Naga Shoush - Sohag",
+            "post_office": "Naga Shoush",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82833,
+            "address": "The martyrs",
+            "post_office": "Martyrs",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82682,
+            "address": "Sheikh Masoud - Sohag",
+            "post_office": "Sheikh Massoud",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82763,
+            "address": "Marine Mahamid",
+            "post_office": "Marine Sealing",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82674,
+            "address": "The village of Sohag",
+            "post_office": "Surface",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82649,
+            "address": "Awamer Al Osairat",
+            "post_office": "Awamer Al Osairat",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82826,
+            "address": "Sheikh Baraka / Al - Balina Center",
+            "post_office": "Sheikh Baraka",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82612,
+            "address": "Naza al-Dakhshiya / Juhayna Center",
+            "post_office": "Diphtheria",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82641,
+            "address": "Bani Helal / Maragha Center",
+            "post_office": "Bani Hilal",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        },
+        {
+            "postal_code": 82713,
+            "address": "Nghamish / Dar es Salaam Center",
+            "post_office": "Nida",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82747,
+            "address": "Shatoura / Tama Center",
+            "post_office": "A sandwich",
+            "lat": 26.693834,
+            "lng": 32.174605
+        },
+        {
+            "postal_code": 82592,
+            "address": "Markaz Alhriyah, Maragha, Sohag",
+            "post_office": "Alhridyah",
+            "lat": 26.5590737,
+            "lng": 31.6956705
+        }
+    ]
+}

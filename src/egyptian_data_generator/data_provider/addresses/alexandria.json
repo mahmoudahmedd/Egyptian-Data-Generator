@@ -1,0 +1,886 @@
+{
+    "alexandria": [
+        {
+            "postal_code": 21511,
+            "address": "2 Mahmoud Salama u / Movement Center Building",
+            "post_office": "Movement Center",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21512,
+            "address": "Safia Zaghloul St. Tower mouth / Attarine",
+            "post_office": "Safia Zaghloul",
+            "lat": 31.1975698,
+            "lng": 29.9040608
+        },
+        {
+            "postal_code": 21513,
+            "address": "11 Saqr Pasha u / customs",
+            "post_office": "Ras El Teen",
+            "lat": 31.2022163,
+            "lng": 29.8783384
+        },
+        {
+            "postal_code": 21514,
+            "address": "111 Liberty / east through the door",
+            "post_office": "Gardens waterfalls",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21515,
+            "address": "67 Muharram Bey St.",
+            "post_office": "Muharram your",
+            "lat": 31.1913587,
+            "lng": 29.913491
+        },
+        {
+            "postal_code": 21516,
+            "address": "30 El Serail / door east",
+            "post_office": "Hadra tribal",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21517,
+            "address": "El -Kashef Attarine",
+            "post_office": "Attarine",
+            "lat": 31.1942422,
+            "lng": 29.8993156
+        },
+        {
+            "postal_code": 21518,
+            "address": "Security Directorate / frankincense building",
+            "post_office": "Salahuddin frankincense",
+            "lat": 31.2119136,
+            "lng": 29.9527617
+        },
+        {
+            "postal_code": 21519,
+            "address": "U Chamber of Commerce / Sidi Gaber",
+            "post_office": "Alexandria Manshiya",
+            "lat": 31.202093,
+            "lng": 29.912622
+        },
+        {
+            "postal_code": 21521,
+            "address": "Attarine / 22 El Shaheed Mostafa Hafez",
+            "post_office": "Obelisk",
+            "lat": 31.1988965,
+            "lng": 29.8895426
+        },
+        {
+            "postal_code": 21522,
+            "address": "22 perfect / Bualeno / Muharram Bey St.",
+            "post_office": "Bualeno",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21523,
+            "address": "328 Liberty Road Sidi Gaber",
+            "post_office": "Sidi Gaber",
+            "lat": 31.22133479999999,
+            "lng": 29.9379151
+        },
+        {
+            "postal_code": 21524,
+            "address": "112 Omar Lotfy St. / Ebrahemia",
+            "post_office": "Ebrahemia sand",
+            "lat": 31.2155925,
+            "lng": 29.9283258
+        },
+        {
+            "postal_code": 21525,
+            "address": "Omar Lotfy / Door East St.",
+            "post_office": "Camp Caesar",
+            "lat": 31.20693039999999,
+            "lng": 29.9121533
+        },
+        {
+            "postal_code": 21526,
+            "address": "100 St. Alexander the Great / door east",
+            "post_office": "Shatby",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21527,
+            "address": "St. station market / sand",
+            "post_office": "Backus",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21528,
+            "address": "Mohammad Karim / Montazah St.",
+            "post_office": "Manshiya park",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21529,
+            "address": "431 Liberty Road / Sidi Gaber",
+            "post_office": "Rushdie",
+            "lat": 31.22133479999999,
+            "lng": 29.9379151
+        },
+        {
+            "postal_code": 21531,
+            "address": "Coast Guard / Bolkly / building Sidi Gaber",
+            "post_office": "Bolkly",
+            "lat": 31.22133479999999,
+            "lng": 29.9379151
+        },
+        {
+            "postal_code": 21532,
+            "address": "210 Abdel Salam Aref sand u",
+            "post_office": "San Stefano",
+            "lat": 31.2487699,
+            "lng": 29.97030449999999
+        },
+        {
+            "postal_code": 21533,
+            "address": "U beautiful Abu Harid / swords / park",
+            "post_office": "Inspection Swords",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21534,
+            "address": "Customs Administration Building / Minaoualascndria",
+            "post_office": "Customs Escandriaalmax",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21535,
+            "address": "Tram Max / exotic rotation",
+            "post_office": "Max",
+            "lat": 31.1637832,
+            "lng": 29.862915
+        },
+        {
+            "postal_code": 21536,
+            "address": "The customs office building / port",
+            "post_office": "Marine passenger terminal port",
+            "lat": 31.1757919,
+            "lng": 29.8622164
+        },
+        {
+            "postal_code": 21537,
+            "address": "Bosta / u Alkhalh",
+            "post_office": "Exotic",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21538,
+            "address": "St. Arabian swords / Montazah",
+            "post_office": "Housing Industrial swords",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 21539,
+            "address": "U Institute religious Aasafira / Montazah",
+            "post_office": "Aasafira Montazah",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 21541,
+            "address": "K 38 Cairo-Alexandria Desert Road",
+            "post_office": "Alexandria area recruiting",
+            "lat": 30.0716252,
+            "lng": 30.937103
+        },
+        {
+            "postal_code": 21542,
+            "address": "Saad Zaghloul St. building Central",
+            "post_office": "Provide Alexandria area",
+            "lat": 31.1991059,
+            "lng": 29.8989171
+        },
+        {
+            "postal_code": 21543,
+            "address": "University City building",
+            "post_office": "Students City _ Alexandria",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21544,
+            "address": "College building through the navigation / Almentz 5",
+            "post_office": "Alexandria Faculty of Engineering",
+            "lat": 31.207812,
+            "lng": 29.9115386
+        },
+        {
+            "postal_code": 21545,
+            "address": "College building through the navigation / Almentz 5",
+            "post_office": "College of Agriculture Alexandria",
+            "lat": 31.207812,
+            "lng": 29.9115386
+        },
+        {
+            "postal_code": 21546,
+            "address": "College building through the navigation / Almentz 5",
+            "post_office": "Faculty of Islamic Studies Girls",
+            "lat": 31.207812,
+            "lng": 29.9115386
+        },
+        {
+            "postal_code": 21547,
+            "address": "Muharram your",
+            "post_office": "Muharram your second",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21548,
+            "address": "Alexandria Governorate building",
+            "post_office": "Cabinet of Alexandria Governorate",
+            "lat": 30.8760568,
+            "lng": 29.742604
+        },
+        {
+            "postal_code": 21549,
+            "address": "23 El Kamel Mustafa Bolekh",
+            "post_office": "Judges Club",
+            "lat": 31.2290394,
+            "lng": 29.9637314
+        },
+        {
+            "postal_code": 21551,
+            "address": "Public housing Kabbari / Mina onions",
+            "post_office": "Kabbari",
+            "lat": 31.1754447,
+            "lng": 29.8773162
+        },
+        {
+            "postal_code": 21552,
+            "address": "Housing Aashobeih Mina onions",
+            "post_office": "Mina onions",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21553,
+            "address": "209 Max u / Mina onions",
+            "post_office": "Wardian",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21556,
+            "address": "El Sayed Mohammad Karim / customs",
+            "post_office": "Anfoushi",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21557,
+            "address": "Ambrozo / public housing / Muharram your",
+            "post_office": "Ombrozr",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21558,
+            "address": "50 El Sultan Mosque / symbols",
+            "post_office": "Sultan Mosque",
+            "lat": 31.2240703,
+            "lng": 29.934755
+        },
+        {
+            "postal_code": 21559,
+            "address": "U to open next to the tram / ??sand",
+            "post_office": "Door Sidra",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21561,
+            "address": "215 Liberty / Middle Gate Road",
+            "post_office": "Hadra sea",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21562,
+            "address": "Hassan Tawfiq / Manshiya",
+            "post_office": "Field Manshiya",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21563,
+            "address": "Highest tunnel Raml Station",
+            "post_office": "Raml Station",
+            "lat": 31.2013546,
+            "lng": 29.9010136
+        },
+        {
+            "postal_code": 21564,
+            "address": "68 El alder tree / symbols",
+            "post_office": "Gheit grapes",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21565,
+            "address": "129 Gheit Grape St. Alban / symbols",
+            "post_office": "Gheit grapes sub",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21566,
+            "address": "Ibrahim Pasha St. Pompey's Pillar / symbols",
+            "post_office": "Icons",
+            "lat": 31.1849094,
+            "lng": 29.8992082
+        },
+        {
+            "postal_code": 21567,
+            "address": "U beautiful Abu Harid / Montazah",
+            "post_office": "Sieve",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 21569,
+            "address": "89 Ragheb Pasha u / Muharram your",
+            "post_office": "Ragheb Pasha",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21571,
+            "address": "/ Montazah railway station building",
+            "post_office": "Nukrashi",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 21572,
+            "address": "Public housing / com Alhqavp",
+            "post_office": "Com Alhqavp",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21573,
+            "address": "Maintaining housing Kabbari / Montazah",
+            "post_office": "Housing Industrial _ Kabbari",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21574,
+            "address": "St. Barricade Block 8",
+            "post_office": "Barricade",
+            "lat": 31.2332303,
+            "lng": 29.9718673
+        },
+        {
+            "postal_code": 21575,
+            "address": "Hannoville",
+            "post_office": "Hannoville",
+            "lat": 31.1982191,
+            "lng": 29.9565028
+        },
+        {
+            "postal_code": 21576,
+            "address": "Imam Citadel",
+            "post_office": "E Egyptian club",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21581,
+            "address": "Farm houses Hadra / door east Prison",
+            "post_office": "Hadra second",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21611,
+            "address": "Khalid Bin Walid St. / Aalmentzh",
+            "post_office": "Sidi Bishr",
+            "lat": 31.2613209,
+            "lng": 29.983861
+        },
+        {
+            "postal_code": 21612,
+            "address": "Central Building Sidi Gaber",
+            "post_office": "Central Sidi Gaber",
+            "lat": 31.22133479999999,
+            "lng": 29.9379151
+        },
+        {
+            "postal_code": 21613,
+            "address": "St. Sidi Bishr tram station / Montazah",
+            "post_office": "Serail",
+            "lat": 31.2525499,
+            "lng": 29.9763505
+        },
+        {
+            "postal_code": 21616,
+            "address": "St. station market / sand",
+            "post_office": "Backus sub",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21617,
+            "address": "21 See Port Said Jaber St.",
+            "post_office": "Sporting",
+            "lat": 31.2652893,
+            "lng": 32.3018661
+        },
+        {
+            "postal_code": 21618,
+            "address": "Seif Yazal u / Cleopatra",
+            "post_office": "Cleoa Patra pools",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21619,
+            "address": "63 Abdel Salam Aref St. / sand",
+            "post_office": "Oppressed",
+            "lat": 31.2371567,
+            "lng": 29.9581312
+        },
+        {
+            "postal_code": 21621,
+            "address": "Mustafa Kamel Gabriel / sand u",
+            "post_office": "Manor born",
+            "lat": 31.2104736,
+            "lng": 29.9437387
+        },
+        {
+            "postal_code": 21622,
+            "address": "Ahmed Abu Soliman St.",
+            "post_office": "Mahrosa",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21624,
+            "address": "Railway station Sidi Bishr / Montazah",
+            "post_office": "Sidi Bishr station",
+            "lat": 31.2573288,
+            "lng": 29.9945747
+        },
+        {
+            "postal_code": 21627,
+            "address": "Sidi Bishr tram / ??Park station",
+            "post_office": "Bear Massoud",
+            "lat": 31.2525499,
+            "lng": 29.9763505
+        },
+        {
+            "postal_code": 21628,
+            "address": "Malak Hanafi / Derbala / sand",
+            "post_office": "Derbala housing",
+            "lat": 31.2415193,
+            "lng": 29.97000229999999
+        },
+        {
+            "postal_code": 21629,
+            "address": "City of Peace head Alsoade / Montazah",
+            "post_office": "Black head",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 21631,
+            "address": "Club / Sidi Gaber building",
+            "post_office": "Sporting Club",
+            "lat": 31.22133479999999,
+            "lng": 29.9379151
+        },
+        {
+            "postal_code": 21632,
+            "address": "El Farouk front of ways Zgao",
+            "post_office": "Manshyet scientists",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21633,
+            "address": "U Channel / tribal land / customs",
+            "post_office": "Manor fishermen",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21634,
+            "address": "Populated city building city Faisal",
+            "post_office": "Faisal City",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21635,
+            "address": "Muharram passage of your administration",
+            "post_office": "Muharram your passage",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21636,
+            "address": "Police navigation / Montazah",
+            "post_office": "??? 10",
+            "lat": 31.2636811,
+            "lng": 30.0278365
+        },
+        {
+            "postal_code": 21637,
+            "address": "Manor Saclam / Montazah",
+            "post_office": "Saclam",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 21638,
+            "address": "Behind Alexandria Pharmaceuticals / Montazah",
+            "post_office": "Manor Sea",
+            "lat": 31.2204389,
+            "lng": 29.9942214
+        },
+        {
+            "postal_code": 21639,
+            "address": "Manor Alzawadh Khurshid / Montazah",
+            "post_office": "Alzawadh",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 21641,
+            "address": "Security Directorate / Smouha building",
+            "post_office": "Security Directorate",
+            "lat": 31.2155235,
+            "lng": 29.9420061
+        },
+        {
+            "postal_code": 21642,
+            "address": "The clubhouse",
+            "post_office": "Horse owners club",
+            "lat": 30.9819707,
+            "lng": 29.6777914
+        },
+        {
+            "postal_code": 21643,
+            "address": "Inside the clubhouse",
+            "post_office": "Acacia Club",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21644,
+            "address": "Kilo housing 21",
+            "post_office": "Kilo housing 21",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21648,
+            "address": "Manpower Building 29",
+            "post_office": "Smouha",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21913,
+            "address": "Abu Qir railway station building",
+            "post_office": "Abu Qir",
+            "lat": 31.3114241,
+            "lng": 30.0603342
+        },
+        {
+            "postal_code": 21914,
+            "address": "25 Omar Mukhtar u / sand",
+            "post_office": "Omar Mukhtar Akassay",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21915,
+            "address": "Beach / Montazah building",
+            "post_office": "Go globe",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 21918,
+            "address": "137 Stone St., the nuclear / sand",
+            "post_office": "Stone the nuclear",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21919,
+            "address": "Railway building / Montazah",
+            "post_office": "Montazah",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 21922,
+            "address": "Manor Khurshid / Montazah",
+            "post_office": "Manor Khurshid",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 21923,
+            "address": "Malak Hanafi / Montazah",
+            "post_office": "Mandara",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21924,
+            "address": "1 Isaac Rushdie u / sand",
+            "post_office": "Sahaba Mosque",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21925,
+            "address": "Eighth village APIs / sand",
+            "post_office": "Eighth village _ APIs",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21926,
+            "address": "Public housing Gheit grapes / symbols",
+            "post_office": "Lafrahdh",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21927,
+            "address": "Portland Cement / exotic Company",
+            "post_office": "Moon Valley",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21928,
+            "address": "Teacher housing Bitash / exotic",
+            "post_office": "Ajami Bitash",
+            "lat": 31.1855725,
+            "lng": 29.8813951
+        },
+        {
+            "postal_code": 21929,
+            "address": "Angle Sidi Abdel Kader / Alexandria",
+            "post_office": "Sidi Abdel Kader",
+            "lat": 31.2241108,
+            "lng": 29.9548859
+        },
+        {
+            "postal_code": 21934,
+            "address": "Borg El Arab / behind your city",
+            "post_office": "New Borg El Arab",
+            "lat": 30.9150146,
+            "lng": 29.5455699
+        },
+        {
+            "postal_code": 21935,
+            "address": "Joyful Village / Alex.",
+            "post_office": "Unstressed",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21936,
+            "address": "City Burj Al Arab / Alexandria",
+            "post_office": "Central Burj Al Arab",
+            "lat": 30.9010214,
+            "lng": 29.5516077
+        },
+        {
+            "postal_code": 21939,
+            "address": "First APIs / sand village",
+            "post_office": "The first village APIs",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21941,
+            "address": "Mohsen manor Awayed / Montazah",
+            "post_office": "Mohsen manor",
+            "lat": 31.218584,
+            "lng": 29.9939045
+        },
+        {
+            "postal_code": 21942,
+            "address": "Village Mustafa Ismail / Alexandria",
+            "post_office": "Mustafa Ismail",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21943,
+            "address": "Fourth village APIs / Muharram your",
+            "post_office": "Fourth village APIs",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21944,
+            "address": "Occasions House / Village tenth building",
+            "post_office": "Village tenth APIs",
+            "lat": 31.1886698,
+            "lng": 30.0158688
+        },
+        {
+            "postal_code": 21945,
+            "address": "Montazah",
+            "post_office": "Migrants",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 21946,
+            "address": "Montazah",
+            "post_office": "Maraghy",
+            "lat": 31.2884954,
+            "lng": 30.01596919999999
+        },
+        {
+            "postal_code": 23511,
+            "address": "Ameria / Alex.",
+            "post_office": "Ameria Alexandria",
+            "lat": 31.2290504,
+            "lng": 29.9549747
+        },
+        {
+            "postal_code": 23512,
+            "address": "General Investment Authority building",
+            "post_office": "Investment Authority Free Zone",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 23611,
+            "address": "K 41.5 North Coast",
+            "post_office": "Sunrise Village",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 23623,
+            "address": "El Fath",
+            "post_office": "Manhood",
+            "lat": 31.2349282,
+            "lng": 29.9652857
+        },
+        {
+            "postal_code": 23641,
+            "address": "Village Renaissance Ameria",
+            "post_office": "Renaissance",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 23642,
+            "address": "Mubarak Ameria Alexandria housing",
+            "post_office": "Housing Mubarak",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 23711,
+            "address": "Palestine / Alexandria Village",
+            "post_office": "Palestine village",
+            "lat": 31.2862694,
+            "lng": 30.0188381
+        },
+        {
+            "postal_code": 23715,
+            "address": "Abu silos Center",
+            "post_office": "Freedom Mail",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 23718,
+            "address": "Project graduates Ameria",
+            "post_office": "Port Mariout",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 23722,
+            "address": "Modern marriage Ameria / Alexandria housing",
+            "post_office": "Merghem",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 23725,
+            "address": "Village pride - Ameria",
+            "post_office": "Glory",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 23726,
+            "address": "Burj El Arab",
+            "post_office": "Ahmed Orabi",
+            "lat": 30.9010214,
+            "lng": 29.5516077
+        },
+        {
+            "postal_code": 78945,
+            "address": "Kafr El Dawar",
+            "post_office": "Qhobanah to Oukan",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 23724,
+            "address": "Mubarak (office closed)",
+            "post_office": "Mubarak (office closed)",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21623,
+            "address": "Inside Airport / Airport Building (Closed 18/12/2010)",
+            "post_office": "Airport (closed)",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 21647,
+            "address": "Manpower Building / Semouha (Closed on 1/11/2010)",
+            "post_office": "Semouha Complex for Pensions - Closed",
+            "lat": 31.2155235,
+            "lng": 29.9420061
+        },
+        {
+            "postal_code": 21947,
+            "address": "Old School St. Beside El Khair Mosque - Khorshid El Bahareya",
+            "post_office": "Khurshid Marine Association",
+            "lat": 31.1981571,
+            "lng": 29.8828763
+        },
+        {
+            "postal_code": 21656,
+            "address": "Teachers Beach Club next to the Stanley Bridge",
+            "post_office": "Teachers Beach Club",
+            "lat": 31.2314529,
+            "lng": 29.944227
+        }
+    ]
+}

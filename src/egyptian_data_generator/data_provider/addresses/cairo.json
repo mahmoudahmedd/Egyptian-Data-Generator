@@ -1,0 +1,1747 @@
+{
+    "cairo": [
+        {
+            "postal_code": 11511,
+            "address": "Ataba Square / 1 Abdel Khalek Tharwat St. field",
+            "post_office": "Cairos main",
+            "lat": 30.0497658,
+            "lng": 31.2490893
+        },
+        {
+            "postal_code": 11512,
+            "address": "Liberation complex / Tahrir Square Building",
+            "post_office": "Liberation complex",
+            "lat": 30.0444145,
+            "lng": 31.2356996
+        },
+        {
+            "postal_code": 11513,
+            "address": "21 El floral / Bab El Louk / astronomer field",
+            "post_office": "Bab El Louk",
+            "lat": 30.0416135,
+            "lng": 31.2394683
+        },
+        {
+            "postal_code": 11514,
+            "address": "Ministry of Works building / editing",
+            "post_office": "Ministries",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11515,
+            "address": "Television / Nile Corniche building",
+            "post_office": "Television",
+            "lat": 30.0535932,
+            "lng": 31.230979
+        },
+        {
+            "postal_code": 11516,
+            "address": "Council u people",
+            "post_office": "Parliament",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11517,
+            "address": "5 El Salim Abdo Abdo field Abbasid Pasha",
+            "post_office": "Abbasid",
+            "lat": 30.0500596,
+            "lng": 31.2462125
+        },
+        {
+            "postal_code": 11518,
+            "address": "1 Mohamed Farid Street / Cairo",
+            "post_office": "Mohamed Farid",
+            "lat": 30.037155,
+            "lng": 31.2435223
+        },
+        {
+            "postal_code": 11519,
+            "address": "City Liberation complex building",
+            "post_office": "Garden",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11521,
+            "address": "Nubar / field Lazoghli St.",
+            "post_office": "Divans",
+            "lat": 30.0405956,
+            "lng": 31.2332132
+        },
+        {
+            "postal_code": 11522,
+            "address": "57 Ramses Street / Azbakia",
+            "post_office": "Ramses",
+            "lat": 30.0599026,
+            "lng": 31.2442018
+        },
+        {
+            "postal_code": 11523,
+            "address": "11 SE St. Balvjalh / Uzbek",
+            "post_office": "Faggala",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11524,
+            "address": "The Ministry of Education Building",
+            "post_office": "Ministry of Education",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11527,
+            "address": "Inside the Republican Palace / Gardens dome",
+            "post_office": "Republican Palace dome",
+            "lat": 30.0857912,
+            "lng": 31.2783728
+        },
+        {
+            "postal_code": 11528,
+            "address": "Tenth district 14 El Mahdy Arafh- Tower seedbed",
+            "post_office": "Tenth District",
+            "lat": 30.0827039,
+            "lng": 31.24946929999999
+        },
+        {
+            "postal_code": 11529,
+            "address": "Cairo Traffic Administration Building / threshold",
+            "post_office": "Cairo traffic",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11531,
+            "address": "Foreign / Maspero / Bulaq Ministry building",
+            "post_office": "Ministry of Foreign Affairs",
+            "lat": 30.0535932,
+            "lng": 31.230979
+        },
+        {
+            "postal_code": 11534,
+            "address": "5 Adly Street / Ministry of Tourism / Uzbek",
+            "post_office": "Ministry of Tourism",
+            "lat": 30.072292,
+            "lng": 31.2852771
+        },
+        {
+            "postal_code": 11535,
+            "address": "2 El chateaux Abdu Pasha Square",
+            "post_office": "_ Second Abbasid",
+            "lat": 30.0647701,
+            "lng": 31.2747847
+        },
+        {
+            "postal_code": 11536,
+            "address": "Ahmed Maher Square island Cairo",
+            "post_office": "Cairo Sporting Club",
+            "lat": 30.0434136,
+            "lng": 31.2552292
+        },
+        {
+            "postal_code": 11538,
+            "address": "Abbasid Square , north of Cairo courthouse primary",
+            "post_office": "North Cairo Court of First Instance of the Abbasid",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11539,
+            "address": "137 Ramsis St. / Abbasid at the headquarters of the Islamic Unity Society",
+            "post_office": "Third Abbasid",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11541,
+            "address": "Ataba / post office building",
+            "post_office": "Cairos main parcels",
+            "lat": 30.0497658,
+            "lng": 31.2490893
+        },
+        {
+            "postal_code": 11549,
+            "address": "St. workshops telephone / Land way Shubra",
+            "post_office": "Land way",
+            "lat": 30.085551,
+            "lng": 31.2453488
+        },
+        {
+            "postal_code": 11555,
+            "address": "115 Abdul Aziz Al Saud u / Manial",
+            "post_office": "Roda West",
+            "lat": 30.0213609,
+            "lng": 31.2268647
+        },
+        {
+            "postal_code": 11556,
+            "address": "Egyptian Museum / Tahrir Square Building",
+            "post_office": "The Egyptian Museum",
+            "lat": 30.0444145,
+            "lng": 31.2356996
+        },
+        {
+            "postal_code": 11559,
+            "address": "8 El Siala K / Manial",
+            "post_office": "King of Good",
+            "lat": 30.0213609,
+            "lng": 31.2268647
+        },
+        {
+            "postal_code": 11561,
+            "address": "Brazil 3 u / Zamalek",
+            "post_office": "Zamalek",
+            "lat": 30.0603759,
+            "lng": 31.2223466
+        },
+        {
+            "postal_code": 11562,
+            "address": "71 El Kasr El Aini",
+            "post_office": "Qasr al Aini",
+            "lat": 30.032074,
+            "lng": 31.2330084
+        },
+        {
+            "postal_code": 11563,
+            "address": "70 apparent Street",
+            "post_office": "Apparent",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11564,
+            "address": "Courts Complex evacuation / Uzbek Street building",
+            "post_office": "Uzbek court complex",
+            "lat": 30.0635789,
+            "lng": 31.2502661
+        },
+        {
+            "postal_code": 11566,
+            "address": "Inside Ain Shams University building",
+            "post_office": "Ain Shams University",
+            "lat": 30.0770172,
+            "lng": 31.285107
+        },
+        {
+            "postal_code": 11567,
+            "address": "Tower / Alhuzeirh / Nile Palace building",
+            "post_office": "Cairo Tower",
+            "lat": 30.045915,
+            "lng": 31.2242898
+        },
+        {
+            "postal_code": 11568,
+            "address": "3 alder tree El Zamalek",
+            "post_office": "Zamalek island _",
+            "lat": 30.0609422,
+            "lng": 31.219709
+        },
+        {
+            "postal_code": 11571,
+            "address": "Fountain / Mokattam City Square",
+            "post_office": "Mokattam City",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11574,
+            "address": "1 Alfy Street / Downtown Cairo",
+            "post_office": "Provide Alfy",
+            "lat": 30.0467142,
+            "lng": 31.2347129
+        },
+        {
+            "postal_code": 11575,
+            "address": "26 El bracket Tunisian map",
+            "post_office": "Tunisian",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11576,
+            "address": "Agha Khan / Shubra Buildings",
+            "post_office": "Sales Tax",
+            "lat": 30.0386569,
+            "lng": 31.2611724
+        },
+        {
+            "postal_code": 11577,
+            "address": "39 Ismail astronomer / apparent",
+            "post_office": "Qubaisi",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11581,
+            "address": "176 El Imam Shafi'i / Caliph",
+            "post_office": "Imam Shafi i",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11582,
+            "address": "El Kasr El Aini building Presidency of the Council of Ministers",
+            "post_office": "Presidency of the Council of Ministers",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11584,
+            "address": "8 Adly / Cairo Street / Ministry building",
+            "post_office": "Ministry of International Cooperation",
+            "lat": 30.0510489,
+            "lng": 31.2455814
+        },
+        {
+            "postal_code": 11585,
+            "address": "Atlas Block 9 housing m / 1 Flat 1 Mokattam",
+            "post_office": "Central Plateau",
+            "lat": 30.0159145,
+            "lng": 31.2810843
+        },
+        {
+            "postal_code": 11586,
+            "address": "Administrative Control building Elgolf Nasr City",
+            "post_office": "Administrative oversight body",
+            "lat": 30.0761234,
+            "lng": 31.3405176
+        },
+        {
+            "postal_code": 11588,
+            "address": "Hospital / El Khalifa safe building",
+            "post_office": "Ain Shams Specialized Hospital",
+            "lat": 30.074665,
+            "lng": 31.2316545
+        },
+        {
+            "postal_code": 11591,
+            "address": "Faculty of Medicine , Ain Shams / Abbasid",
+            "post_office": "Faculty of Medicine Ain Shams",
+            "lat": 30.075995,
+            "lng": 31.2811135
+        },
+        {
+            "postal_code": 11592,
+            "address": "Inside the new airport building in Cairo / Nozha",
+            "post_office": "Cairo Airport second closed temporarily",
+            "lat": 30.1128268,
+            "lng": 31.3997904
+        },
+        {
+            "postal_code": 11595,
+            "address": "59 Quba / Quba Mosque City St.",
+            "post_office": "Quba",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11599,
+            "address": "National Postal Authority threshold / Office of building a building year",
+            "post_office": "Philatelic Service",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11611,
+            "address": "74 July 26 Cairo / u Bulaq -This office is closed",
+            "post_office": "Bulaq",
+            "lat": 30.0285779,
+            "lng": 31.2201687
+        },
+        {
+            "postal_code": 11613,
+            "address": "El Sheikh Rihan / Abdeen",
+            "post_office": "Abdeen",
+            "lat": 30.0411091,
+            "lng": 31.2420394
+        },
+        {
+            "postal_code": 11614,
+            "address": "268 Shubra / Department coast u",
+            "post_office": "Khalafawy",
+            "lat": 30.1006367,
+            "lng": 31.2449756
+        },
+        {
+            "postal_code": 11617,
+            "address": "194 Port Said St. Zaynab",
+            "post_office": "Sayeda Zeinab",
+            "lat": 30.0346411,
+            "lng": 31.2466029
+        },
+        {
+            "postal_code": 11618,
+            "address": "2 alley refused to stay / Aisha",
+            "post_office": "Aisha",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11619,
+            "address": "48 Island St. Badran / Shubra / Farag",
+            "post_office": "Badran Island",
+            "lat": 30.0733129,
+            "lng": 31.2396963
+        },
+        {
+            "postal_code": 11621,
+            "address": "4 u al-Kharanfash aesthetic",
+            "post_office": "Al Kharanfash",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11622,
+            "address": "317 Port Said St. / Sayeda Zeinab",
+            "post_office": "Trail Aljmames",
+            "lat": 30.0363004,
+            "lng": 31.2483811
+        },
+        {
+            "postal_code": 11624,
+            "address": "6 El Abbas School / Adventist / Bulaq",
+            "post_office": "Adventist",
+            "lat": 30.064715,
+            "lng": 31.2359212
+        },
+        {
+            "postal_code": 11627,
+            "address": "3 best field / u canal Boulaqeya",
+            "post_office": "The best",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11628,
+            "address": "St. Ibrahim Pasha / Abu Rish field",
+            "post_office": "Zine El Abidine",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11632,
+            "address": "U section next to the old section Egypt",
+            "post_office": "Ancient Egypt",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11633,
+            "address": "9 El Mansuriya study / aesthetic",
+            "post_office": "The study",
+            "lat": 30.0477236,
+            "lng": 31.26788
+        },
+        {
+            "postal_code": 11634,
+            "address": "60 El public orchards",
+            "post_office": "Orchards",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11636,
+            "address": "Salahuddin field / Citadel",
+            "post_office": "Castle",
+            "lat": 30.0292619,
+            "lng": 31.2599698
+        },
+        {
+            "postal_code": 11637,
+            "address": "3 Mohamed El Hawary / Shoubra St.",
+            "post_office": "Shubra sub",
+            "lat": 30.0877196,
+            "lng": 31.2452298
+        },
+        {
+            "postal_code": 11638,
+            "address": "4 Hassan El biggest / door Creation",
+            "post_office": "Door Creation",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11639,
+            "address": "4 Sultan Sahib Balgoria u / Darb al-Ahmar",
+            "post_office": "Abyssal",
+            "lat": 30.0400095,
+            "lng": 31.2597753
+        },
+        {
+            "postal_code": 11642,
+            "address": "Saving Balazpkah building",
+            "post_office": "Saving Balazpkah building",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11643,
+            "address": "15 Attar Street / El canal in Shubra",
+            "post_office": "Attar",
+            "lat": 30.0709154,
+            "lng": 31.2488179
+        },
+        {
+            "postal_code": 11644,
+            "address": "St. Mansuriya    ",
+            "post_office": "Palaces Shawwam",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11646,
+            "address": "133 St. Egypt and Sudan",
+            "post_office": "Gardens dome",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11647,
+            "address": "El Hussein Hijazi / Sayeda Zeinab",
+            "post_office": "IRS",
+            "lat": 30.02694919999999,
+            "lng": 31.2416655
+        },
+        {
+            "postal_code": 11648,
+            "address": "St. Almellk good / Shubra Egypt 9",
+            "post_office": "Gardens Shubra sub",
+            "lat": 30.0812571,
+            "lng": 31.245303
+        },
+        {
+            "postal_code": 11651,
+            "address": "Inside Al-Azhar University / study / aesthetic",
+            "post_office": "Al Azhar University",
+            "lat": 30.0592755,
+            "lng": 31.3130703
+        },
+        {
+            "postal_code": 11652,
+            "address": "Ahmad Badawi / Shoubra St.",
+            "post_office": "Ahmad Badawi",
+            "lat": 30.0680201,
+            "lng": 31.2491851
+        },
+        {
+            "postal_code": 11653,
+            "address": "3 Abdel Moneim Hamza / u Sharabia",
+            "post_office": "Marginalized",
+            "lat": 30.0427255,
+            "lng": 31.2453557
+        },
+        {
+            "postal_code": 11654,
+            "address": "Public housing into the stall",
+            "post_office": "Ain El Sira",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11655,
+            "address": "25 Mourad St. / New papilla",
+            "post_office": "New papillary",
+            "lat": 30.0652115,
+            "lng": 31.2583239
+        },
+        {
+            "postal_code": 11656,
+            "address": "Public housing Baltrah Block 96 / Shubra",
+            "post_office": "Public housing Baltrah",
+            "lat": 30.0896581,
+            "lng": 31.2451519
+        },
+        {
+            "postal_code": 11657,
+            "address": "41 Egypt and Sudan u / monastery gardens angel dome",
+            "post_office": "Deir angel",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11658,
+            "address": "38 El Gulf Egyptian / Big Waly Gardens dome",
+            "post_office": "Great Waly",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11659,
+            "address": "Old red corner housing",
+            "post_office": "Red corner",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11661,
+            "address": "57 Ibn Rasheed / Farag",
+            "post_office": "Ibn Rasheed",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11663,
+            "address": "198 Canal St., Mountain / Gardens dome",
+            "post_office": "Manshyet chest",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11664,
+            "address": "Huda mosque, Islam / u sewage Bazbp quintet building",
+            "post_office": "Manor Alkhmaysh",
+            "lat": 30.045688,
+            "lng": 31.2626851
+        },
+        {
+            "postal_code": 11665,
+            "address": "5 compassion manor Bilal Mustafa Sharabia",
+            "post_office": "Bilal manor",
+            "lat": 30.0682119,
+            "lng": 31.2589915
+        },
+        {
+            "postal_code": 11666,
+            "address": "The impact of the Prophet / u ancient Egypt",
+            "post_office": "Grain Coast",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11667,
+            "address": "133 Canal Badran / Farag Island St.",
+            "post_office": "Vegetable market",
+            "lat": 30.0733129,
+            "lng": 31.2396963
+        },
+        {
+            "postal_code": 11668,
+            "address": "31 El Bab Al Bahr / door poetic",
+            "post_office": "Bab Al Bahr",
+            "lat": 30.0591144,
+            "lng": 31.2483617
+        },
+        {
+            "postal_code": 11669,
+            "address": "Movement Center Ramses building",
+            "post_office": "Azbakia",
+            "lat": 30.0661095,
+            "lng": 31.2589096
+        },
+        {
+            "postal_code": 11671,
+            "address": "Ideal Block 90 / Land Company housing",
+            "post_office": "Ideal homes",
+            "lat": 30.0547966,
+            "lng": 31.2914763
+        },
+        {
+            "postal_code": 11672,
+            "address": "81 Shubra Street",
+            "post_office": "Shubra Egypt",
+            "lat": 30.071627,
+            "lng": 31.2452662
+        },
+        {
+            "postal_code": 11673,
+            "address": "Bgmrh Block E 7 housing inlet 1",
+            "post_office": "E Bgmrh housing",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11674,
+            "address": "4 u field apparent",
+            "post_office": "Amid",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11675,
+            "address": "123 Al-Azhar u / aesthetic department",
+            "post_office": "Azhar",
+            "lat": 30.0461262,
+            "lng": 31.2610718
+        },
+        {
+            "postal_code": 11676,
+            "address": "Atlas / corner Block 7 homes",
+            "post_office": "Housing Atlas",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11677,
+            "address": "ew Block 2 oppressed housing / Sharabia",
+            "post_office": "Housing oppressed",
+            "lat": 30.0682119,
+            "lng": 31.2589915
+        },
+        {
+            "postal_code": 11678,
+            "address": "Egypt station building / Ramses Square / Railway",
+            "post_office": "Cairo station",
+            "lat": 30.0632299,
+            "lng": 31.2469369
+        },
+        {
+            "postal_code": 11679,
+            "address": "Abboud field / mosque next to the glory of Islam 17",
+            "post_office": "The glory of Islam",
+            "lat": 30.045688,
+            "lng": 31.2626851
+        },
+        {
+            "postal_code": 11681,
+            "address": "Moez Street to the religion of Allah aesthetic",
+            "post_office": "Muizz Fatimid",
+            "lat": 30.05093059999999,
+            "lng": 31.2615748
+        },
+        {
+            "postal_code": 11682,
+            "address": "City building student at the University of Al-Azhar / District VI",
+            "post_office": "Olympic Village student city",
+            "lat": 30.0592755,
+            "lng": 31.3130703
+        },
+        {
+            "postal_code": 11683,
+            "address": "Block 69 Entrance 1 / City of Light / corner",
+            "post_office": "City of Light",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11684,
+            "address": "Duwaiqa housing / Menashe Nasser",
+            "post_office": "Duwaiqa",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11685,
+            "address": "Abou El Naga / orchards",
+            "post_office": "Orchards west",
+            "lat": 30.192207,
+            "lng": 31.5418084
+        },
+        {
+            "postal_code": 11686,
+            "address": "Block 15 entrance corner 3 red",
+            "post_office": "Haggard",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11688,
+            "address": "Inside northern Cairo colony / corner",
+            "post_office": "Electricity colony north of Cairo",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11689,
+            "address": "16 Mohamed Faramawy / Shubra El / coast",
+            "post_office": "Shubra rotation",
+            "lat": 30.085551,
+            "lng": 31.2453488
+        },
+        {
+            "postal_code": 11691,
+            "address": "Alabagah / castle housing",
+            "post_office": "Alabagah housing",
+            "lat": 30.0241356,
+            "lng": 31.2630232
+        },
+        {
+            "postal_code": 11692,
+            "address": "Gorn Bacharabiah field",
+            "post_office": "Khalid ibn al Walid",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11693,
+            "address": "Al-Ahram El Nasr complex / New Maadi",
+            "post_office": "The commercial market _ Maadi",
+            "lat": 30.0610159,
+            "lng": 31.2651402
+        },
+        {
+            "postal_code": 11694,
+            "address": "El Kasr El Aini peace next to the theater",
+            "post_office": "Academy of Scientific Research",
+            "lat": 30.043747,
+            "lng": 31.229464
+        },
+        {
+            "postal_code": 11695,
+            "address": "Tombs of Shuhada Street Bakaitbay- Menashe Nasser",
+            "post_office": "Qaitbay",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11696,
+            "address": "St. oven Integrated Care Society / Menashe Nasser",
+            "post_office": "Environment Service",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11697,
+            "address": "Coast / Coast Hospital Building",
+            "post_office": "Coast Hospital",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11698,
+            "address": "evacuation   51 July 26 St., inside the evacuation / Uzbek Hospital",
+            "post_office": "Hospital",
+            "lat": 30.0532491,
+            "lng": 31.2395744
+        },
+        {
+            "postal_code": 11699,
+            "address": "Nasser facility Block 3 / public housing",
+            "post_office": "Nasser facility",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11711,
+            "address": "Corniche El Nil Armed Forces Hospital / Maadi building",
+            "post_office": "Armed Forces Hospital in Maadi",
+            "lat": 29.9670832,
+            "lng": 31.2421986
+        },
+        {
+            "postal_code": 11712,
+            "address": "89 Saray El dome / Heliopolis station",
+            "post_office": "Saray dome",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11713,
+            "address": "Corner Abdel Gawad El Palmasrh",
+            "post_office": "Winepress station",
+            "lat": 30.0115133,
+            "lng": 31.2315391
+        },
+        {
+            "postal_code": 11714,
+            "address": "37 El soothes of Matarawy / u rain",
+            "post_office": "Mary Tree",
+            "lat": 30.1235664,
+            "lng": 31.3018883
+        },
+        {
+            "postal_code": 11715,
+            "address": "Block 34 princely houses Entrance 1",
+            "post_office": "People Balomaria housing",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11716,
+            "address": "Fayoum / behind the architectural school in Dar es Salaam u",
+            "post_office": "Dar es Salaam Fayoum",
+            "lat": 29.9807672,
+            "lng": 31.2498578
+        },
+        {
+            "postal_code": 11717,
+            "address": "District VI in front of Mercy Mosque NCO housing",
+            "post_office": "NCO housing",
+            "lat": 30.0542063,
+            "lng": 31.2903123
+        },
+        {
+            "postal_code": 11718,
+            "address": "Papillary 178 u Museum rain / papillary olive housing",
+            "post_office": "People Balhelmih housing",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11719,
+            "address": "U cables next rain Block District 43",
+            "post_office": "Central rain",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11721,
+            "address": "Mohamed Ibrahim St. / next Bakly / Prairie mosque",
+            "post_office": "Marg first",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11722,
+            "address": "33 Mohamed Sayed Ahmed u / Helwan",
+            "post_office": "Helwan pools",
+            "lat": 29.8473613,
+            "lng": 31.3301091
+        },
+        {
+            "postal_code": 11723,
+            "address": "Navy Homestead Rd. 18 / Helwan",
+            "post_office": "Aezzptin",
+            "lat": 30.0339634,
+            "lng": 31.2372811
+        },
+        {
+            "postal_code": 11724,
+            "address": "17 El perfect / papillary Olive",
+            "post_office": "Papillary Olive",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11725,
+            "address": "Olive Gardens in front of Metro Station",
+            "post_office": "Olive Gardens",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11726,
+            "address": "Within 99 military factory in Helwan",
+            "post_office": "Ordnance Factories in Helwan",
+            "lat": 29.8402707,
+            "lng": 31.29821209999999
+        },
+        {
+            "postal_code": 11727,
+            "address": "Building 69 houses Osman / Nasr City",
+            "post_office": "Seventh Quarter",
+            "lat": 30.051085,
+            "lng": 31.3655989
+        },
+        {
+            "postal_code": 11728,
+            "address": "9 St. Maadi",
+            "post_office": "Maadi",
+            "lat": 29.9664543,
+            "lng": 31.2543589
+        },
+        {
+            "postal_code": 11729,
+            "address": "Tora Metro Station Building Country",
+            "post_office": "Tora",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11731,
+            "address": "Bosta / Helwan St.",
+            "post_office": "Helwan",
+            "lat": 30.0292064,
+            "lng": 31.2350732
+        },
+        {
+            "postal_code": 11732,
+            "address": "West Helwan / Manshiet Nasser",
+            "post_office": "Manshyet Nasser_hadda\u00c3\u00baq Helwan",
+            "lat": 30.0292064,
+            "lng": 31.2350732
+        },
+        {
+            "postal_code": 11733,
+            "address": "Zahraa Helwan / Valley Hof / Commercial Market",
+            "post_office": "Zahraa Helwan",
+            "lat": 29.8580692,
+            "lng": 31.3270504
+        },
+        {
+            "postal_code": 11734,
+            "address": "No. 30 first Mansheyet Liberation of Suez Bridge Street",
+            "post_office": "East Olive",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11735,
+            "address": "St. Lazoughly intersection Ryle Street",
+            "post_office": "Western Helwan",
+            "lat": 30.0391332,
+            "lng": 31.2403392
+        },
+        {
+            "postal_code": 11736,
+            "address": "St. Intersection Arabism with the promenade in front of the evacuation / Heliopolis Club",
+            "post_office": "Heliopolis freedom",
+            "lat": 30.0883155,
+            "lng": 31.3164398
+        },
+        {
+            "postal_code": 11737,
+            "address": "Damascus 48 u / Heliopolis",
+            "post_office": "Heliopolis sea",
+            "lat": 30.0953,
+            "lng": 31.32422
+        },
+        {
+            "postal_code": 11738,
+            "address": "Republic Street / pond Haj / turf",
+            "post_office": "Pond Haj",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11739,
+            "address": "Aviation / Helwan city housing",
+            "post_office": "Aviation City housing",
+            "lat": 29.8402707,
+            "lng": 31.29821209999999
+        },
+        {
+            "postal_code": 11741,
+            "address": "East Helwan housing Cairo",
+            "post_office": "Housing Industrial Helwan",
+            "lat": 30.0292064,
+            "lng": 31.2350732
+        },
+        {
+            "postal_code": 11744,
+            "address": "Neighboring 7 Phase I /",
+            "post_office": "Fifteen May second",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11747,
+            "address": "6 adjacent the first phase / May 15",
+            "post_office": "Khmshashrmayo Ol_ Sadat",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11748,
+            "address": "5 adjacent the first phase /",
+            "post_office": "Fifteen May third",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11749,
+            "address": "City craftsmen Helwan / Helwan",
+            "post_office": "Homestead tribal",
+            "lat": 29.8402707,
+            "lng": 31.29821209999999
+        },
+        {
+            "postal_code": 11751,
+            "address": "Faculty of Al-Azhar University City / m second victory",
+            "post_office": "Olympic Village",
+            "lat": 30.0592755,
+            "lng": 31.3130703
+        },
+        {
+            "postal_code": 11753,
+            "address": "U beyond the rain in front of the subway station",
+            "post_office": "Rain metro station",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11756,
+            "address": "Ibrahim Khalil Trolly / u rain",
+            "post_office": "Cooperation rain",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11757,
+            "address": "/ U Korba 3 Posta / Heliopolis",
+            "post_office": "Heliopolis",
+            "lat": 30.0911724,
+            "lng": 31.3264957
+        },
+        {
+            "postal_code": 11761,
+            "address": "29 sound Alzklh u / manor palm / Alfred Street",
+            "post_office": "Ezbet El Nakhl",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11762,
+            "address": "Commercial Market district VIII / m victory next Serag Mall Buildings",
+            "post_office": "Eighth District",
+            "lat": 30.051085,
+            "lng": 31.3655989
+        },
+        {
+            "postal_code": 11765,
+            "address": "Ahmed Fouad breeze u / behind the workforce",
+            "post_office": "Nasr City",
+            "lat": 30.0756687,
+            "lng": 31.3159211
+        },
+        {
+            "postal_code": 11766,
+            "address": "3 Abdel Hamid Salim u / Bridge dome",
+            "post_office": "Bridge dome",
+            "lat": 30.0870553,
+            "lng": 31.291883
+        },
+        {
+            "postal_code": 11767,
+            "address": "1 Mohamed Abdel El Salam St. Abdel Aziz Fahmy / Second Quarter / Nozha",
+            "post_office": "Second Quarter _ Heliopolis",
+            "lat": 30.1065825,
+            "lng": 31.340845
+        },
+        {
+            "postal_code": 11768,
+            "address": "68 Caliph victorious u / District VI",
+            "post_office": "District VI",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11769,
+            "address": "Villas July 23 / Aziz Egyptian / bridge Suez",
+            "post_office": "Shaheed Abdel Moneim Riad",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11771,
+            "address": "Abdel-Hamid Abu Heif St. Heliopolis Court Square",
+            "post_office": "Heliopolis West",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11772,
+            "address": "5 El Mahdy El full moon / Ahmed Esmat",
+            "post_office": "Ain Shams",
+            "lat": 30.1287118,
+            "lng": 31.3462688
+        },
+        {
+            "postal_code": 11773,
+            "address": "81 military factory Balhaixtb Block 8 housing",
+            "post_office": "Haykstep",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11774,
+            "address": "3 Fahmy El Pasha El Caliph Ma'mun",
+            "post_office": "Mansheyet El Bakry",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11775,
+            "address": "Wall camp / Suez Road",
+            "post_office": "Almaza Camp",
+            "lat": 30.1122278,
+            "lng": 31.62242549999999
+        },
+        {
+            "postal_code": 11776,
+            "address": "The old airport building in Cairo / picnic Services Complex",
+            "post_office": "Cairo Airport first",
+            "lat": 30.1128268,
+            "lng": 31.3997904
+        },
+        {
+            "postal_code": 11777,
+            "address": "Maher El Badawi market trade thousand dwelling",
+            "post_office": "Thousandth dwelling",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11779,
+            "address": "Within the leadership of the Air Force / Tamiflu",
+            "post_office": "Air Force",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11781,
+            "address": "Complex services / Ain Shams housing building",
+            "post_office": "Republic Ain Shams",
+            "lat": 30.1279442,
+            "lng": 31.3300184
+        },
+        {
+            "postal_code": 11782,
+            "address": "27 El Fotouh Abdullah / Ain Shams El twentieth",
+            "post_office": "Zahraa Ain Shams",
+            "lat": 30.1279442,
+            "lng": 31.3300184
+        },
+        {
+            "postal_code": 11783,
+            "address": "Cairo International Market / second Nasr City",
+            "post_office": "Cairo International Market",
+            "lat": 30.06529269999999,
+            "lng": 31.3093537
+        },
+        {
+            "postal_code": 11785,
+            "address": "Peace Movement Mail Center building - Alexandria housing",
+            "post_office": "The second city of peace",
+            "lat": 31.2000924,
+            "lng": 29.9187387
+        },
+        {
+            "postal_code": 11786,
+            "address": "Wall Shams Club door 4 / bridge Suez / Nozha",
+            "post_office": "Shams Club",
+            "lat": 30.0895619,
+            "lng": 31.3413473
+        },
+        {
+            "postal_code": 11787,
+            "address": "Ahmed El cliques building village children / Nasr City",
+            "post_office": "Children s Village",
+            "lat": 30.0566104,
+            "lng": 31.3301076
+        },
+        {
+            "postal_code": 11788,
+            "address": "Atlas / Peace Block City housing 1",
+            "post_office": "City of Peace first",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11789,
+            "address": "Central Auditing Organization / Salah Salem St., Nasr City",
+            "post_office": "Central Auditing Organization",
+            "lat": 30.0777502,
+            "lng": 31.3143796
+        },
+        {
+            "postal_code": 11791,
+            "address": "The first phase of a neighboring 4 /",
+            "post_office": "Fifteen May fourth",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11792,
+            "address": "College Helwan technology / building Helwan  ",
+            "post_office": "Faculty of Technology Helwan",
+            "lat": 29.8402707,
+            "lng": 31.29821209999999
+        },
+        {
+            "postal_code": 11793,
+            "address": "Republic u / Kafr Shorafa",
+            "post_office": "Kafr Shorafa",
+            "lat": 30.0722309,
+            "lng": 31.23816189999999
+        },
+        {
+            "postal_code": 11795,
+            "address": "Helwan University / Helwan into building",
+            "post_office": "Helwan University",
+            "lat": 29.8402707,
+            "lng": 31.29821209999999
+        },
+        {
+            "postal_code": 11796,
+            "address": "El Kasr El Aini / mouth of the Gulf",
+            "post_office": "National Institute of Oncology",
+            "lat": 30.0337153,
+            "lng": 31.2333691
+        },
+        {
+            "postal_code": 11797,
+            "address": "Sayeda Zeinab development Zenhom third stage housing",
+            "post_office": "Zenhom Gardens",
+            "lat": 30.023554,
+            "lng": 31.2383129
+        },
+        {
+            "postal_code": 11798,
+            "address": "1 adjacent the first phase",
+            "post_office": "Fifteen May fifth",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11799,
+            "address": "Commercial Market behind the Sheraton Airport Nozha Altaaoinat Buildings",
+            "post_office": "Kindergarten Sheraton",
+            "lat": 30.1128268,
+            "lng": 31.3997904
+        },
+        {
+            "postal_code": 11811,
+            "address": "Transit Salah Salem St. / Nasr City Buildings",
+            "post_office": "Panorama October",
+            "lat": 30.076698,
+            "lng": 31.309105
+        },
+        {
+            "postal_code": 11813,
+            "address": "1 Saudi Buildings Balsuah Olive",
+            "post_office": "Tourists",
+            "lat": 29.8843075,
+            "lng": 31.289766
+        },
+        {
+            "postal_code": 11814,
+            "address": "Inside the village of goods at the airport / Nozha",
+            "post_office": "Cargo Village",
+            "lat": 30.1128268,
+            "lng": 31.3997904
+        },
+        {
+            "postal_code": 11815,
+            "address": "Within the Japanese sports club in Nasr City",
+            "post_office": "Flower Club",
+            "lat": 30.051085,
+            "lng": 31.3655989
+        },
+        {
+            "postal_code": 11816,
+            "address": "General Authority for Investment and Free Zones - Nasr City",
+            "post_office": "Region Aharh_medinh victory",
+            "lat": 30.0711765,
+            "lng": 31.2963999
+        },
+        {
+            "postal_code": 11817,
+            "address": "18 El cooperatives / eighth district Buildings",
+            "post_office": "Andalusia",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11819,
+            "address": "Device Salah Salem / Nasr City by building",
+            "post_office": "Central Agency for Public Mobilization and Statistics",
+            "lat": 30.080302,
+            "lng": 31.3165161
+        },
+        {
+            "postal_code": 11821,
+            "address": "Kafr Abu Sir / u school / turf",
+            "post_office": "Martyrs Abu Sair",
+            "lat": 30.1482649,
+            "lng": 31.38055079999999
+        },
+        {
+            "postal_code": 11822,
+            "address": "Within the transit / Obour City Market",
+            "post_office": "Transit market",
+            "lat": 30.2283408,
+            "lng": 31.4798948
+        },
+        {
+            "postal_code": 11823,
+            "address": "U camp Permanent / Wall Nasr City Club",
+            "post_office": "Nasr City Club",
+            "lat": 30.0561986,
+            "lng": 31.3118003
+        },
+        {
+            "postal_code": 11824,
+            "address": "Sunrise behind the housing secondary air",
+            "post_office": "Secondary air",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11827,
+            "address": "4 u Aviation Administration of Sales Tax / Nasr City",
+            "post_office": "Sales Tax Department _ Aviation",
+            "lat": 30.0566104,
+            "lng": 31.3301076
+        },
+        {
+            "postal_code": 11828,
+            "address": "First Quarter next to the city transit system",
+            "post_office": "Obour City",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11829,
+            "address": "First Quarter / First / Badr City and neighboring",
+            "post_office": "Badr City",
+            "lat": 30.14221049999999,
+            "lng": 31.7413706
+        },
+        {
+            "postal_code": 11831,
+            "address": "Officers City Balhaixtb / Nozha",
+            "post_office": "Housing officers Haykstep",
+            "lat": 30.0659989,
+            "lng": 31.2686283
+        },
+        {
+            "postal_code": 11832,
+            "address": "St. Alinveraoy Community Services Society - Arab Tawayla",
+            "post_office": "Arabs Tawayla",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11833,
+            "address": "Spending Barca Metro Station",
+            "post_office": "Second Prairie",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11834,
+            "address": "Almaza - Services Complex building houses",
+            "post_office": "Unions city Bolmazh",
+            "lat": 30.0916471,
+            "lng": 31.3398668
+        },
+        {
+            "postal_code": 11835,
+            "address": "First Quarter compound V / Nasr City",
+            "post_office": "Rally Av_ New Cairo",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11837,
+            "address": "Sunrise / Commercial Market / Nozha City",
+            "post_office": "Sunrise City",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11838,
+            "address": "Armed Forces Pension Building / Bridge Fangary / Salah Salem",
+            "post_office": "Insurance and pensions of the armed forces",
+            "lat": 30.0431446,
+            "lng": 31.26909959999999
+        },
+        {
+            "postal_code": 11841,
+            "address": "Rehab / New Cairo city / m new",
+            "post_office": "Rehab City",
+            "lat": 30.06602579999999,
+            "lng": 31.4856066
+        },
+        {
+            "postal_code": 11843,
+            "address": "23 division of the city flower and Ramses / end of the promenade new",
+            "post_office": "New Nozha",
+            "lat": 30.0661095,
+            "lng": 31.2589096
+        },
+        {
+            "postal_code": 11844,
+            "address": "Access No. 3 Old Airport lounge",
+            "post_office": "Cairo Airport third closed temporarily",
+            "lat": 30.1106836,
+            "lng": 31.3974821
+        },
+        {
+            "postal_code": 11846,
+            "address": "Obour City - Housing Youth 100",
+            "post_office": "Housing youth transit",
+            "lat": 30.2537961,
+            "lng": 31.4670422
+        },
+        {
+            "postal_code": 11848,
+            "address": "Local Society Development Association Kafr El -Basha",
+            "post_office": "Kafr El Basha",
+            "lat": 30.0257513,
+            "lng": 31.2281048
+        },
+        {
+            "postal_code": 11849,
+            "address": "14 Ibn El field papillary judgment Olive",
+            "post_office": "Papillary olive field",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11851,
+            "address": "Suez Road - Promenades Sakr Factory for Developed Industries",
+            "post_office": "Sakr Factory",
+            "lat": 30.0859921,
+            "lng": 31.9411322
+        },
+        {
+            "postal_code": 11852,
+            "address": "Along Ramses e Press Building",
+            "post_office": "E Press",
+            "lat": 30.0661095,
+            "lng": 31.2589096
+        },
+        {
+            "postal_code": 11861,
+            "address": "Cairo Airport Terminal",
+            "post_office": "Airport exchange",
+            "lat": 30.111939,
+            "lng": 31.396576
+        },
+        {
+            "postal_code": 11863,
+            "address": "Investment Nasr City Building / Land Exhibitions / Salah Salem St.",
+            "post_office": "Investment Authority",
+            "lat": 30.0431446,
+            "lng": 31.26909959999999
+        },
+        {
+            "postal_code": 11864,
+            "address": "Roxy",
+            "post_office": "Algosralziafah",
+            "lat": 30.0926982,
+            "lng": 31.315291
+        },
+        {
+            "postal_code": 11868,
+            "address": "Mustafa Hussein housing - Badr City",
+            "post_office": "Housing east Alrubiky _ Badr City",
+            "lat": 30.00030439999999,
+            "lng": 31.3332421
+        },
+        {
+            "postal_code": 11869,
+            "address": "2 Endowments tourists Square Buildings",
+            "post_office": "Sales Tax Department tourists",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11871,
+            "address": "El Hawary canal / ranches / rain",
+            "post_office": "Azab",
+            "lat": 30.12633259999999,
+            "lng": 31.2935816
+        },
+        {
+            "postal_code": 11895,
+            "address": "Omar bin Abdul Aziz / Helwan St.",
+            "post_office": "Aircraft Factory",
+            "lat": 30.0292064,
+            "lng": 31.2350732
+        },
+        {
+            "postal_code": 11911,
+            "address": "Identification Country Road Nile Corniche /",
+            "post_office": "Identification",
+            "lat": 30.0592757,
+            "lng": 31.22804709999999
+        },
+        {
+            "postal_code": 11912,
+            "address": "Iron and steel housing / Cairo / identification / Block 35",
+            "post_office": "Iron and steel",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11914,
+            "address": "New steel housing / identification / field Bosta",
+            "post_office": "New Steel City",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11917,
+            "address": "Community Development Association next to the cement company",
+            "post_office": "Torah Cement",
+            "lat": 30.083569,
+            "lng": 31.2731614
+        },
+        {
+            "postal_code": 11918,
+            "address": "Helwan Country / Farouk El",
+            "post_office": "Helwan country",
+            "lat": 29.8402707,
+            "lng": 31.29821209999999
+        },
+        {
+            "postal_code": 11919,
+            "address": "Community Development Association / Canal Khashab winepress",
+            "post_office": "Arab Peace",
+            "lat": 30.0798651,
+            "lng": 31.2393975
+        },
+        {
+            "postal_code": 11921,
+            "address": "Residential complex in Helwan American project nearby 3",
+            "post_office": "Residential complex",
+            "lat": 29.8402707,
+            "lng": 31.29821209999999
+        },
+        {
+            "postal_code": 11922,
+            "address": "Gr Maritime / identification / El Salam",
+            "post_office": "Gr Maritime",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11923,
+            "address": "St. Arabs Ghoneim / Cairo",
+            "post_office": "Arabs Ghoneim",
+            "lat": 30.0949894,
+            "lng": 31.2549059
+        },
+        {
+            "postal_code": 11924,
+            "address": "2 El Assiouti Bahjat El Islam Dar es Salaam",
+            "post_office": "Ezbet Khairallah",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11925,
+            "address": "Gamal Abdel Anazarh 10 Helwan facility",
+            "post_office": "Gamal Abdel Nasser facility",
+            "lat": 30.0259929,
+            "lng": 31.2329656
+        },
+        {
+            "postal_code": 11926,
+            "address": "18 adjacent the second stage / May 15",
+            "post_office": "Fifteen May sixth",
+            "lat": 29.8579396,
+            "lng": 31.3884671
+        },
+        {
+            "postal_code": 11927,
+            "address": "22 adjacent the second stage / May 15",
+            "post_office": "Fifteen May seventh",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11928,
+            "address": "Helwan power station housing",
+            "post_office": "Helwan power station",
+            "lat": 29.8402707,
+            "lng": 31.29821209999999
+        },
+        {
+            "postal_code": 11929,
+            "address": "Poultry Nile Corniche station",
+            "post_office": "Corner Helwan",
+            "lat": 30.0592757,
+            "lng": 31.22804709999999
+        },
+        {
+            "postal_code": 11933,
+            "address": "Abdel Moneim Riad St. in Maadi District Court building",
+            "post_office": "Maadi District Court",
+            "lat": 29.9706224,
+            "lng": 31.2666171
+        },
+        {
+            "postal_code": 11936,
+            "address": "Building 13 Nile / Katameya company housing",
+            "post_office": "Katameya",
+            "lat": 29.9642271,
+            "lng": 31.4801444
+        },
+        {
+            "postal_code": 11937,
+            "address": "Neighboring 11 / within the market",
+            "post_office": "Fifteen May eighth",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11938,
+            "address": "Behind Youth Center / Arabs Rashid / Helwan",
+            "post_office": "Arab Bank Rashid",
+            "lat": 29.8402707,
+            "lng": 31.29821209999999
+        },
+        {
+            "postal_code": 14531,
+            "address": "May 15 May 15 city along the adjacent 5.6",
+            "post_office": "May 15 eleven",
+            "lat": 29.8579396,
+            "lng": 31.3884671
+        },
+        {
+            "postal_code": 14541,
+            "address": "May 15 adjacent market 25",
+            "post_office": "Socialize May 15",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 14551,
+            "address": "May 15 nearby market town 28",
+            "post_office": "Ninth May 15",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 17611,
+            "address": "109 Fustat / Ancient Egypt Buildings headquarters of the commercial register interest",
+            "post_office": "Fustat",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 18511,
+            "address": "29 Ahmed Maher St. from Manshiet El Tahrir",
+            "post_office": "Ostrich",
+            "lat": 30.0395657,
+            "lng": 31.2169057
+        },
+        {
+            "postal_code": 19519,
+            "address": "Unit 2 Arabisc Mall Madinaty",
+            "post_office": "Cities",
+            "lat": 30.1060308,
+            "lng": 31.6302753
+        },
+        {
+            "postal_code": 18711,
+            "address": "Military Police headquarters - Ezbet Hagana - 4.5 kilo",
+            "post_office": "Military police",
+            "lat": 30.0769542,
+            "lng": 31.3705993
+        },
+        {
+            "postal_code": 11853,
+            "address": "Suzan Mubarak Housing / New Dwaiqa",
+            "post_office": "New Dweeqa (under construction)",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 11662,
+            "address": "Inside El Abbaseya Shackles Salah Salem St. (frozen)",
+            "post_office": "The Abbasid Clashes - His works were frozen",
+            "lat": 30.068181,
+            "lng": 31.2987988
+        },
+        {
+            "postal_code": 11764,
+            "address": "Fayez Gerges Street from Sinan Street - Zaitoun",
+            "post_office": "Sinan - under construction",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        },
+        {
+            "postal_code": 17621,
+            "address": "Sobhy Hussein area in the settlements of the Bal-Central Plateau - has not been opened",
+            "post_office": "January 25 in Mokattam - not opened",
+            "lat": 30.0444196,
+            "lng": 31.2357116
+        }
+    ]
+}

@@ -1,0 +1,1208 @@
+{
+    "beheira": [
+        {
+            "postal_code": 22511,
+            "address": "St. Directorate -medan station - Damanhur",
+            "post_office": "Damanhur",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22512,
+            "address": "Damanhur / field bus Shubra City",
+            "post_office": "Shubra Aldmanhorih",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22513,
+            "address": "Damanhur City",
+            "post_office": "Makrizy",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22514,
+            "address": "Mustafa Kamel El Beside The SSI - Damanhur",
+            "post_office": "Phrase is",
+            "lat": 31.041167,
+            "lng": 30.4671749
+        },
+        {
+            "postal_code": 22516,
+            "address": "Next to the upper bridge - Damanhur",
+            "post_office": "Government compound in Damanhour",
+            "lat": 31.03795,
+            "lng": 30.4330947
+        },
+        {
+            "postal_code": 22517,
+            "address": "Abu Rish service center - the city of Damanhur",
+            "post_office": "Abu Rish _lakeh",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22518,
+            "address": "Damanhur City",
+            "post_office": "Clicked",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22519,
+            "address": "Damanhur Center",
+            "post_office": "Sentis",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22551,
+            "address": "City Damanhur Qandil Street",
+            "post_office": "City victory Damanhur",
+            "lat": 31.0240612,
+            "lng": 30.45967349999999
+        },
+        {
+            "postal_code": 22611,
+            "address": "The station - the city of Abu Hummus",
+            "post_office": "Abouhmus",
+            "lat": 31.0850705,
+            "lng": 30.3091335
+        },
+        {
+            "postal_code": 22612,
+            "address": "Nasser Street - the city of Abu Hummus",
+            "post_office": "Abouhmus country",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22613,
+            "address": "Abu Hummus / c Center",
+            "post_office": "Jawad Hosni",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22614,
+            "address": "Abu Homs Center",
+            "post_office": "Convoy",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22615,
+            "address": "Abu Homs Center",
+            "post_office": "Facility Dsena",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22616,
+            "address": "Com archways Abu Hummus",
+            "post_office": "Com Spans",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22617,
+            "address": "Abu Homs Center",
+            "post_office": "Palm Marine",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22621,
+            "address": "Kafr Dawar City / Street July 26",
+            "post_office": "Kvraldoar",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22622,
+            "address": "City Kafr Dawar",
+            "post_office": "Kvraldoarveray",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22623,
+            "address": "Kafr Dawar / Parks District Center",
+            "post_office": "Kvraldoar fabric",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22624,
+            "address": "Kafr El Dawar",
+            "post_office": "White housing",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22625,
+            "address": "Kafr El Dawar",
+            "post_office": "Albesgulwn",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22626,
+            "address": "Kafr El Dawar",
+            "post_office": "Antoinads",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22627,
+            "address": "Kafr El Dawar",
+            "post_office": "Carbon",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22628,
+            "address": "Kafr El Dawar",
+            "post_office": "Central Kafr Dawar",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22629,
+            "address": "Kafr El Dawar / Kafr Salim Sea Street",
+            "post_office": "Kafr Salim Lake",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22631,
+            "address": "Kafr El Dawar",
+            "post_office": "Aekrish",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22632,
+            "address": "Kafr El Dawar",
+            "post_office": "Abualazaim",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22633,
+            "address": "City Kafr Dawar",
+            "post_office": "Kvraldoar country",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22634,
+            "address": "Kafr El Dawar",
+            "post_office": "King Osman",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22635,
+            "address": "Kafr El Dawar",
+            "post_office": "Alostanih",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22636,
+            "address": "City Kafr Dawar",
+            "post_office": "Kafr rotor housing",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22638,
+            "address": "Kom Hamada Center",
+            "post_office": "Talaat Harb",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22639,
+            "address": "Kafr El Dawar",
+            "post_office": "Agazzaz plant",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22641,
+            "address": "Almlqh village - Kafr El Dawar",
+            "post_office": "Almlgah",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22642,
+            "address": "Damanhur Center",
+            "post_office": "Facility sieve",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22644,
+            "address": "Kafr El Dawar",
+            "post_office": "Pauline facility",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22645,
+            "address": "Edco Center",
+            "post_office": "Hope facility",
+            "lat": 31.3040251,
+            "lng": 30.306546
+        },
+        {
+            "postal_code": 22676,
+            "address": "Edco Center",
+            "post_office": "Infectious",
+            "lat": 31.3040251,
+            "lng": 30.306546
+        },
+        {
+            "postal_code": 22697,
+            "address": "Edco Center",
+            "post_office": "De Bono",
+            "lat": 31.3040251,
+            "lng": 30.306546
+        },
+        {
+            "postal_code": 22698,
+            "address": "Abu silos Center",
+            "post_office": "Mahdia Abu Matamir",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22699,
+            "address": "Public housing - the city of Abu Matamir",
+            "post_office": "Abu Matamir sub",
+            "lat": 30.911762,
+            "lng": 30.1718502
+        },
+        {
+            "postal_code": 22711,
+            "address": "Damanhur Center",
+            "post_office": "Angle Ghazal",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22712,
+            "address": "Psontway village / Abu Homs Center",
+            "post_office": "Psontway",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22713,
+            "address": "Damanhur Center",
+            "post_office": "Aavadi Damanhur",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22714,
+            "address": "Village Hernob / Damanhur",
+            "post_office": "Hernob",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22715,
+            "address": "Village Kana- Shoubrakhit Center",
+            "post_office": "To Kanah Lake",
+            "lat": 31.0287594,
+            "lng": 30.7148886
+        },
+        {
+            "postal_code": 22716,
+            "address": "Mahmudiya Center",
+            "post_office": "Facility Arimon",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22717,
+            "address": "Mahmudiya Center",
+            "post_office": "Fresh water Psontway",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22721,
+            "address": "Mahmudiya Center",
+            "post_office": "Dirout Lake",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22722,
+            "address": "Aldlnecat Center",
+            "post_office": "Cn Lake",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22723,
+            "address": "Tod village - Kom Hamada Center",
+            "post_office": "Tod Lake",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22724,
+            "address": "Alofiih village - Aldlnecat Center",
+            "post_office": "Preventive",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22725,
+            "address": "Hosh Issa Center",
+            "post_office": "Btors",
+            "lat": 30.9138231,
+            "lng": 30.2946995
+        },
+        {
+            "postal_code": 22726,
+            "address": "Kom village green - monsters Issa Center",
+            "post_office": "Kom green",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22727,
+            "address": "Damanhur / Imad al-Din Street Center",
+            "post_office": "Cicatricule",
+            "lat": 31.0466231,
+            "lng": 30.4734496
+        },
+        {
+            "postal_code": 22728,
+            "address": "El Republic - E architecture - Monsters Isa Town",
+            "post_office": "Monsters Isa",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22729,
+            "address": "Kafr El Dawar",
+            "post_office": "Com Baraka",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22731,
+            "address": "U new institute - Abu Matamir City",
+            "post_office": "Abualmtamir Lake",
+            "lat": 30.911762,
+            "lng": 30.1718502
+        },
+        {
+            "postal_code": 22732,
+            "address": "Abu silos Center",
+            "post_office": "Ganaklis",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22733,
+            "address": "Abu silos Center",
+            "post_office": "Angle Saqr",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22734,
+            "address": "Abu silos Center",
+            "post_office": "Algite",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22735,
+            "address": "Abu silos Center",
+            "post_office": "Com vulva",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22736,
+            "address": "Kafr El Dawar",
+            "post_office": "Sidi Ghazi Kafr Dawar",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22737,
+            "address": "Abu Homs Center",
+            "post_office": "Dsoons",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22738,
+            "address": "Abu Homs Center",
+            "post_office": "Mage Ghattas",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22739,
+            "address": "Abu Homs Center",
+            "post_office": "Belktaralcherqah",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22742,
+            "address": "Sanhour village - Damanhur Center",
+            "post_office": "Sanhour Lake",
+            "lat": 31.0699481,
+            "lng": 30.5595696
+        },
+        {
+            "postal_code": 22743,
+            "address": "Rahmaniyah / Smkhrat Center",
+            "post_office": "Smkhrat",
+            "lat": 31.0952076,
+            "lng": 30.6314948
+        },
+        {
+            "postal_code": 22744,
+            "address": "City Rahmaniyah Court Street",
+            "post_office": "Rahmaniyah",
+            "lat": 31.0952076,
+            "lng": 30.6314948
+        },
+        {
+            "postal_code": 22745,
+            "address": "Rashid City / Omar bin al-Aas Street",
+            "post_office": "Rashid",
+            "lat": 31.3939878,
+            "lng": 30.4148309
+        },
+        {
+            "postal_code": 22746,
+            "address": "Rashid Center",
+            "post_office": "Rashid_lakeh Tower",
+            "lat": 31.3939878,
+            "lng": 30.4148309
+        },
+        {
+            "postal_code": 22747,
+            "address": "Village Albossala - Edco Center Street Station",
+            "post_office": "Bosaily",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22748,
+            "address": "Khairat Street - Edco City",
+            "post_office": "Edco",
+            "lat": 31.3040251,
+            "lng": 30.306546
+        },
+        {
+            "postal_code": 22749,
+            "address": "Edco Center",
+            "post_office": "Trah_lakeh",
+            "lat": 31.3040251,
+            "lng": 30.306546
+        },
+        {
+            "postal_code": 22751,
+            "address": "Abu Matamir Center",
+            "post_office": "Nasser Center",
+            "lat": 30.911762,
+            "lng": 30.1718502
+        },
+        {
+            "postal_code": 22752,
+            "address": "Abu Matamir Center",
+            "post_office": "Farm machine",
+            "lat": 30.911762,
+            "lng": 30.1718502
+        },
+        {
+            "postal_code": 22753,
+            "address": "Mahmudiya City",
+            "post_office": "Mahmudiya sub",
+            "lat": 31.1826476,
+            "lng": 30.525031
+        },
+        {
+            "postal_code": 22754,
+            "address": "Kafr El Dawar",
+            "post_office": "Qhobanyh Abokir_lakeh",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22755,
+            "address": "Public housing - City Shoubrakhit",
+            "post_office": "Shoubrakhit",
+            "lat": 31.0287594,
+            "lng": 30.7148886
+        },
+        {
+            "postal_code": 22756,
+            "address": "Shoubrakhit Center",
+            "post_office": "Misplaced corneous",
+            "lat": 31.0287594,
+            "lng": 30.7148886
+        },
+        {
+            "postal_code": 22757,
+            "address": "Shoubrakhit Center",
+            "post_office": "Replaced humans",
+            "lat": 31.0287594,
+            "lng": 30.7148886
+        },
+        {
+            "postal_code": 22758,
+            "address": "City Edfina Sea / Rasheed Street",
+            "post_office": "Edfina",
+            "lat": 31.2920809,
+            "lng": 30.5143059
+        },
+        {
+            "postal_code": 22759,
+            "address": "Rashid Center",
+            "post_office": "Replaced by Prince",
+            "lat": 31.3939878,
+            "lng": 30.4148309
+        },
+        {
+            "postal_code": 22761,
+            "address": "Mahmudiya Center",
+            "post_office": "Sidi heel",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22762,
+            "address": "City Aldlnecat Market Street",
+            "post_office": "Aldlnecat",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22763,
+            "address": "Good village - Aldlnecat Center",
+            "post_office": "Tiba",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22764,
+            "address": "The village of Kom Zimran - Aldlnecat Center",
+            "post_office": "Com Zimran",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22765,
+            "address": "Edco City",
+            "post_office": "Adco sub",
+            "lat": 31.3040251,
+            "lng": 30.306546
+        },
+        {
+            "postal_code": 22766,
+            "address": "Itay gunpowder Center",
+            "post_office": "Saft freedom",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22767,
+            "address": "Itay gunpowder Center",
+            "post_office": "Alnberh",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22768,
+            "address": "Itay gunpowder Center",
+            "post_office": "Dnchal and Ouja",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22769,
+            "address": "Damanhur City",
+            "post_office": "Avelaqh facility",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22771,
+            "address": "Damanhur Center",
+            "post_office": "Dsoons or BD",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22772,
+            "address": "Mahmudiya Center",
+            "post_office": "Fisha Belkha",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22773,
+            "address": "Headquarters Cooperative Association - Commercial Market",
+            "post_office": "New Nubaria City",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22774,
+            "address": "Shoubrakhit Center",
+            "post_office": "Glory",
+            "lat": 31.0287594,
+            "lng": 30.7148886
+        },
+        {
+            "postal_code": 22775,
+            "address": "Rashid City",
+            "post_office": "Rasheed sub",
+            "lat": 31.3939878,
+            "lng": 30.4148309
+        },
+        {
+            "postal_code": 22777,
+            "address": "Abu Bakr u / center Bdrallakeh",
+            "post_office": "Abu Bakr Badr Center",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22778,
+            "address": "Shoubrakhit Center",
+            "post_office": "Alredan",
+            "lat": 31.0287594,
+            "lng": 30.7148886
+        },
+        {
+            "postal_code": 22779,
+            "address": "Ahmad Badawi St. - Nubaria - lake",
+            "post_office": "Ahmad Badawi",
+            "lat": 30.6991175,
+            "lng": 30.6685904
+        },
+        {
+            "postal_code": 22781,
+            "address": "Aldlnecat Center",
+            "post_office": "Flowers princes",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22782,
+            "address": "The village of Imam Hussein - Aldlnecat Center",
+            "post_office": "Imam Hussein",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22783,
+            "address": "Edfina City",
+            "post_office": "Edfina Mail housing",
+            "lat": 31.2920809,
+            "lng": 30.5143059
+        },
+        {
+            "postal_code": 22784,
+            "address": "Abu Homs Center",
+            "post_office": "Licorice",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22785,
+            "address": "Kom Hamada Center",
+            "post_office": "Mohamed Refaat",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22786,
+            "address": "Aldlnecat Center",
+            "post_office": "In front of Ibn Abi Taleb",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22787,
+            "address": "Abu silos Center",
+            "post_office": "Pioneers of peace",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22788,
+            "address": "Aldlnecat Center",
+            "post_office": "Ahadjramahrouk_lakeh",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22789,
+            "address": "Shoubrakhit Center",
+            "post_office": "Kvreddfraoy Lake",
+            "lat": 31.0287594,
+            "lng": 30.7148886
+        },
+        {
+            "postal_code": 22791,
+            "address": "Village courage - Supplies - lake",
+            "post_office": "Courage",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22792,
+            "address": "Village fulfill - the lake",
+            "post_office": "Village fulfill",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22793,
+            "address": "Hosh Issa Center",
+            "post_office": "Abualhqav _lakeh",
+            "lat": 30.9138231,
+            "lng": 30.2946995
+        },
+        {
+            "postal_code": 22794,
+            "address": "Edco Center",
+            "post_office": "Village 7",
+            "lat": 31.3040251,
+            "lng": 30.306546
+        },
+        {
+            "postal_code": 22795,
+            "address": "Shoubrakhit Center",
+            "post_office": "Kafr Mstnad",
+            "lat": 31.0287594,
+            "lng": 30.7148886
+        },
+        {
+            "postal_code": 22796,
+            "address": "Salah Salem St. -City Aldlnecat",
+            "post_office": "Aldlnecat sub",
+            "lat": 30.0493743,
+            "lng": 31.2746281
+        },
+        {
+            "postal_code": 22811,
+            "address": "Itay gunpowder",
+            "post_office": "Tawfeqya",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22812,
+            "address": "Aldahria village - Itai Center gunpowder",
+            "post_office": "Aldahrah",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22813,
+            "address": "Itay gunpowder Center",
+            "post_office": "Hst Anaam",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22814,
+            "address": "Itay gunpowder Center",
+            "post_office": "Shapur",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22815,
+            "address": "Kom Hamada Center",
+            "post_office": "Abu st",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22816,
+            "address": "Kom Hamada Center",
+            "post_office": "Alqam",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22817,
+            "address": "Village Fazarah - Mahmudiyah Center",
+            "post_office": "Fazarah",
+            "lat": 31.2639583,
+            "lng": 30.5063187
+        },
+        {
+            "postal_code": 22821,
+            "address": "Kom Hamada / ALmazlagan Street City",
+            "post_office": "Kom Hamada",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22822,
+            "address": "Kafr Pauline - Kom Hamada Center",
+            "post_office": "Kafr Pauline",
+            "lat": 30.7330014,
+            "lng": 30.7357362
+        },
+        {
+            "postal_code": 22823,
+            "address": "Kom Hamada Center",
+            "post_office": "Pipan",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22824,
+            "address": "Kom Hamada Center",
+            "post_office": "Kharbatha",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22825,
+            "address": "Kom Hamada Center",
+            "post_office": "Dest Najaf",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22826,
+            "address": "El Tahrir - the city of Kom Hamada",
+            "post_office": "Kom Hamada sub",
+            "lat": 30.0439275,
+            "lng": 31.2317191
+        },
+        {
+            "postal_code": 22827,
+            "address": "Kom Hamada Center",
+            "post_office": "Binomial",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22828,
+            "address": "Kom Hamada Center",
+            "post_office": "Kffersaadeh_allakeh",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22829,
+            "address": "Kom Hamada Center",
+            "post_office": "Sawaf",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22831,
+            "address": "Badr Center",
+            "post_office": "Editing directors",
+            "lat": 30.5825642,
+            "lng": 30.7062535
+        },
+        {
+            "postal_code": 22832,
+            "address": "Kom Hamada Center",
+            "post_office": "Mrkzbdrlakeh",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22833,
+            "address": "Kom Hamada Center",
+            "post_office": "Alfath_lakeh",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22834,
+            "address": "Kom Hamada Center",
+            "post_office": "Success Kom Hamada",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22835,
+            "address": "Kom Hamada Center",
+            "post_office": "Majeed Myers",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22836,
+            "address": "Kom Hamada Center",
+            "post_office": "Nabil Stoker _ Lake",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22837,
+            "address": "Kafr El Dawar",
+            "post_office": "Flower",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22838,
+            "address": "Kom Hamada Center",
+            "post_office": "Khnezh",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22839,
+            "address": "Kom Hamada Center",
+            "post_office": "Salahuddin",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22841,
+            "address": "Itay gunpowder Center",
+            "post_office": "Jabbars _lakeh",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22842,
+            "address": "Interested in the village - Itai Center gunpowder",
+            "post_office": "A certain lake",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22843,
+            "address": "Shoubrakhit Center /",
+            "post_office": "Oren",
+            "lat": 31.0287594,
+            "lng": 30.7148886
+        },
+        {
+            "postal_code": 22844,
+            "address": "Itay gunpowder Center",
+            "post_office": "Armenia",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22845,
+            "address": "Itay gunpowder Center",
+            "post_office": "Ncla grapes",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22846,
+            "address": "Itay gunpowder Center",
+            "post_office": "Fliscan",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22847,
+            "address": "Kom Hamada",
+            "post_office": "Saft grapes",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22848,
+            "address": "Kom Hamada / village center Waqid",
+            "post_office": "ARRIVAL",
+            "lat": 30.6921484,
+            "lng": 30.7428375
+        },
+        {
+            "postal_code": 22849,
+            "address": "Village turf - Kom Hamada Center",
+            "post_office": "Saling Lake",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22851,
+            "address": "Kom Hamada Center",
+            "post_office": "Avium",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22852,
+            "address": "Kom Hamada Center",
+            "post_office": "Com partner",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22853,
+            "address": "Kom Hamada Center",
+            "post_office": "Albraijat",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22854,
+            "address": "Itay gunpowder Center",
+            "post_office": "Semen built Mansour",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22855,
+            "address": "Kom Hamada Center",
+            "post_office": "Omar Shahin",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22856,
+            "address": "Crossing the field and led Nitrite / lake",
+            "post_office": "Wadi Natrun",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22857,
+            "address": "Kom Hamada Center",
+            "post_office": "Avium country",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22858,
+            "address": "Itay gunpowder Center",
+            "post_office": "Island Ncla",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22859,
+            "address": "Kom Hamada Center",
+            "post_office": "Damishl",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22863,
+            "address": "Kom Hamada Center",
+            "post_office": "Shubra Osim",
+            "lat": 30.7634044,
+            "lng": 30.6967574
+        },
+        {
+            "postal_code": 22864,
+            "address": "Itay gunpowder Center",
+            "post_office": "Junboay",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22865,
+            "address": "Shoubrakhit Center",
+            "post_office": "Abu Mnjoj",
+            "lat": 31.0287594,
+            "lng": 30.7148886
+        },
+        {
+            "postal_code": 22951,
+            "address": "Quetta city gunpowder / Republic Street",
+            "post_office": "Etay El gunpowder",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22952,
+            "address": "Itay gunpowder Center",
+            "post_office": "Amlait",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22953,
+            "address": "Itay gunpowder City",
+            "post_office": "Etay El gunpowder sub",
+            "lat": 30.8480986,
+            "lng": 30.3435506
+        },
+        {
+            "postal_code": 22869,
+            "address": "Battle Village / Badr Center",
+            "post_office": "The battle",
+            "lat": 30.5743153,
+            "lng": 30.7158805
+        },
+        {
+            "postal_code": 22694,
+            "address": "The village 19 meat center Abu al - Matamir",
+            "post_office": "Village 19 Meat",
+            "lat": 30.911762,
+            "lng": 30.1718502
+        },
+        {
+            "postal_code": 22647,
+            "address": "The Dance Center - Damanhour Center",
+            "post_office": "Dancing",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        },
+        {
+            "postal_code": 22871,
+            "address": "Abou Homs Center",
+            "post_office": "Abu Kabaria",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22648,
+            "address": "Kafr El Dawar Center",
+            "post_office": "The churches",
+            "lat": 31.13403569999999,
+            "lng": 30.133566
+        },
+        {
+            "postal_code": 22693,
+            "address": "The Eighth Village Seeds - Abou El Matamir Center",
+            "post_office": "Nubased",
+            "lat": 30.911762,
+            "lng": 30.1718502
+        },
+        {
+            "postal_code": 22618,
+            "address": "Abou Homs Center",
+            "post_office": "Abou Homs Farai",
+            "lat": 31.1007602,
+            "lng": 30.3158808
+        },
+        {
+            "postal_code": 22649,
+            "address": "Kafr Bani Helal - Damanhour Center",
+            "post_office": "Kafr Bani Helal",
+            "lat": 31.0424566,
+            "lng": 30.4727503
+        }
+    ]
+}
